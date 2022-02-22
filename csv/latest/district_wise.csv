@@ -1,766 +1,770 @@
 SlNo,State_Code,State,District_Key,District,Confirmed,Active,Recovered,Deceased,Migrated_Other,Delta_Confirmed,Delta_Active,Delta_Recovered,Delta_Deceased,District_Notes,Last_Updated
-0,AP,Andhra Pradesh,AP_Andhra Pradesh,Anantapur,177070,133,175832,1105,0,33,5,28,0,0.0,2022-02-21 13:14:48.816
-1,AP,Andhra Pradesh,AP_Andhra Pradesh,Chittoor,272178,232,269953,1993,0,16,-47,62,1,0.0,2022-02-21 13:14:48.816
-2,AP,Andhra Pradesh,AP_Andhra Pradesh,East Godavari,316027,3120,311609,1298,0,52,-198,250,0,0.0,2022-02-21 13:14:48.816
-3,AP,Andhra Pradesh,AP_Andhra Pradesh,Guntur,202844,493,201075,1276,0,36,-67,103,0,0.0,2022-02-21 13:14:48.816
-4,AP,Andhra Pradesh,AP_Andhra Pradesh,Krishna,136591,985,134115,1491,0,26,-197,222,1,0.0,2022-02-21 13:14:48.816
-5,AP,Andhra Pradesh,AP_Andhra Pradesh,Kurnool,144213,64,143282,867,0,4,-11,15,0,0.0,2022-02-21 13:14:48.816
-6,AP,Andhra Pradesh,AP_Andhra Pradesh,Other Countries,434,0,434,0,0,0,0,0,0,0.0,2022-02-21 13:14:48.816
-7,AP,Andhra Pradesh,AP_Andhra Pradesh,Other States,2461,0,2461,0,0,0,0,0,0,0.0,2022-02-21 13:14:48.816
-8,AP,Andhra Pradesh,AP_Andhra Pradesh,Prakasam,155737,326,154265,1146,0,25,-131,156,0,0.0,2022-02-21 13:14:48.816
-9,AP,Andhra Pradesh,AP_Andhra Pradesh,S.P.S. Nellore,164231,169,162973,1089,0,19,-6,25,0,0.0,2022-02-21 13:14:48.816
-10,AP,Andhra Pradesh,AP_Andhra Pradesh,Srikakulam,133912,47,133067,798,0,1,-21,22,0,0.0,2022-02-21 13:14:48.816
-11,AP,Andhra Pradesh,AP_Andhra Pradesh,Visakhapatnam,190655,100,189372,1183,0,18,16,2,0,0.0,2022-02-21 13:14:48.816
-12,AP,Andhra Pradesh,AP_Andhra Pradesh,Vizianagaram,92208,82,91447,679,0,3,-12,15,0,0.0,2022-02-21 13:14:48.816
-13,AP,Andhra Pradesh,AP_Andhra Pradesh,West Godavari,192942,888,190918,1136,0,84,77,6,1,0.0,2022-02-21 13:14:48.816
-14,AP,Andhra Pradesh,AP_Andhra Pradesh,Y.S.R. Kadapa,134782,115,134015,652,0,18,-12,30,0,0.0,2022-02-21 13:14:48.816
-15,AR,Arunachal Pradesh,AR_Arunachal Pradesh,Anjaw,1131,6,1122,3,0,0,0,0,0,0.0,2022-02-20 20:55:50.878618
-16,AR,Arunachal Pradesh,AR_Arunachal Pradesh,Changlang,4253,10,4221,22,0,0,0,0,0,0.0,2022-02-20 20:55:50.878642
-17,AR,Arunachal Pradesh,AR_Arunachal Pradesh,East Kameng,1215,3,1212,0,0,0,0,0,0,0.0,2022-02-20 20:55:50.878646
-18,AR,Arunachal Pradesh,AR_Arunachal Pradesh,East Siang,3664,2,3644,18,0,0,-5,5,0,0.0,2022-02-20 20:55:50.878645
-19,AR,Arunachal Pradesh,AR_Arunachal Pradesh,Kamle,583,9,574,0,0,0,0,0,0,0.0,2022-02-20 20:55:50.878647
-20,AR,Arunachal Pradesh,AR_Arunachal Pradesh,Kra Daadi,270,0,270,0,0,0,0,0,0,0.0,2022-02-20 20:55:50.878650
-21,AR,Arunachal Pradesh,AR_Arunachal Pradesh,Kurung Kumey,526,0,525,1,0,0,0,0,0,0.0,2022-02-20 20:55:50.878775
-22,AR,Arunachal Pradesh,AR_Arunachal Pradesh,Lepa Rada,1026,4,1019,3,0,0,0,0,0,0.0,2022-02-20 20:55:50.878776
-23,AR,Arunachal Pradesh,AR_Arunachal Pradesh,Lohit,3400,19,3352,29,0,1,-1,2,0,0.0,2022-02-20 20:55:50.878778
-24,AR,Arunachal Pradesh,AR_Arunachal Pradesh,Longding,920,18,900,2,0,1,1,0,0,0.0,2022-02-20 20:55:50.878779
-25,AR,Arunachal Pradesh,AR_Arunachal Pradesh,Lower Dibang Valley,2839,9,2817,13,0,0,0,0,0,0.0,2022-02-20 20:55:50.878781
-26,AR,Arunachal Pradesh,AR_Arunachal Pradesh,Lower Siang,831,1,822,8,0,0,0,0,0,0.0,2022-02-20 20:55:50.878782
-27,AR,Arunachal Pradesh,AR_Arunachal Pradesh,Lower Subansiri,3584,20,3549,15,0,1,-8,9,0,0.0,2022-02-20 20:55:50.878783
-28,AR,Arunachal Pradesh,AR_Arunachal Pradesh,Namsai,2702,26,2659,17,0,1,0,1,0,0.0,2022-02-20 20:55:50.878785
-29,AR,Arunachal Pradesh,AR_Arunachal Pradesh,Pakke Kessang,497,1,496,0,0,0,0,0,0,0.0,2022-02-20 20:55:50.878787
-30,AR,Arunachal Pradesh,AR_Arunachal Pradesh,Papum Pare,22034,58,21871,105,0,2,-7,9,0,0.0,2022-02-20 20:55:50.878639
-31,AR,Arunachal Pradesh,AR_Arunachal Pradesh,Shi Yomi,305,0,305,0,0,0,0,0,0,0.0,2022-02-20 20:55:50.878788
-32,AR,Arunachal Pradesh,AR_Arunachal Pradesh,Siang,440,0,437,3,0,0,0,0,0,0.0,2022-02-20 20:55:50.878789
-33,AR,Arunachal Pradesh,AR_Arunachal Pradesh,Tawang,2908,33,2854,21,0,2,1,1,0,0.0,2022-02-20 20:55:50.878791
-34,AR,Arunachal Pradesh,AR_Arunachal Pradesh,Tirap,1260,3,1252,5,0,1,0,1,0,0.0,2022-02-20 20:55:50.878792
-35,AR,Arunachal Pradesh,AR_Arunachal Pradesh,Upper Dibang Valley,413,23,388,2,0,0,0,0,0,0.0,2022-02-20 20:55:50.878643
-36,AR,Arunachal Pradesh,AR_Arunachal Pradesh,Upper Siang,1163,19,1143,1,0,0,0,0,0,0.0,2022-02-20 20:55:50.878794
-37,AR,Arunachal Pradesh,AR_Arunachal Pradesh,Upper Subansiri,2022,3,2012,7,0,0,0,0,0,0.0,2022-02-20 20:55:50.878795
-38,AR,Arunachal Pradesh,AR_Arunachal Pradesh,West Kameng,4263,34,4214,15,0,0,-1,1,0,0.0,2022-02-20 20:55:50.878797
-39,AR,Arunachal Pradesh,AR_Arunachal Pradesh,West Siang,2030,1,2023,6,0,0,0,0,0,0.0,2022-02-20 20:55:50.878798
-40,AS,Assam,AS_Assam,Airport Quarantine,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-41,AS,Assam,AS_Assam,Baksa,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-42,AS,Assam,AS_Assam,Barpeta,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-43,AS,Assam,AS_Assam,Biswanath,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-44,AS,Assam,AS_Assam,Bongaigaon,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-45,AS,Assam,AS_Assam,Cachar,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-46,AS,Assam,AS_Assam,Charaideo,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-47,AS,Assam,AS_Assam,Chirang,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-48,AS,Assam,AS_Assam,Darrang,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-49,AS,Assam,AS_Assam,Dhemaji,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-50,AS,Assam,AS_Assam,Dhubri,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-51,AS,Assam,AS_Assam,Dibrugarh,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-52,AS,Assam,AS_Assam,Dima Hasao,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-53,AS,Assam,AS_Assam,Goalpara,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-54,AS,Assam,AS_Assam,Golaghat,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-55,AS,Assam,AS_Assam,Hailakandi,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-56,AS,Assam,AS_Assam,Hojai,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-57,AS,Assam,AS_Assam,Jorhat,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-58,AS,Assam,AS_Assam,Kamrup,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-59,AS,Assam,AS_Assam,Kamrup Metropolitan,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-60,AS,Assam,AS_Assam,Karbi Anglong,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-61,AS,Assam,AS_Assam,Karimganj,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-62,AS,Assam,AS_Assam,Kokrajhar,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-63,AS,Assam,AS_Assam,Lakhimpur,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-64,AS,Assam,AS_Assam,Majuli,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-65,AS,Assam,AS_Assam,Morigaon,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-66,AS,Assam,AS_Assam,Nagaon,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-67,AS,Assam,AS_Assam,Nalbari,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-68,AS,Assam,AS_Assam,Other State,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-69,AS,Assam,AS_Assam,Sivasagar,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-70,AS,Assam,AS_Assam,Sonitpur,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-71,AS,Assam,AS_Assam,South Salmara Mankachar,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-72,AS,Assam,AS_Assam,Tinsukia,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-73,AS,Assam,AS_Assam,Udalguri,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-74,AS,Assam,AS_Assam,Unknown,723949,1862,715456,6631,0,13,-298,309,2,0.0,2022-02-21 11:55:28.829132
-75,AS,Assam,AS_Assam,West Karbi Anglong,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-76,BR,Bihar,BR_Bihar,Araria,16103,4,15959,140,0,0,0,0,0,0.0,2022-02-20 21:55:11.867075
-77,BR,Bihar,BR_Bihar,Arwal,8217,8,8100,109,0,4,2,2,0,0.0,2022-02-20 21:55:11.867093
-78,BR,Bihar,BR_Bihar,Aurangabad,21279,10,21190,79,0,1,-4,5,0,0.0,2022-02-20 21:55:11.867095
-79,BR,Bihar,BR_Bihar,Banka,8762,9,8640,113,0,0,-1,1,0,0.0,2022-02-20 21:55:11.867096
-80,BR,Bihar,BR_Bihar,Begusarai,31401,7,30831,563,0,1,-2,3,0,0.0,2022-02-20 21:55:11.867098
-81,BR,Bihar,BR_Bihar,Bhagalpur,28966,7,28597,362,0,0,-2,2,0,0.0,2022-02-20 21:55:11.867099
-82,BR,Bihar,BR_Bihar,Bhojpur,11915,18,11657,240,0,6,3,3,0,0.0,2022-02-20 21:55:11.867100
-83,BR,Bihar,BR_Bihar,Buxar,10373,14,10140,219,0,2,2,0,0,0.0,2022-02-20 21:55:11.867102
-84,BR,Bihar,BR_Bihar,Darbhanga,13489,13,13105,371,0,0,-1,1,0,0.0,2022-02-20 21:55:11.867106
-85,BR,Bihar,BR_Bihar,East Champaran,21062,14,20512,536,0,0,-1,1,0,0.0,2022-02-20 21:55:11.867129
-86,BR,Bihar,BR_Bihar,Gaya,37155,12,36770,373,0,3,2,1,0,0.0,2022-02-20 21:55:11.867107
-87,BR,Bihar,BR_Bihar,Gopalganj,17836,16,17560,260,0,0,-2,2,0,0.0,2022-02-20 21:55:11.867109
-88,BR,Bihar,BR_Bihar,Jamui,11005,3,10882,120,0,0,-1,1,0,0.0,2022-02-20 21:55:11.867110
-89,BR,Bihar,BR_Bihar,Jehanabad,11845,1,11600,244,0,0,0,0,0,0.0,2022-02-20 21:55:11.867111
-90,BR,Bihar,BR_Bihar,Kaimur,5638,2,5489,147,0,0,0,0,0,0.0,2022-02-20 21:55:11.867112
-91,BR,Bihar,BR_Bihar,Katihar,19908,6,19633,269,0,3,0,3,0,0.0,2022-02-20 21:55:11.867113
-92,BR,Bihar,BR_Bihar,Khagaria,10660,0,10495,165,0,0,0,0,0,0.0,2022-02-20 21:55:11.867115
-93,BR,Bihar,BR_Bihar,Kishanganj,11292,3,11182,107,0,0,-2,2,0,0.0,2022-02-20 21:55:11.867116
-94,BR,Bihar,BR_Bihar,Lakhisarai,8604,2,8499,103,0,0,-1,1,0,0.0,2022-02-20 21:55:11.867117
-95,BR,Bihar,BR_Bihar,Madhepura,15074,11,14948,115,0,2,-1,3,0,0.0,2022-02-20 21:55:11.867119
-96,BR,Bihar,BR_Bihar,Madhubani,20074,7,19678,389,0,0,-3,3,0,0.0,2022-02-20 21:55:11.867120
-97,BR,Bihar,BR_Bihar,Munger,17838,6,17559,273,0,0,-1,1,0,0.0,2022-02-20 21:55:11.867122
-98,BR,Bihar,BR_Bihar,Muzaffarpur,36146,16,35501,629,0,0,-1,1,0,0.0,2022-02-20 21:55:11.867123
-99,BR,Bihar,BR_Bihar,Nalanda,25486,4,25008,474,0,1,1,0,0,0.0,2022-02-20 21:55:11.867124
-100,BR,Bihar,BR_Bihar,Nawada,11067,7,10802,258,0,2,-1,3,0,0.0,2022-02-20 21:55:11.867125
-101,BR,Bihar,BR_Bihar,Patna,180349,235,177274,2840,0,11,-10,21,0,0.0,2022-02-20 21:55:11.867128
-102,BR,Bihar,BR_Bihar,Purnia,27950,26,27692,232,0,1,-13,14,0,0.0,2022-02-20 21:55:11.867131
-103,BR,Bihar,BR_Bihar,Rohtas,15439,8,15157,274,0,0,-3,3,0,0.0,2022-02-20 21:55:11.867132
-104,BR,Bihar,BR_Bihar,Saharsa,20143,47,19899,197,0,9,4,5,0,0.0,2022-02-20 21:55:11.867133
-105,BR,Bihar,BR_Bihar,Samastipur,24993,38,24695,260,0,0,-6,6,0,0.0,2022-02-20 21:55:11.867135
-106,BR,Bihar,BR_Bihar,Saran,26161,11,25890,260,0,1,0,1,0,0.0,2022-02-20 21:55:11.867137
-107,BR,Bihar,BR_Bihar,Sheikhpura,8020,7,7908,105,0,3,2,1,0,0.0,2022-02-20 21:55:11.867138
-108,BR,Bihar,BR_Bihar,Sheohar,4731,1,4678,52,0,0,-1,1,0,0.0,2022-02-20 21:55:11.867139
-109,BR,Bihar,BR_Bihar,Sitamarhi,10532,10,10392,130,0,3,1,2,0,0.0,2022-02-20 21:55:11.867140
-110,BR,Bihar,BR_Bihar,Siwan,16521,13,16221,287,0,1,0,1,0,0.0,2022-02-20 21:55:11.867141
-111,BR,Bihar,BR_Bihar,Supaul,18214,20,18037,157,0,1,-2,3,0,0.0,2022-02-20 21:55:11.867143
-112,BR,Bihar,BR_Bihar,Vaishali,22413,11,21994,408,0,1,-4,5,0,0.0,2022-02-20 21:55:11.867144
-113,BR,Bihar,BR_Bihar,West Champaran,23018,30,22593,395,0,4,0,4,0,0.0,2022-02-20 21:55:11.867127
-114,CT,Chhattisgarh,CT_Chhattisgarh,Balod,29389,76,28905,408,0,1,1,0,0,0.0,2022-02-20 21:55:19.078726
-115,CT,Chhattisgarh,CT_Chhattisgarh,Baloda Bazar,45172,177,44499,496,0,0,-2,2,0,0.0,2022-02-20 21:55:19.078733
-116,CT,Chhattisgarh,CT_Chhattisgarh,Balrampur,22205,189,21895,121,0,13,7,6,0,0.0,2022-02-20 21:55:19.078751
-117,CT,Chhattisgarh,CT_Chhattisgarh,Bametara,21554,199,21107,248,0,1,1,0,0,0.0,2022-02-20 21:55:19.078727
-118,CT,Chhattisgarh,CT_Chhattisgarh,Bastar,24097,74,23824,199,0,2,-11,13,0,0.0,2022-02-20 21:55:19.078753
-119,CT,Chhattisgarh,CT_Chhattisgarh,Bijapur,9745,95,9593,57,0,1,-11,12,0,0.0,2022-02-20 21:55:19.078761
-120,CT,Chhattisgarh,CT_Chhattisgarh,Bilaspur,75693,243,74214,1236,0,14,-19,33,0,0.0,2022-02-20 21:55:19.078739
-121,CT,Chhattisgarh,CT_Chhattisgarh,Dakshin Bastar Dantewada,12098,14,12057,27,0,1,-2,3,0,0.0,2022-02-20 21:55:19.078756
-122,CT,Chhattisgarh,CT_Chhattisgarh,Dhamtari,31549,140,30849,560,0,25,-6,31,0,0.0,2022-02-20 21:55:19.078731
-123,CT,Chhattisgarh,CT_Chhattisgarh,Durg,115992,221,113876,1895,0,22,6,16,0,0.0,2022-02-20 21:55:19.078711
-124,CT,Chhattisgarh,CT_Chhattisgarh,Gariaband,20545,11,20338,196,0,0,0,0,0,0.0,2022-02-20 21:55:19.078737
-125,CT,Chhattisgarh,CT_Chhattisgarh,Gaurela Pendra Marwahi,13157,41,12968,148,0,7,-7,14,0,0.0,2022-02-20 21:55:19.078746
-126,CT,Chhattisgarh,CT_Chhattisgarh,Janjgir Champa,63434,60,62512,862,0,3,-14,17,0,0.0,2022-02-20 21:55:19.078743
-127,CT,Chhattisgarh,CT_Chhattisgarh,Jashpur,31362,54,31093,215,0,14,14,0,0,0.0,2022-02-20 21:55:19.078752
-128,CT,Chhattisgarh,CT_Chhattisgarh,Kabeerdham,24681,124,24288,269,0,2,-13,15,0,0.0,2022-02-20 21:55:19.078729
-129,CT,Chhattisgarh,CT_Chhattisgarh,Kondagaon,15847,158,15587,102,0,11,11,0,0,0.0,2022-02-20 21:55:19.078755
-130,CT,Chhattisgarh,CT_Chhattisgarh,Korba,62904,199,62105,600,0,6,-21,27,0,0.0,2022-02-20 21:55:19.078742
-131,CT,Chhattisgarh,CT_Chhattisgarh,Koriya,29383,77,29125,181,0,7,-10,17,0,0.0,2022-02-20 21:55:19.078748
-132,CT,Chhattisgarh,CT_Chhattisgarh,Mahasamund,33006,42,32589,375,0,0,-17,17,0,0.0,2022-02-20 21:55:19.078736
-133,CT,Chhattisgarh,CT_Chhattisgarh,Mungeli,25943,140,25634,169,0,1,1,0,0,0.0,2022-02-20 21:55:19.078744
-134,CT,Chhattisgarh,CT_Chhattisgarh,Narayanpur,4925,37,4874,14,0,1,-3,4,0,0.0,2022-02-20 21:55:19.078760
-135,CT,Chhattisgarh,CT_Chhattisgarh,Other State,852,0,721,131,0,0,0,0,0,0.0,2022-02-20 21:55:19.078762
-136,CT,Chhattisgarh,CT_Chhattisgarh,Raigarh,73341,63,72285,993,0,17,16,1,0,0.0,2022-02-20 21:55:19.078740
-137,CT,Chhattisgarh,CT_Chhattisgarh,Raipur,193411,473,189703,3235,0,21,-44,65,0,0.0,2022-02-20 21:55:19.078730
-138,CT,Chhattisgarh,CT_Chhattisgarh,Rajnandgaon,62973,105,62321,547,0,5,1,4,0,0.0,2022-02-20 21:55:19.078724
-139,CT,Chhattisgarh,CT_Chhattisgarh,Sukma,8968,0,8947,21,0,0,-2,2,0,0.0,2022-02-20 21:55:19.078757
-140,CT,Chhattisgarh,CT_Chhattisgarh,Surajpur,31762,206,31327,229,0,10,-9,19,0,0.0,2022-02-20 21:55:19.078749
-141,CT,Chhattisgarh,CT_Chhattisgarh,Surguja,37468,111,37107,250,0,14,-7,21,0,0.0,2022-02-20 21:55:19.078747
-142,CT,Chhattisgarh,CT_Chhattisgarh,Uttar Bastar Kanker,27946,75,27634,237,0,6,5,1,0,0.0,2022-02-20 21:55:19.078758
-143,GA,Goa,GA_Goa,North Goa,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-144,GA,Goa,GA_Goa,Other State,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-145,GA,Goa,GA_Goa,South Goa,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-146,GA,Goa,GA_Goa,Unknown,244713,570,240351,3792,0,40,-107,144,3,0.0,2022-02-21 11:55:28.829132
-147,GJ,Gujarat,GJ_Gujarat,Ahmedabad,383090,1863,377611,3616,0,136,-288,424,0,0.0,2022-02-20 23:57:38.624532
-148,GJ,Gujarat,GJ_Gujarat,Amreli,12886,16,12765,105,0,1,-1,2,0,0.0,2022-02-20 23:57:38.624532
-149,GJ,Gujarat,GJ_Gujarat,Anand,15381,71,15257,53,0,4,-10,14,0,0.0,2022-02-20 23:57:38.624532
-150,GJ,Gujarat,GJ_Gujarat,Aravalli,5711,62,5568,81,0,15,9,6,0,0.0,2022-02-20 23:57:38.624532
-151,GJ,Gujarat,GJ_Gujarat,Banaskantha,18205,200,17839,166,0,18,-54,72,0,0.0,2022-02-20 23:57:38.624532
-152,GJ,Gujarat,GJ_Gujarat,Bharuch,17260,29,17082,149,0,3,-10,13,0,0.0,2022-02-20 23:57:38.624532
-153,GJ,Gujarat,GJ_Gujarat,Bhavnagar,29213,32,28820,361,0,5,0,4,1,0.0,2022-02-20 23:57:38.624532
-154,GJ,Gujarat,GJ_Gujarat,Botad,2356,0,2308,48,0,0,-1,1,0,0.0,2022-02-20 23:57:38.624532
-155,GJ,Gujarat,GJ_Gujarat,Chhota Udaipur,3752,20,3694,38,0,0,-3,3,0,0.0,2022-02-20 23:57:38.624532
-156,GJ,Gujarat,GJ_Gujarat,Dahod,11246,40,11161,45,0,3,-4,7,0,0.0,2022-02-20 23:57:38.624532
-157,GJ,Gujarat,GJ_Gujarat,Dang,1199,32,1149,18,0,2,2,0,0,0.0,2022-02-20 23:57:38.624532
-158,GJ,Gujarat,GJ_Gujarat,Devbhumi Dwarka,5176,21,5066,89,0,0,0,0,0,0.0,2022-02-20 23:57:38.624532
-159,GJ,Gujarat,GJ_Gujarat,Gandhinagar,34887,289,34376,222,0,18,-33,51,0,0.0,2022-02-20 23:57:38.624532
-160,GJ,Gujarat,GJ_Gujarat,Gir Somnath,9739,5,9667,67,0,1,-8,9,0,0.0,2022-02-20 23:57:38.624532
-161,GJ,Gujarat,GJ_Gujarat,Jamnagar,41810,69,41225,516,0,1,-16,15,2,0.0,2022-02-20 23:57:38.624532
-162,GJ,Gujarat,GJ_Gujarat,Junagadh,22755,6,22477,272,0,0,-2,2,0,0.0,2022-02-20 23:57:38.624532
-163,GJ,Gujarat,GJ_Gujarat,Kheda,14652,63,14535,54,0,8,-18,26,0,0.0,2022-02-20 23:57:38.624532
-164,GJ,Gujarat,GJ_Gujarat,Kutch,18962,55,18761,146,0,7,-19,26,0,0.0,2022-02-20 23:57:38.624532
-165,GJ,Gujarat,GJ_Gujarat,Mahisagar,8862,21,8766,75,0,3,-2,5,0,0.0,2022-02-20 23:57:38.624532
-166,GJ,Gujarat,GJ_Gujarat,Mehsana,30966,101,30671,194,0,12,-6,18,0,0.0,2022-02-20 23:57:38.624532
-167,GJ,Gujarat,GJ_Gujarat,Morbi,10729,40,10594,95,0,1,-3,4,0,0.0,2022-02-20 23:57:38.624532
-168,GJ,Gujarat,GJ_Gujarat,Narmada,6640,24,6601,15,0,0,-3,3,0,0.0,2022-02-20 23:57:38.624532
-169,GJ,Gujarat,GJ_Gujarat,Navsari,11881,42,11799,40,0,5,0,5,0,0.0,2022-02-20 23:57:38.624532
-170,GJ,Gujarat,GJ_Gujarat,Panchmahal,13536,52,13401,83,0,7,-6,13,0,0.0,2022-02-20 23:57:38.624532
-171,GJ,Gujarat,GJ_Gujarat,Patan,16191,76,15986,129,0,11,-8,19,0,0.0,2022-02-20 23:57:38.624532
-172,GJ,Gujarat,GJ_Gujarat,Porbandar,4184,3,4157,24,0,0,-2,2,0,0.0,2022-02-20 23:57:38.624532
-173,GJ,Gujarat,GJ_Gujarat,Rajkot,84442,213,83432,797,0,7,-35,42,0,0.0,2022-02-20 23:57:38.624532
-174,GJ,Gujarat,GJ_Gujarat,Sabarkantha,11741,48,11531,162,0,2,-16,18,0,0.0,2022-02-20 23:57:38.624532
-175,GJ,Gujarat,GJ_Gujarat,Surat,204823,342,202405,2076,0,26,-61,86,1,0.0,2022-02-20 23:57:38.624532
-176,GJ,Gujarat,GJ_Gujarat,Surendranagar,10064,10,9915,139,0,1,-4,5,0,0.0,2022-02-20 23:57:38.624532
-177,GJ,Gujarat,GJ_Gujarat,Tapi,5747,50,5668,29,0,5,-12,17,0,0.0,2022-02-20 23:57:38.624532
-178,GJ,Gujarat,GJ_Gujarat,Vadodara,139492,1079,137514,899,0,72,-160,227,5,0.0,2022-02-20 23:57:38.624532
-179,GJ,Gujarat,GJ_Gujarat,Valsad,12822,36,12696,90,0,3,-6,9,0,0.0,2022-02-20 23:57:38.624532
-180,HR,Haryana,HR_Haryana,Ambala,40668,143,39984,541,0,13,-25,38,0,0.0,2022-02-20T23:57:42.960588+05:30
-181,HR,Haryana,HR_Haryana,Bhiwani,26321,127,25532,662,0,15,-6,21,0,0.0,2022-02-20T23:57:42.960588+05:30
-182,HR,Haryana,HR_Haryana,Charkhi Dadri,7297,89,7064,144,0,14,3,11,0,0.0,2022-02-20T23:57:42.960588+05:30
-183,HR,Haryana,HR_Haryana,Faridabad,126487,394,125354,739,0,39,-45,84,0,0.0,2022-02-20T23:57:42.960588+05:30
-184,HR,Haryana,HR_Haryana,Fatehabad,20007,48,19461,498,0,5,0,5,0,0.0,2022-02-20T23:57:42.960588+05:30
-185,HR,Haryana,HR_Haryana,Gurugram,257582,1290,255301,991,0,193,16,175,2,0.0,2022-02-20T23:57:42.960588+05:30
-186,HR,Haryana,HR_Haryana,Hisar,61641,135,60336,1170,0,26,9,17,0,0.0,2022-02-20T23:57:42.960588+05:30
-187,HR,Haryana,HR_Haryana,Jhajjar,23206,68,22800,338,0,35,-13,48,0,0.0,2022-02-20T23:57:42.960588+05:30
-188,HR,Haryana,HR_Haryana,Jind,24297,38,23718,541,0,8,-3,11,0,0.0,2022-02-20T23:57:42.960588+05:30
-189,HR,Haryana,HR_Haryana,Kaithal,14177,50,13758,369,0,4,-6,10,0,0.0,2022-02-20T23:57:42.960588+05:30
-190,HR,Haryana,HR_Haryana,Karnal,48055,80,47380,595,0,7,-11,18,0,0.0,2022-02-20T23:57:42.960588+05:30
-191,HR,Haryana,HR_Haryana,Kurukshetra,26744,63,26290,391,0,0,-19,19,0,0.0,2022-02-20T23:57:42.960588+05:30
-192,HR,Haryana,HR_Haryana,Mahendragarh,24572,71,24338,163,0,7,-6,13,0,0.0,2022-02-20T23:57:42.960588+05:30
-193,HR,Haryana,HR_Haryana,Nuh,6038,21,5883,134,0,1,1,0,0,0.0,2022-02-20T23:57:42.960588+05:30
-194,HR,Haryana,HR_Haryana,Palwal,13103,102,12848,153,0,77,-11,88,0,0.0,2022-02-20T23:57:42.960588+05:30
-195,HR,Haryana,HR_Haryana,Panchkula,43969,76,43481,412,0,9,-13,22,0,0.0,2022-02-20T23:57:42.960588+05:30
-196,HR,Haryana,HR_Haryana,Panipat,36028,58,35309,661,0,8,-8,16,0,0.0,2022-02-20T23:57:42.960588+05:30
-197,HR,Haryana,HR_Haryana,Rewari,24496,141,24131,224,0,20,11,9,0,0.0,2022-02-20T23:57:42.960588+05:30
-198,HR,Haryana,HR_Haryana,Rohtak,31654,167,30953,534,0,10,-16,26,0,0.0,2022-02-20T23:57:42.960588+05:30
-199,HR,Haryana,HR_Haryana,Sirsa,33281,15,32731,535,0,14,4,9,1,0.0,2022-02-20T23:57:42.960588+05:30
-200,HR,Haryana,HR_Haryana,Sonipat,58310,98,57936,276,0,20,-28,48,0,0.0,2022-02-20T23:57:42.960588+05:30
-201,HR,Haryana,HR_Haryana,Yamunanagar,30471,234,29783,454,0,9,-8,17,0,0.0,2022-02-20T23:57:42.960588+05:30
-202,HP,Himachal Pradesh,HP_Himachal Pradesh,Bilaspur,18122,148,17879,95,1,41,-6,47,0,0.0,2022-02-20 20:55:55.597001
-203,HP,Himachal Pradesh,HP_Himachal Pradesh,Chamba,15704,182,15353,169,2,37,0,36,1,0.0,2022-02-20 20:55:55.597001
-204,HP,Himachal Pradesh,HP_Himachal Pradesh,Hamirpur,23083,256,22505,322,1,71,29,40,2,0.0,2022-02-20 20:55:55.597001
-205,HP,Himachal Pradesh,HP_Himachal Pradesh,Kangra,62963,524,61202,1237,6,114,-15,128,1,0.0,2022-02-20 20:55:55.597001
-206,HP,Himachal Pradesh,HP_Himachal Pradesh,Kinnaur,4410,21,4349,40,0,1,-7,8,0,0.0,2022-02-20 20:55:55.597001
-207,HP,Himachal Pradesh,HP_Himachal Pradesh,Kullu,11920,43,11715,162,3,3,-24,27,0,0.0,2022-02-20 20:55:55.597001
-208,HP,Himachal Pradesh,HP_Himachal Pradesh,Lahaul and Spiti,3149,10,3121,18,0,2,0,2,0,0.0,2022-02-20 20:55:55.597001
-209,HP,Himachal Pradesh,HP_Himachal Pradesh,Mandi,38519,145,37877,497,0,37,-57,94,0,0.0,2022-02-20 20:55:55.597001
-210,HP,Himachal Pradesh,HP_Himachal Pradesh,Shimla,35381,192,34480,709,4,39,-1,39,1,0.0,2022-02-20 20:55:55.597001
-211,HP,Himachal Pradesh,HP_Himachal Pradesh,Sirmaur,19770,94,19456,220,0,19,5,13,1,0.0,2022-02-20 20:55:55.597001
-212,HP,Himachal Pradesh,HP_Himachal Pradesh,Solan,30500,162,30004,334,0,20,-8,28,0,0.0,2022-02-20 20:55:55.597001
-213,HP,Himachal Pradesh,HP_Himachal Pradesh,Una,18602,161,18166,275,2,21,-46,67,0,0.0,2022-02-20 20:55:55.597001
-214,JH,Jharkhand,JH_Jharkhand,Bokaro,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-215,JH,Jharkhand,JH_Jharkhand,Chatra,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-216,JH,Jharkhand,JH_Jharkhand,Deoghar,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-217,JH,Jharkhand,JH_Jharkhand,Dhanbad,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-218,JH,Jharkhand,JH_Jharkhand,Dumka,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-219,JH,Jharkhand,JH_Jharkhand,East Singhbhum,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-220,JH,Jharkhand,JH_Jharkhand,Garhwa,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-221,JH,Jharkhand,JH_Jharkhand,Giridih,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-222,JH,Jharkhand,JH_Jharkhand,Godda,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-223,JH,Jharkhand,JH_Jharkhand,Gumla,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-224,JH,Jharkhand,JH_Jharkhand,Hazaribagh,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-225,JH,Jharkhand,JH_Jharkhand,Jamtara,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-226,JH,Jharkhand,JH_Jharkhand,Khunti,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-227,JH,Jharkhand,JH_Jharkhand,Koderma,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-228,JH,Jharkhand,JH_Jharkhand,Latehar,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-229,JH,Jharkhand,JH_Jharkhand,Lohardaga,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-230,JH,Jharkhand,JH_Jharkhand,Pakur,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-231,JH,Jharkhand,JH_Jharkhand,Palamu,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-232,JH,Jharkhand,JH_Jharkhand,Ramgarh,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-233,JH,Jharkhand,JH_Jharkhand,Ranchi,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-234,JH,Jharkhand,JH_Jharkhand,Sahibganj,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-235,JH,Jharkhand,JH_Jharkhand,Saraikela-Kharsawan,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-236,JH,Jharkhand,JH_Jharkhand,Simdega,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-237,JH,Jharkhand,JH_Jharkhand,Unknown,433999,690,427994,5315,0,69,-56,125,0,0.0,2022-02-21 11:55:28.829132
-238,JH,Jharkhand,JH_Jharkhand,West Singhbhum,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-239,KA,Karnataka,KA_Karnataka,Bagalkote,40649,257,40026,366,0,15,-16,31,0,0.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-20T23:57:46.317742+05:30
-240,KA,Karnataka,KA_Karnataka,Ballari,115341,463,113130,1748,2,46,-56,101,1,2.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-20T23:57:46.317742+05:30
-241,KA,Karnataka,KA_Karnataka,Belagavi,99904,530,98377,997,2,51,-131,181,1,2.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-20T23:57:46.317742+05:30
-242,KA,Karnataka,KA_Karnataka,Bengaluru Rural,79239,122,78211,906,0,3,-10,13,0,0.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-20T23:57:46.317742+05:30
-243,KA,Karnataka,KA_Karnataka,Bengaluru Urban,1775827,6135,1752872,16820,1,485,-264,737,12,1.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-20T23:57:46.317742+05:30
-244,KA,Karnataka,KA_Karnataka,Bidar,29784,38,29328,418,4,2,2,0,0,4.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-20T23:57:46.317742+05:30
-245,KA,Karnataka,KA_Karnataka,Chamarajanagara,43556,190,42844,522,11,20,5,15,0,11.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-20T23:57:46.317742+05:30
-246,KA,Karnataka,KA_Karnataka,Chikkaballapura,55576,249,54868,459,1,6,3,3,0,1.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-20T23:57:46.317742+05:30
-247,KA,Karnataka,KA_Karnataka,Chikkamagaluru,57163,161,56596,406,0,5,-43,48,0,0.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-20T23:57:46.317742+05:30
-248,KA,Karnataka,KA_Karnataka,Chitradurga,46100,327,45538,235,0,22,-82,104,0,0.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-20T23:57:46.317742+05:30
-249,KA,Karnataka,KA_Karnataka,Dakshina Kannada,135286,332,133126,1828,10,14,-39,53,0,10.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-20T23:57:46.317742+05:30
-250,KA,Karnataka,KA_Karnataka,Davanagere,57484,89,56773,622,0,3,2,1,0,0.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-20T23:57:46.317742+05:30
-251,KA,Karnataka,KA_Karnataka,Dharwad,83963,203,82393,1367,2,17,4,11,2,2.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-20T23:57:46.317742+05:30
-252,KA,Karnataka,KA_Karnataka,Gadag,30560,26,30199,335,0,2,-5,7,0,0.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-20T23:57:46.317742+05:30
-253,KA,Karnataka,KA_Karnataka,Hassan,143740,195,142243,1302,2,20,-13,33,0,2.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-20T23:57:46.317742+05:30
-254,KA,Karnataka,KA_Karnataka,Haveri,26813,102,26044,667,0,12,-1,13,0,0.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-20T23:57:46.317742+05:30
-255,KA,Karnataka,KA_Karnataka,Kalaburagi,76487,247,75365,875,0,16,3,13,0,0.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-20T23:57:46.317742+05:30
-256,KA,Karnataka,KA_Karnataka,Kodagu,49100,276,48475,349,1,42,14,28,0,1.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-20T23:57:46.317742+05:30
-257,KA,Karnataka,KA_Karnataka,Kolar,62920,90,62167,663,0,4,-4,8,0,0.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-20T23:57:46.317742+05:30
-258,KA,Karnataka,KA_Karnataka,Koppal,41250,179,40534,537,0,1,-2,3,0,0.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-20T23:57:46.317742+05:30
-259,KA,Karnataka,KA_Karnataka,Mandya,101415,161,100551,703,0,10,2,8,0,0.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-20T23:57:46.317742+05:30
-260,KA,Karnataka,KA_Karnataka,Mysuru,229108,536,226017,2555,0,48,12,36,0,0.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-20T23:57:46.317742+05:30
-261,KA,Karnataka,KA_Karnataka,Other State,36,0,33,3,0,0,0,0,0,0.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-20T23:57:46.317742+05:30
-262,KA,Karnataka,KA_Karnataka,Raichur,45418,83,44976,359,0,4,2,2,0,0.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-20T23:57:46.317742+05:30
-263,KA,Karnataka,KA_Karnataka,Ramanagara,29740,63,29331,346,0,4,-4,8,0,0.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-20T23:57:46.317742+05:30
-264,KA,Karnataka,KA_Karnataka,Shivamogga,83115,465,81524,1126,1,22,-91,112,1,1.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-20T23:57:46.317742+05:30
-265,KA,Karnataka,KA_Karnataka,Tumakuru,159622,652,157760,1210,0,93,-6,98,1,0.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-20T23:57:46.317742+05:30
-266,KA,Karnataka,KA_Karnataka,Udupi,95463,195,94728,540,0,23,-35,58,0,0.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-20T23:57:46.317742+05:30
-267,KA,Karnataka,KA_Karnataka,Uttara Kannada,71031,121,70102,808,0,3,-11,14,0,0.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-20T23:57:46.317742+05:30
-268,KA,Karnataka,KA_Karnataka,Vijayapura,40956,106,40337,513,0,4,-33,37,0,0.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-20T23:57:46.317742+05:30
-269,KA,Karnataka,KA_Karnataka,Yadgir,29940,78,29652,210,0,4,0,4,0,0.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-20T23:57:46.317742+05:30
-270,KL,Kerala,KL_Kerala,Alappuzha,386564,2209,379369,4986,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-271,KL,Kerala,KL_Kerala,Ernakulam,871643,18372,846074,7197,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-272,KL,Kerala,KL_Kerala,Idukki,204707,7261,196111,1335,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-273,KL,Kerala,KL_Kerala,Kannur,345896,2104,339586,4206,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-274,KL,Kerala,KL_Kerala,Kasaragod,165519,3121,161120,1278,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-275,KL,Kerala,KL_Kerala,Kollam,504508,2023,496455,6030,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-276,KL,Kerala,KL_Kerala,Kottayam,440712,6822,429747,4143,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-277,KL,Kerala,KL_Kerala,Kozhikode,666316,2534,657833,5949,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-278,KL,Kerala,KL_Kerala,Malappuram,643595,2923,635169,5503,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-279,KL,Kerala,KL_Kerala,Other State,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-280,KL,Kerala,KL_Kerala,Palakkad,446852,5935,435564,5353,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-281,KL,Kerala,KL_Kerala,Pathanamthitta,262595,5931,254372,2292,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-282,KL,Kerala,KL_Kerala,Thiruvananthapuram,695304,8145,679219,7940,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-283,KL,Kerala,KL_Kerala,Thrissur,663706,4546,652220,6940,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-284,KL,Kerala,KL_Kerala,Unknown,5427,-8999,14334,92,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-285,KL,Kerala,KL_Kerala,Wayanad,165646,3887,160858,901,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-286,MP,Madhya Pradesh,MP_Madhya Pradesh,Agar Malwa,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-287,MP,Madhya Pradesh,MP_Madhya Pradesh,Alirajpur,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-288,MP,Madhya Pradesh,MP_Madhya Pradesh,Anuppur,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-289,MP,Madhya Pradesh,MP_Madhya Pradesh,Ashoknagar,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-290,MP,Madhya Pradesh,MP_Madhya Pradesh,Balaghat,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-291,MP,Madhya Pradesh,MP_Madhya Pradesh,Barwani,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-292,MP,Madhya Pradesh,MP_Madhya Pradesh,Betul,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-293,MP,Madhya Pradesh,MP_Madhya Pradesh,Bhind,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-294,MP,Madhya Pradesh,MP_Madhya Pradesh,Bhopal,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-295,MP,Madhya Pradesh,MP_Madhya Pradesh,Burhanpur,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-296,MP,Madhya Pradesh,MP_Madhya Pradesh,Chhatarpur,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-297,MP,Madhya Pradesh,MP_Madhya Pradesh,Chhindwara,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-298,MP,Madhya Pradesh,MP_Madhya Pradesh,Damoh,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-299,MP,Madhya Pradesh,MP_Madhya Pradesh,Datia,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-300,MP,Madhya Pradesh,MP_Madhya Pradesh,Dewas,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-301,MP,Madhya Pradesh,MP_Madhya Pradesh,Dhar,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-302,MP,Madhya Pradesh,MP_Madhya Pradesh,Dindori,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-303,MP,Madhya Pradesh,MP_Madhya Pradesh,Guna,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-304,MP,Madhya Pradesh,MP_Madhya Pradesh,Gwalior,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-305,MP,Madhya Pradesh,MP_Madhya Pradesh,Harda,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-306,MP,Madhya Pradesh,MP_Madhya Pradesh,Hoshangabad,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-307,MP,Madhya Pradesh,MP_Madhya Pradesh,Indore,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-308,MP,Madhya Pradesh,MP_Madhya Pradesh,Jabalpur,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-309,MP,Madhya Pradesh,MP_Madhya Pradesh,Jhabua,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-310,MP,Madhya Pradesh,MP_Madhya Pradesh,Katni,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-311,MP,Madhya Pradesh,MP_Madhya Pradesh,Khandwa,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-312,MP,Madhya Pradesh,MP_Madhya Pradesh,Khargone,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-313,MP,Madhya Pradesh,MP_Madhya Pradesh,Mandla,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-314,MP,Madhya Pradesh,MP_Madhya Pradesh,Mandsaur,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-315,MP,Madhya Pradesh,MP_Madhya Pradesh,Morena,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-316,MP,Madhya Pradesh,MP_Madhya Pradesh,Narsinghpur,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-317,MP,Madhya Pradesh,MP_Madhya Pradesh,Neemuch,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-318,MP,Madhya Pradesh,MP_Madhya Pradesh,Niwari,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-319,MP,Madhya Pradesh,MP_Madhya Pradesh,Other Region,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-320,MP,Madhya Pradesh,MP_Madhya Pradesh,Panna,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-321,MP,Madhya Pradesh,MP_Madhya Pradesh,Raisen,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-322,MP,Madhya Pradesh,MP_Madhya Pradesh,Rajgarh,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-323,MP,Madhya Pradesh,MP_Madhya Pradesh,Ratlam,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-324,MP,Madhya Pradesh,MP_Madhya Pradesh,Rewa,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-325,MP,Madhya Pradesh,MP_Madhya Pradesh,Sagar,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-326,MP,Madhya Pradesh,MP_Madhya Pradesh,Satna,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-327,MP,Madhya Pradesh,MP_Madhya Pradesh,Sehore,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-328,MP,Madhya Pradesh,MP_Madhya Pradesh,Seoni,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-329,MP,Madhya Pradesh,MP_Madhya Pradesh,Shahdol,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-330,MP,Madhya Pradesh,MP_Madhya Pradesh,Shajapur,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-331,MP,Madhya Pradesh,MP_Madhya Pradesh,Sheopur,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-332,MP,Madhya Pradesh,MP_Madhya Pradesh,Shivpuri,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-333,MP,Madhya Pradesh,MP_Madhya Pradesh,Sidhi,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-334,MP,Madhya Pradesh,MP_Madhya Pradesh,Singrauli,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-335,MP,Madhya Pradesh,MP_Madhya Pradesh,Tikamgarh,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-336,MP,Madhya Pradesh,MP_Madhya Pradesh,Ujjain,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-337,MP,Madhya Pradesh,MP_Madhya Pradesh,Umaria,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-338,MP,Madhya Pradesh,MP_Madhya Pradesh,Unknown,1034440,7527,1016198,10715,0,950,-837,1785,2,0.0,2022-02-21 11:55:28.829132
-339,MP,Madhya Pradesh,MP_Madhya Pradesh,Vidisha,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-340,MH,Maharashtra,MH_Maharashtra,Ahmednagar,376105,1561,367322,7222,11,138,-91,229,0,11 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-21 13:14:52.567179
-341,MH,Maharashtra,MH_Maharashtra,Akola,66075,164,64452,1459,4,6,-5,11,0,4 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-21 13:14:52.567179
-342,MH,Maharashtra,MH_Maharashtra,Amravati,105855,123,104115,1617,2,4,-98,102,0,2 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-21 13:14:52.567179
-343,MH,Maharashtra,MH_Maharashtra,Aurangabad,176145,956,170919,4270,14,39,-23,62,0,14 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-21 13:14:52.567179
-344,MH,Maharashtra,MH_Maharashtra,Beed,109000,92,106036,2872,7,9,-20,29,0,7 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-21 13:14:52.567179
-345,MH,Maharashtra,MH_Maharashtra,Bhandara,67866,119,66616,1131,10,7,-19,26,0,10 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-21 13:14:52.567179
-346,MH,Maharashtra,MH_Maharashtra,Buldhana,91400,234,90351,815,6,34,-61,95,0,6 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-21 13:14:52.567179
-347,MH,Maharashtra,MH_Maharashtra,Chandrapur,98755,145,97023,1587,4,5,-21,26,0,4 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-21 13:14:52.567179
-348,MH,Maharashtra,MH_Maharashtra,Dhule,50541,69,49813,659,11,3,-2,5,0,11 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-21 13:14:52.567179
-349,MH,Maharashtra,MH_Maharashtra,Gadchiroli,36736,282,35763,691,33,11,-18,29,0,33 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-21 13:14:52.567179
-350,MH,Maharashtra,MH_Maharashtra,Gondia,45370,55,44736,579,7,2,-12,14,0,7 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-21 13:14:52.567179
-351,MH,Maharashtra,MH_Maharashtra,Hingoli,22129,45,21572,512,1,6,-10,16,0,1 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-21 13:14:52.567179
-352,MH,Maharashtra,MH_Maharashtra,Jalgaon,149406,115,146564,2727,33,5,-11,15,1,33 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-21 13:14:52.567179
-353,MH,Maharashtra,MH_Maharashtra,Jalna,66247,24,65000,1223,1,0,-4,4,0,1 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-21 13:14:52.567179
-354,MH,Maharashtra,MH_Maharashtra,Kolhapur,220329,274,214158,5897,5,20,-44,64,0,5 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-21 13:14:52.567179
-355,MH,Maharashtra,MH_Maharashtra,Latur,104796,128,102187,2481,6,13,-53,66,0,6 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-21 13:14:52.567179
-356,MH,Maharashtra,MH_Maharashtra,Mumbai,1054643,4360,1033596,16687,2849,167,-116,283,0,2849 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-21 13:14:52.567179
-357,MH,Maharashtra,MH_Maharashtra,Nagpur,575735,1601,564991,9143,71,85,-265,350,0,71 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-21 13:14:52.567179
-358,MH,Maharashtra,MH_Maharashtra,Nanded,102591,106,99791,2694,7,5,-23,27,1,7 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-21 13:14:52.567179
-359,MH,Maharashtra,MH_Maharashtra,Nandurbar,46508,161,45393,954,3,26,9,17,0,3 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-21 13:14:52.567179
-360,MH,Maharashtra,MH_Maharashtra,Nashik,472217,858,462465,8894,1,85,-131,215,1,1 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-21 13:14:52.567179
-361,MH,Maharashtra,MH_Maharashtra,Osmanabad,75021,231,72768,2022,116,20,-21,41,0,116 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-21 13:14:52.567179
-362,MH,Maharashtra,MH_Maharashtra,Other State,144,2,31,111,2,0,0,0,0,2 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-21 13:14:52.567179
-363,MH,Maharashtra,MH_Maharashtra,Palghar,163306,220,159695,3391,15,15,-25,40,0,15 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-21 13:14:52.567179
-364,MH,Maharashtra,MH_Maharashtra,Parbhani,58455,63,57139,1253,20,4,-3,7,0,20 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-21 13:14:52.567179
-365,MH,Maharashtra,MH_Maharashtra,Pune,1447567,5093,1422360,20114,350,456,-531,986,1,350 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-21 13:14:52.567179
-366,MH,Maharashtra,MH_Maharashtra,Raigad,243888,372,238584,4932,7,31,-44,75,0,7 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-21 13:14:52.567179
-367,MH,Maharashtra,MH_Maharashtra,Ratnagiri,84330,113,81678,2539,5,12,-19,31,0,5 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-21 13:14:52.567179
-368,MH,Maharashtra,MH_Maharashtra,Sangli,226756,251,220850,5655,9,49,-77,126,0,9 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-21 13:14:52.567179
-369,MH,Maharashtra,MH_Maharashtra,Satara,277883,395,270824,6664,34,47,1,46,0,34 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-21 13:14:52.567179
-370,MH,Maharashtra,MH_Maharashtra,Sindhudurg,57085,219,55357,1509,15,6,6,0,0,15 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-21 13:14:52.567179
-371,MH,Maharashtra,MH_Maharashtra,Solapur,226783,336,220702,5745,117,19,-38,57,0,117 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-21 13:14:52.567179
-372,MH,Maharashtra,MH_Maharashtra,Thane,765669,1075,752748,11846,35,80,-44,122,2,35 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-21 13:14:52.567179
-373,MH,Maharashtra,MH_Maharashtra,Wardha,65608,338,64036,1234,170,17,-17,34,0,170 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-21 13:14:52.567179
-374,MH,Maharashtra,MH_Maharashtra,Washim,45556,122,44796,638,3,6,-50,56,0,3 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-21 13:14:52.567179
-375,MH,Maharashtra,MH_Maharashtra,Yavatmal,81931,108,80008,1815,4,5,-64,69,0,4 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-21 13:14:52.567179
-376,MN,Manipur,MN_Manipur,Bishnupur,9776,9572,0,204,0,3,3,0,0,0.0,2022-02-20 19:57:55.712217
-377,MN,Manipur,MN_Manipur,Chandel,2682,2640,0,42,0,0,0,0,0,0.0,2022-02-20 19:57:55.712217
-378,MN,Manipur,MN_Manipur,Churachandpur,11021,10854,0,167,0,4,3,0,1,0.0,2022-02-20 19:57:55.712217
-379,MN,Manipur,MN_Manipur,Imphal East,30285,29780,0,505,0,9,7,0,2,0.0,2022-02-20 19:57:55.712217
-380,MN,Manipur,MN_Manipur,Imphal West,48492,47792,0,700,0,21,20,0,1,0.0,2022-02-20 19:57:55.712217
-381,MN,Manipur,MN_Manipur,Jiribam,1109,1102,0,7,0,0,0,0,0,0.0,2022-02-20 19:57:55.712217
-382,MN,Manipur,MN_Manipur,Kakching,6851,6730,0,121,0,1,1,0,0,0.0,2022-02-20 19:57:55.712217
-383,MN,Manipur,MN_Manipur,Kamjong,1032,1027,0,5,0,0,0,0,0,0.0,2022-02-20 19:57:55.712217
-384,MN,Manipur,MN_Manipur,Kangpokpi,3114,3048,0,66,0,0,0,0,0,0.0,2022-02-20 19:57:55.712217
-385,MN,Manipur,MN_Manipur,Noney,1149,1144,0,5,0,1,1,0,0,0.0,2022-02-20 19:57:55.712217
-386,MN,Manipur,MN_Manipur,Pherzawl,465,465,0,0,0,0,0,0,0,0.0,2022-02-20 19:57:55.712217
-387,MN,Manipur,MN_Manipur,Senapati,2468,2456,0,12,0,0,0,0,0,0.0,2022-02-20 19:57:55.712217
-388,MN,Manipur,MN_Manipur,Tamenglong,3460,3444,0,16,0,4,4,0,0,0.0,2022-02-20 19:57:55.712217
-389,MN,Manipur,MN_Manipur,Tengnoupal,1188,1174,0,14,0,1,1,0,0,0.0,2022-02-20 19:57:55.712217
-390,MN,Manipur,MN_Manipur,Thoubal,10104,9917,0,187,0,2,2,0,0,0.0,2022-02-20 19:57:55.712217
-391,MN,Manipur,MN_Manipur,Ukhrul,3237,3188,0,49,0,3,3,0,0,0.0,2022-02-20 19:57:55.712217
-392,ML,Meghalaya,ML_Meghalaya,East Garo Hills,2026,12,1998,16,0,1,-1,2,0,0.0,2022-02-21T13:14:54.190942+05:30
-393,ML,Meghalaya,ML_Meghalaya,East Jaintia Hills,2583,14,2536,33,0,2,2,0,0,0.0,2022-02-21T13:14:54.190942+05:30
-394,ML,Meghalaya,ML_Meghalaya,East Khasi Hills,46947,151,45732,1064,0,13,-4,17,0,0.0,2022-02-21T13:14:54.190942+05:30
-395,ML,Meghalaya,ML_Meghalaya,Eastern West Khasi Hills,134,15,113,6,0,0,0,0,0,0.0,2022-02-21T13:14:54.190942+05:30
-396,ML,Meghalaya,ML_Meghalaya,North Garo Hills,1845,14,1822,9,0,6,4,2,0,0.0,2022-02-21T13:14:54.190942+05:30
-397,ML,Meghalaya,ML_Meghalaya,Ri-Bhoi,10250,33,10121,96,0,1,-12,13,0,0.0,2022-02-21T13:14:54.190942+05:30
-398,ML,Meghalaya,ML_Meghalaya,South Garo Hills,1332,7,1313,12,0,1,1,0,0,0.0,2022-02-21T13:14:54.190942+05:30
-399,ML,Meghalaya,ML_Meghalaya,South West Garo Hills,2073,14,2039,20,0,1,0,1,0,0.0,2022-02-21T13:14:54.190942+05:30
-400,ML,Meghalaya,ML_Meghalaya,South West Khasi Hills,2678,7,2652,19,0,0,-3,3,0,0.0,2022-02-21T13:14:54.190942+05:30
-401,ML,Meghalaya,ML_Meghalaya,West Garo Hills,10662,57,10526,79,0,6,-6,12,0,0.0,2022-02-21T13:14:54.190942+05:30
-402,ML,Meghalaya,ML_Meghalaya,West Jaintia Hills,7138,36,6963,139,0,3,-2,5,0,0.0,2022-02-21T13:14:54.190942+05:30
-403,ML,Meghalaya,ML_Meghalaya,West Khasi Hills,5625,12,5538,75,0,0,-4,4,0,0.0,2022-02-21T13:14:54.190942+05:30
-404,MZ,Mizoram,MZ_Mizoram,Aizawl,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-405,MZ,Mizoram,MZ_Mizoram,Champhai,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-406,MZ,Mizoram,MZ_Mizoram,Hnahthial,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-407,MZ,Mizoram,MZ_Mizoram,Khawzawl,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-408,MZ,Mizoram,MZ_Mizoram,Kolasib,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-409,MZ,Mizoram,MZ_Mizoram,Lawngtlai,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-410,MZ,Mizoram,MZ_Mizoram,Lunglei,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-411,MZ,Mizoram,MZ_Mizoram,Mamit,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-412,MZ,Mizoram,MZ_Mizoram,Saiha,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-413,MZ,Mizoram,MZ_Mizoram,Saitual,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-414,MZ,Mizoram,MZ_Mizoram,Serchhip,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-415,MZ,Mizoram,MZ_Mizoram,Unknown,206319,9919,195757,643,0,517,-152,668,1,0.0,2022-02-21 11:55:28.829132
-416,NL,Nagaland,NL_Nagaland,Dimapur,17206,1216,15521,469,1073,1,-12,13,0,1073 cases were recorded as Non Covid Deaths with Covid19 Positivity,2022-02-20T23:57:48.686454+05:30
-417,NL,Nagaland,NL_Nagaland,Kiphire,272,2,261,9,1,0,0,0,0,1 cases were recorded as Non Covid Deaths with Covid19 Positivity,2022-02-20T23:57:48.686454+05:30
-418,NL,Nagaland,NL_Nagaland,Kohima,10030,302,9598,130,234,0,-19,19,0,234 cases were recorded as Non Covid Deaths with Covid19 Positivity,2022-02-20T23:57:48.686454+05:30
-419,NL,Nagaland,NL_Nagaland,Longleng,312,18,292,2,18,0,0,0,0,18 cases were recorded as Non Covid Deaths with Covid19 Positivity,2022-02-20T23:57:48.686454+05:30
-420,NL,Nagaland,NL_Nagaland,Mokokchung,2475,80,2336,59,71,0,-1,1,0,71 cases were recorded as Non Covid Deaths with Covid19 Positivity,2022-02-20T23:57:48.686454+05:30
-421,NL,Nagaland,NL_Nagaland,Mon,1175,24,1137,14,22,0,0,0,0,22 cases were recorded as Non Covid Deaths with Covid19 Positivity,2022-02-20T23:57:48.686454+05:30
-422,NL,Nagaland,NL_Nagaland,Peren,983,27,950,6,19,0,0,0,0,19 cases were recorded as Non Covid Deaths with Covid19 Positivity,2022-02-20T23:57:48.686454+05:30
-423,NL,Nagaland,NL_Nagaland,Phek,632,21,592,19,9,1,1,0,0,9 cases were recorded as Non Covid Deaths with Covid19 Positivity,2022-02-20T23:57:48.686454+05:30
-424,NL,Nagaland,NL_Nagaland,Tuensang,1191,9,1168,14,3,0,0,0,0,3 cases were recorded as Non Covid Deaths with Covid19 Positivity,2022-02-20T23:57:48.686454+05:30
-425,NL,Nagaland,NL_Nagaland,Wokha,451,30,410,11,18,0,0,0,0,18 cases were recorded as Non Covid Deaths with Covid19 Positivity,2022-02-20T23:57:48.686454+05:30
-426,NL,Nagaland,NL_Nagaland,Zunheboto,630,15,599,16,12,0,0,0,0,12 cases were recorded as Non Covid Deaths with Covid19 Positivity,2022-02-20T23:57:48.686454+05:30
-427,OR,Odisha,OR_Odisha,Angul,47817,370,47031,416,0,3,-6,9,0,0.0,2022-02-20 23:57:48.820965
-428,OR,Odisha,OR_Odisha,Balangir,28835,48,28656,131,0,2,1,1,0,0.0,2022-02-20 23:57:48.820965
-429,OR,Odisha,OR_Odisha,Balasore,48735,143,48237,355,0,9,-25,28,6,0.0,2022-02-20 23:57:48.820965
-430,OR,Odisha,OR_Odisha,Bargarh,34492,144,34004,344,0,1,-24,25,0,0.0,2022-02-20 23:57:48.820965
-431,OR,Odisha,OR_Odisha,Bhadrak,29433,128,29132,173,0,9,-18,27,0,0.0,2022-02-20 23:57:48.820965
-432,OR,Odisha,OR_Odisha,Boudh,14543,96,14334,113,0,3,3,0,0,0.0,2022-02-20 23:57:48.820965
-433,OR,Odisha,OR_Odisha,Cuttack,113528,260,112369,899,0,32,-58,90,0,0.0,2022-02-20 23:57:48.820965
-434,OR,Odisha,OR_Odisha,Deogarh,8499,73,8375,51,0,5,-34,39,0,0.0,2022-02-20 23:57:48.820965
-435,OR,Odisha,OR_Odisha,Dhenkanal,22335,57,22016,262,0,5,-21,26,0,0.0,2022-02-20 23:57:48.820965
-436,OR,Odisha,OR_Odisha,Gajapati,12563,133,12347,83,0,26,-12,38,0,0.0,2022-02-20 23:57:48.820965
-437,OR,Odisha,OR_Odisha,Ganjam,36541,110,35922,509,0,2,-24,24,2,0.0,2022-02-20 23:57:48.820965
-438,OR,Odisha,OR_Odisha,Jagatsinghpur,32039,74,31623,342,0,4,-38,42,0,0.0,2022-02-20 23:57:48.820965
-439,OR,Odisha,OR_Odisha,Jajpur,49988,360,49428,200,0,36,-16,52,0,0.0,2022-02-20 23:57:48.820965
-440,OR,Odisha,OR_Odisha,Jharsuguda,28220,116,27923,181,0,11,-4,15,0,0.0,2022-02-20 23:57:48.820965
-441,OR,Odisha,OR_Odisha,Kalahandi,28627,67,28341,219,0,3,-32,34,1,0.0,2022-02-20 23:57:48.820965
-442,OR,Odisha,OR_Odisha,Kandhamal,13492,48,13354,90,0,9,3,6,0,0.0,2022-02-20 23:57:48.820965
-443,OR,Odisha,OR_Odisha,Kendrapara,27699,69,27359,271,0,12,-22,34,0,0.0,2022-02-20 23:57:48.820965
-444,OR,Odisha,OR_Odisha,Kendujhar,24199,33,23977,189,0,3,-5,8,0,0.0,2022-02-20 23:57:48.820965
-445,OR,Odisha,OR_Odisha,Khordha,244236,848,241657,1731,0,45,-249,294,0,0.0,2022-02-20 23:57:48.820965
-446,OR,Odisha,OR_Odisha,Koraput,23446,298,23064,84,0,24,22,2,0,0.0,2022-02-20 23:57:48.820965
-447,OR,Odisha,OR_Odisha,Malkangiri,12855,40,12768,47,0,3,-2,5,0,0.0,2022-02-20 23:57:48.820965
-448,OR,Odisha,OR_Odisha,Mayurbhanj,48189,136,47746,307,0,18,-16,34,0,0.0,2022-02-20 23:57:48.820965
-449,OR,Odisha,OR_Odisha,Nabarangapur,27340,53,27196,91,0,2,-7,9,0,0.0,2022-02-20 23:57:48.820965
-450,OR,Odisha,OR_Odisha,Nayagarh,28342,100,28019,223,0,16,-1,17,0,0.0,2022-02-20 23:57:48.820965
-451,OR,Odisha,OR_Odisha,Nuapada,26661,76,26494,91,0,7,-4,11,0,0.0,2022-02-20 23:57:48.820965
-452,OR,Odisha,OR_Odisha,Puri,49954,123,49349,482,0,8,4,3,1,0.0,2022-02-20 23:57:48.820965
-453,OR,Odisha,OR_Odisha,Rayagada,24656,132,24350,174,0,45,-1,46,0,0.0,2022-02-20 23:57:48.820965
-454,OR,Odisha,OR_Odisha,Sambalpur,41675,332,41100,243,0,38,3,35,0,0.0,2022-02-20 23:57:48.820965
-455,OR,Odisha,OR_Odisha,Subarnapur,16382,92,16228,62,0,5,-4,9,0,0.0,2022-02-20 23:57:48.820965
-456,OR,Odisha,OR_Odisha,Sundargarh,90228,576,89004,648,0,96,35,54,7,0.0,2022-02-20 23:57:48.820965
-457,PB,Punjab,PB_Punjab,Amritsar,59258,73,57507,1678,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-458,PB,Punjab,PB_Punjab,Barnala,7440,36,7083,321,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-459,PB,Punjab,PB_Punjab,Bathinda,50718,130,49503,1085,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-460,PB,Punjab,PB_Punjab,Faridkot,16670,78,16255,337,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-461,PB,Punjab,PB_Punjab,Fatehgarh Sahib,11811,15,11442,354,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-462,PB,Punjab,PB_Punjab,Fazilka,23287,246,22497,544,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-463,PB,Punjab,PB_Punjab,Ferozepur,17807,39,17238,530,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-464,PB,Punjab,PB_Punjab,Gurdaspur,26866,59,25945,862,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-465,PB,Punjab,PB_Punjab,Hoshiarpur,40644,189,39365,1090,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-466,PB,Punjab,PB_Punjab,Jalandhar,78022,233,76218,1571,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-467,PB,Punjab,PB_Punjab,Kapurthala,21954,80,21295,579,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-468,PB,Punjab,PB_Punjab,Ludhiana,109560,179,107112,2269,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-469,PB,Punjab,PB_Punjab,Mansa,17218,10,16817,391,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-470,PB,Punjab,PB_Punjab,Moga,10964,18,10692,254,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-471,PB,Punjab,PB_Punjab,Pathankot,24379,156,23737,486,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-472,PB,Punjab,PB_Punjab,Patiala,61916,58,60402,1456,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-473,PB,Punjab,PB_Punjab,Rupnagar,17891,61,17378,452,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-474,PB,Punjab,PB_Punjab,S.A.S. Nagar,95329,388,93800,1141,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-475,PB,Punjab,PB_Punjab,Sangrur,14297,13,13551,733,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-476,PB,Punjab,PB_Punjab,Shahid Bhagat Singh Nagar,13370,22,12945,403,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-477,PB,Punjab,PB_Punjab,Sri Muktsar Sahib,22498,100,21861,537,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-478,PB,Punjab,PB_Punjab,Tarn Taran,10848,78,10377,393,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-479,PB,Punjab,PB_Punjab,Unknown,532,-733,1236,29,0,167,-60,218,9,0.0,2022-02-21 11:55:28.829132
-480,RJ,Rajasthan,RJ_Rajasthan,Ajmer,49478,310,48726,442,0,26,-151,176,1,0.0,2022-02-21T13:14:56.427279+05:30
-481,RJ,Rajasthan,RJ_Rajasthan,Alwar,84244,355,83570,319,0,27,-110,137,0,0.0,2022-02-21T13:14:56.427279+05:30
-482,RJ,Rajasthan,RJ_Rajasthan,Banswara,14427,453,13868,106,0,57,-20,77,0,0.0,2022-02-21T13:14:56.427279+05:30
-483,RJ,Rajasthan,RJ_Rajasthan,Baran,15155,126,14965,64,0,11,-10,21,0,0.0,2022-02-21T13:14:56.427279+05:30
-484,RJ,Rajasthan,RJ_Rajasthan,Barmer,21390,208,20979,203,0,4,-7,11,0,0.0,2022-02-21T13:14:56.427279+05:30
-485,RJ,Rajasthan,RJ_Rajasthan,Bharatpur,31327,137,30918,272,0,16,-31,47,0,0.0,2022-02-21T13:14:56.427279+05:30
-486,RJ,Rajasthan,RJ_Rajasthan,Bhilwara,38026,215,37650,161,0,9,-62,71,0,0.0,2022-02-21T13:14:56.427279+05:30
-487,RJ,Rajasthan,RJ_Rajasthan,Bikaner,49611,209,48821,581,0,31,-24,55,0,0.0,2022-02-21T13:14:56.427279+05:30
-488,RJ,Rajasthan,RJ_Rajasthan,Bundi,9711,22,9634,55,0,3,-5,8,0,0.0,2022-02-21T13:14:56.427279+05:30
-489,RJ,Rajasthan,RJ_Rajasthan,Chittorgarh,29291,86,29065,140,0,14,14,0,0,0.0,2022-02-21T13:14:56.427279+05:30
-490,RJ,Rajasthan,RJ_Rajasthan,Churu,20630,140,20376,114,0,29,-6,35,0,0.0,2022-02-21T13:14:56.427279+05:30
-491,RJ,Rajasthan,RJ_Rajasthan,Dausa,15739,74,15588,77,0,3,-10,13,0,0.0,2022-02-21T13:14:56.427279+05:30
-492,RJ,Rajasthan,RJ_Rajasthan,Dholpur,13707,80,13578,49,0,3,-30,33,0,0.0,2022-02-21T13:14:56.427279+05:30
-493,RJ,Rajasthan,RJ_Rajasthan,Dungarpur,25443,85,25224,134,0,1,-9,10,0,0.0,2022-02-21T13:14:56.427279+05:30
-494,RJ,Rajasthan,RJ_Rajasthan,Ganganagar,27949,443,27348,158,0,42,-40,82,0,0.0,2022-02-21T13:14:56.427279+05:30
-495,RJ,Rajasthan,RJ_Rajasthan,Hanumangarh,22332,115,22103,114,0,9,9,0,0,0.0,2022-02-21T13:14:56.427279+05:30
-496,RJ,Rajasthan,RJ_Rajasthan,Jaipur,271408,2959,266341,2108,0,214,-520,732,2,0.0,2022-02-21T13:14:56.427279+05:30
-497,RJ,Rajasthan,RJ_Rajasthan,Jaisalmer,16989,188,16733,68,0,48,12,36,0,0.0,2022-02-21T13:14:56.427279+05:30
-498,RJ,Rajasthan,RJ_Rajasthan,Jalore,10513,15,10420,78,0,0,0,0,0,0.0,2022-02-21T13:14:56.427279+05:30
-499,RJ,Rajasthan,RJ_Rajasthan,Jhalawar,17594,96,17291,207,0,15,-12,26,1,0.0,2022-02-21T13:14:56.427279+05:30
-500,RJ,Rajasthan,RJ_Rajasthan,Jhunjhunu,18974,349,18446,179,0,55,31,24,0,0.0,2022-02-21T13:14:56.427279+05:30
-501,RJ,Rajasthan,RJ_Rajasthan,Jodhpur,140372,326,138884,1162,0,80,-5,85,0,0.0,2022-02-21T13:14:56.427279+05:30
-502,RJ,Rajasthan,RJ_Rajasthan,Karauli,8872,165,8624,83,0,32,32,0,0,0.0,2022-02-21T13:14:56.427279+05:30
-503,RJ,Rajasthan,RJ_Rajasthan,Kota,69831,309,69045,477,0,45,-27,72,0,0.0,2022-02-21T13:14:56.427279+05:30
-504,RJ,Rajasthan,RJ_Rajasthan,Nagaur,23330,305,22828,197,0,63,13,50,0,0.0,2022-02-21T13:14:56.427279+05:30
-505,RJ,Rajasthan,RJ_Rajasthan,Other state/,337,0,298,39,0,0,0,0,0,0.0,2022-02-21T13:14:56.427279+05:30
-506,RJ,Rajasthan,RJ_Rajasthan,Pali,35796,145,35354,297,0,30,30,0,0,0.0,2022-02-21T13:14:56.427279+05:30
-507,RJ,Rajasthan,RJ_Rajasthan,Pratapgarh,11798,198,11535,65,0,11,-60,71,0,0.0,2022-02-21T13:14:56.427279+05:30
-508,RJ,Rajasthan,RJ_Rajasthan,Rajsamand,22697,498,22022,177,0,46,-3,49,0,0.0,2022-02-21T13:14:56.427279+05:30
-509,RJ,Rajasthan,RJ_Rajasthan,Sawai Madhopur,15712,143,15503,66,0,20,-13,33,0,0.0,2022-02-21T13:14:56.427279+05:30
-510,RJ,Rajasthan,RJ_Rajasthan,Sikar,37879,268,37248,363,0,17,-73,90,0,0.0,2022-02-21T13:14:56.427279+05:30
-511,RJ,Rajasthan,RJ_Rajasthan,Sirohi,17145,194,16863,88,0,6,-16,22,0,0.0,2022-02-21T13:14:56.427279+05:30
-512,RJ,Rajasthan,RJ_Rajasthan,Tonk,13218,117,12999,102,0,7,-23,30,0,0.0,2022-02-21T13:14:56.427279+05:30
-513,RJ,Rajasthan,RJ_Rajasthan,Udaipur,73885,470,72640,775,0,48,-38,86,0,0.0,2022-02-21T13:14:56.427279+05:30
-514,SK,Sikkim,SK_Sikkim,East Sikkim,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-515,SK,Sikkim,SK_Sikkim,North Sikkim,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-516,SK,Sikkim,SK_Sikkim,South Sikkim,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-517,SK,Sikkim,SK_Sikkim,Unknown,39027,140,38446,441,0,5,-24,29,0,0.0,2022-02-21 11:55:28.829132
-518,SK,Sikkim,SK_Sikkim,West Sikkim,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-519,TN,Tamil Nadu,TN_Tamil Nadu,Ariyalur,19870,96,19507,267,0,3,-15,18,0,0.0,2022-02-20T23:57:51.814461+05:30
-520,TN,Tamil Nadu,TN_Tamil Nadu,Chengalpattu,234520,1200,230666,2654,0,95,-162,257,0,0.0,2022-02-20T23:57:51.814461+05:30
-521,TN,Tamil Nadu,TN_Tamil Nadu,Chennai,748811,2987,736768,9056,0,219,-342,561,0,0.0,2022-02-20T23:57:51.814461+05:30
-522,TN,Tamil Nadu,TN_Tamil Nadu,Coimbatore,328858,2375,323871,2612,0,136,-397,532,1,0.0,2022-02-20T23:57:51.814461+05:30
-523,TN,Tamil Nadu,TN_Tamil Nadu,Cuddalore,74144,299,72952,893,0,20,-27,47,0,0.0,2022-02-20T23:57:51.814461+05:30
-524,TN,Tamil Nadu,TN_Tamil Nadu,Dharmapuri,36124,167,35674,283,0,13,-18,31,0,0.0,2022-02-20T23:57:51.814461+05:30
-525,TN,Tamil Nadu,TN_Tamil Nadu,Dindigul,37434,108,36661,665,0,3,-19,22,0,0.0,2022-02-20T23:57:51.814461+05:30
-526,TN,Tamil Nadu,TN_Tamil Nadu,Erode,132420,915,130772,733,0,42,-111,153,0,0.0,2022-02-20T23:57:51.814461+05:30
-527,TN,Tamil Nadu,TN_Tamil Nadu,Kallakurichi,36502,132,36155,215,0,5,-15,20,0,0.0,2022-02-20T23:57:51.814461+05:30
-528,TN,Tamil Nadu,TN_Tamil Nadu,Kancheepuram,94179,408,92469,1302,0,24,-38,62,0,0.0,2022-02-20T23:57:51.814461+05:30
-529,TN,Tamil Nadu,TN_Tamil Nadu,Kanyakumari,86058,590,84384,1084,0,22,-101,123,0,0.0,2022-02-20T23:57:51.814461+05:30
-530,TN,Tamil Nadu,TN_Tamil Nadu,Karur,29708,160,29176,372,0,12,-20,32,0,0.0,2022-02-20T23:57:51.814461+05:30
-531,TN,Tamil Nadu,TN_Tamil Nadu,Krishnagiri,59522,316,58836,370,0,17,-41,58,0,0.0,2022-02-20T23:57:51.814461+05:30
-532,TN,Tamil Nadu,TN_Tamil Nadu,Madurai,90949,157,89557,1235,0,12,-24,36,0,0.0,2022-02-20T23:57:51.814461+05:30
-533,TN,Tamil Nadu,TN_Tamil Nadu,Mayiladuthurai,26475,31,26116,328,0,3,-2,5,0,0.0,2022-02-20T23:57:51.814461+05:30
-534,TN,Tamil Nadu,TN_Tamil Nadu,Nagapattinam,25409,155,24880,374,0,3,-30,33,0,0.0,2022-02-20T23:57:51.814461+05:30
-535,TN,Tamil Nadu,TN_Tamil Nadu,Namakkal,67855,435,66887,533,0,27,-71,98,0,0.0,2022-02-20T23:57:51.814461+05:30
-536,TN,Tamil Nadu,TN_Tamil Nadu,Nilgiris,41832,312,41294,226,0,23,-36,59,0,0.0,2022-02-20T23:57:51.814461+05:30
-537,TN,Tamil Nadu,TN_Tamil Nadu,Perambalur,14446,34,14163,249,0,1,-8,9,0,0.0,2022-02-20T23:57:51.814461+05:30
-538,TN,Tamil Nadu,TN_Tamil Nadu,Pudukkottai,34423,147,33850,426,0,11,-16,27,0,0.0,2022-02-20T23:57:51.814461+05:30
-539,TN,Tamil Nadu,TN_Tamil Nadu,Ramanathapuram,24640,83,24190,367,0,6,-9,15,0,0.0,2022-02-20T23:57:51.814461+05:30
-540,TN,Tamil Nadu,TN_Tamil Nadu,Ranipet,53866,154,52925,787,0,4,-34,38,0,0.0,2022-02-20T23:57:51.814461+05:30
-541,TN,Tamil Nadu,TN_Tamil Nadu,Salem,127138,766,124612,1760,0,32,-113,145,0,0.0,2022-02-20T23:57:51.814461+05:30
-542,TN,Tamil Nadu,TN_Tamil Nadu,Sivaganga,23737,148,23370,219,0,11,-15,26,0,0.0,2022-02-20T23:57:51.814461+05:30
-543,TN,Tamil Nadu,TN_Tamil Nadu,Tenkasi,32719,42,32187,490,0,4,-2,6,0,0.0,2022-02-20T23:57:51.814461+05:30
-544,TN,Tamil Nadu,TN_Tamil Nadu,Thanjavur,92002,385,90579,1038,0,12,-70,82,0,0.0,2022-02-20T23:57:51.814461+05:30
-545,TN,Tamil Nadu,TN_Tamil Nadu,Theni,50576,96,49948,532,0,2,-23,25,0,0.0,2022-02-20T23:57:51.814461+05:30
-546,TN,Tamil Nadu,TN_Tamil Nadu,Thiruvallur,147132,716,144480,1936,0,41,-88,129,0,0.0,2022-02-20T23:57:51.814461+05:30
-547,TN,Tamil Nadu,TN_Tamil Nadu,Thiruvarur,47944,226,47247,471,0,10,-58,68,0,0.0,2022-02-20T23:57:51.814461+05:30
-548,TN,Tamil Nadu,TN_Tamil Nadu,Thoothukkudi,64892,137,64309,446,0,6,-14,19,1,0.0,2022-02-20T23:57:51.814461+05:30
-549,TN,Tamil Nadu,TN_Tamil Nadu,Tiruchirappalli,94753,542,93052,1159,0,25,-78,103,0,0.0,2022-02-20T23:57:51.814461+05:30
-550,TN,Tamil Nadu,TN_Tamil Nadu,Tirunelveli,62696,184,62067,445,0,8,-44,52,0,0.0,2022-02-20T23:57:51.814461+05:30
-551,TN,Tamil Nadu,TN_Tamil Nadu,Tirupathur,35706,57,35016,633,0,1,-12,13,0,0.0,2022-02-20T23:57:51.814461+05:30
-552,TN,Tamil Nadu,TN_Tamil Nadu,Tiruppur,129683,675,127956,1052,0,43,-93,135,1,0.0,2022-02-20T23:57:51.814461+05:30
-553,TN,Tamil Nadu,TN_Tamil Nadu,Tiruvannamalai,66723,248,65791,684,0,16,-47,63,0,0.0,2022-02-20T23:57:51.814461+05:30
-554,TN,Tamil Nadu,TN_Tamil Nadu,Vellore,57132,129,55841,1162,0,11,-5,16,0,0.0,2022-02-20T23:57:51.814461+05:30
-555,TN,Tamil Nadu,TN_Tamil Nadu,Viluppuram,54522,178,53978,366,0,17,-13,30,0,0.0,2022-02-20T23:57:51.814461+05:30
-556,TN,Tamil Nadu,TN_Tamil Nadu,Virudhunagar,56756,144,56058,554,0,9,-15,24,0,0.0,2022-02-20T23:57:51.814461+05:30
-557,TG,Telangana,TG_Telangana,Adilabad,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-558,TG,Telangana,TG_Telangana,Bhadradri Kothagudem,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-559,TG,Telangana,TG_Telangana,Foreign Evacuees,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-560,TG,Telangana,TG_Telangana,Hyderabad,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-561,TG,Telangana,TG_Telangana,Jagtial,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-562,TG,Telangana,TG_Telangana,Jangaon,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-563,TG,Telangana,TG_Telangana,Jayashankar Bhupalapally,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-564,TG,Telangana,TG_Telangana,Jogulamba Gadwal,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-565,TG,Telangana,TG_Telangana,Kamareddy,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-566,TG,Telangana,TG_Telangana,Karimnagar,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-567,TG,Telangana,TG_Telangana,Khammam,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-568,TG,Telangana,TG_Telangana,Komaram Bheem,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-569,TG,Telangana,TG_Telangana,Mahabubabad,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-570,TG,Telangana,TG_Telangana,Mahabubnagar,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-571,TG,Telangana,TG_Telangana,Mancherial,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-572,TG,Telangana,TG_Telangana,Medak,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-573,TG,Telangana,TG_Telangana,Medchal Malkajgiri,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-574,TG,Telangana,TG_Telangana,Mulugu,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-575,TG,Telangana,TG_Telangana,Nagarkurnool,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-576,TG,Telangana,TG_Telangana,Nalgonda,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-577,TG,Telangana,TG_Telangana,Narayanpet,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-578,TG,Telangana,TG_Telangana,Nirmal,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-579,TG,Telangana,TG_Telangana,Nizamabad,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-580,TG,Telangana,TG_Telangana,Other State,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-581,TG,Telangana,TG_Telangana,Peddapalli,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-582,TG,Telangana,TG_Telangana,Rajanna Sircilla,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-583,TG,Telangana,TG_Telangana,Ranga Reddy,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-584,TG,Telangana,TG_Telangana,Sangareddy,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-585,TG,Telangana,TG_Telangana,Siddipet,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-586,TG,Telangana,TG_Telangana,Suryapet,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-587,TG,Telangana,TG_Telangana,Unknown,786678,5135,777434,4109,0,256,-511,767,0,0.0,2022-02-21 11:55:28.829132
-588,TG,Telangana,TG_Telangana,Vikarabad,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-589,TG,Telangana,TG_Telangana,Wanaparthy,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-590,TG,Telangana,TG_Telangana,Warangal Rural,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-591,TG,Telangana,TG_Telangana,Warangal Urban,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-592,TG,Telangana,TG_Telangana,Yadadri Bhuvanagiri,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-593,TR,Tripura,TR_Tripura,Dhalai,8440,5,8395,40,2,0,-1,1,0,2 cases were recorded as patient went out of state,2022-02-21 13:14:56.506712
-594,TR,Tripura,TR_Tripura,Gomati,9379,16,9276,87,4,0,-1,1,0,4 cases were recorded as patient went out of state,2022-02-21 13:14:56.506712
-595,TR,Tripura,TR_Tripura,Khowai,5140,2,5082,56,0,0,0,0,0,0 cases were recorded as patient went out of state,2022-02-21 13:14:56.506712
-596,TR,Tripura,TR_Tripura,North Tripura,8798,16,8744,38,7,0,-7,7,0,7 cases were recorded as patient went out of state,2022-02-21 13:14:56.506712
-597,TR,Tripura,TR_Tripura,Sipahijala,7260,11,7162,87,2,0,-2,2,0,2 cases were recorded as patient went out of state,2022-02-21 13:14:56.506712
-598,TR,Tripura,TR_Tripura,South Tripura,11845,7,11781,57,3,1,1,0,0,3 cases were recorded as patient went out of state,2022-02-21 13:14:56.506712
-599,TR,Tripura,TR_Tripura,Unokoti,10056,10,9972,74,4,0,-1,1,0,4 cases were recorded as patient went out of state,2022-02-21 13:14:56.506712
-600,TR,Tripura,TR_Tripura,West Tripura,39918,59,39382,477,43,0,-5,5,0,43 cases were recorded as patient went out of state,2022-02-21 13:14:56.506712
-601,UT,Uttarakhand,UT_Uttarakhand,Almora,16621,1040,15381,200,991,2,2,0,0,991 cases were recorded as Migrated / Others,2022-02-21T13:14:58.582509+05:30
-602,UT,Uttarakhand,UT_Uttarakhand,Bageshwar,7829,119,7649,61,109,2,-4,6,0,109 cases were recorded as Migrated / Others,2022-02-21T13:14:58.582509+05:30
-603,UT,Uttarakhand,UT_Uttarakhand,Chamoli,15382,505,14812,65,311,16,14,2,0,311 cases were recorded as Migrated / Others,2022-02-21T13:14:58.582509+05:30
-604,UT,Uttarakhand,UT_Uttarakhand,Champawat,9512,444,9014,54,209,5,5,0,0,209 cases were recorded as Migrated / Others,2022-02-21T13:14:58.582509+05:30
-605,UT,Uttarakhand,UT_Uttarakhand,Dehradun,144916,1295,139936,3685,964,60,59,0,1,964 cases were recorded as Migrated / Others,2022-02-21T13:14:58.582509+05:30
-606,UT,Uttarakhand,UT_Uttarakhand,Haridwar,64336,1855,61435,1046,1618,22,19,3,0,1618 cases were recorded as Migrated / Others,2022-02-21T13:14:58.582509+05:30
-607,UT,Uttarakhand,UT_Uttarakhand,Nainital,50521,275,49270,976,179,5,4,1,0,179 cases were recorded as Migrated / Others,2022-02-21T13:14:58.582509+05:30
-608,UT,Uttarakhand,UT_Uttarakhand,Pauri Garhwal,22884,1904,20649,331,1675,10,0,10,0,1675 cases were recorded as Migrated / Others,2022-02-21T13:14:58.582509+05:30
-609,UT,Uttarakhand,UT_Uttarakhand,Pithoragarh,12792,323,12283,186,240,3,-17,20,0,240 cases were recorded as Migrated / Others,2022-02-21T13:14:58.582509+05:30
-610,UT,Uttarakhand,UT_Uttarakhand,Rudraprayag,11449,321,11020,108,281,3,3,0,0,281 cases were recorded as Migrated / Others,2022-02-21T13:14:58.582509+05:30
-611,UT,Uttarakhand,UT_Uttarakhand,Tehri Garhwal,18159,1272,16772,115,1212,6,6,0,0,1212 cases were recorded as Migrated / Others,2022-02-21T13:14:58.582509+05:30
-612,UT,Uttarakhand,UT_Uttarakhand,Udham Singh Nagar,46672,1116,44790,766,1078,4,-1,5,0,1078 cases were recorded as Migrated / Others,2022-02-21T13:14:58.582509+05:30
-613,UT,Uttarakhand,UT_Uttarakhand,Uttarkashi,14147,518,13551,78,503,6,3,3,0,503 cases were recorded as Migrated / Others,2022-02-21T13:14:58.582509+05:30
-614,UP,Uttar Pradesh,UP_Uttar Pradesh,Agra,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-615,UP,Uttar Pradesh,UP_Uttar Pradesh,Aligarh,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-616,UP,Uttar Pradesh,UP_Uttar Pradesh,Ambedkar Nagar,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-617,UP,Uttar Pradesh,UP_Uttar Pradesh,Amethi,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-618,UP,Uttar Pradesh,UP_Uttar Pradesh,Amroha,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-619,UP,Uttar Pradesh,UP_Uttar Pradesh,Auraiya,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-620,UP,Uttar Pradesh,UP_Uttar Pradesh,Ayodhya,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-621,UP,Uttar Pradesh,UP_Uttar Pradesh,Azamgarh,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-622,UP,Uttar Pradesh,UP_Uttar Pradesh,Baghpat,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-623,UP,Uttar Pradesh,UP_Uttar Pradesh,Bahraich,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-624,UP,Uttar Pradesh,UP_Uttar Pradesh,Ballia,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-625,UP,Uttar Pradesh,UP_Uttar Pradesh,Balrampur,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-626,UP,Uttar Pradesh,UP_Uttar Pradesh,Banda,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-627,UP,Uttar Pradesh,UP_Uttar Pradesh,Barabanki,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-628,UP,Uttar Pradesh,UP_Uttar Pradesh,Bareilly,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-629,UP,Uttar Pradesh,UP_Uttar Pradesh,Basti,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-630,UP,Uttar Pradesh,UP_Uttar Pradesh,Bhadohi,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-631,UP,Uttar Pradesh,UP_Uttar Pradesh,Bijnor,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-632,UP,Uttar Pradesh,UP_Uttar Pradesh,Budaun,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-633,UP,Uttar Pradesh,UP_Uttar Pradesh,Bulandshahr,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-634,UP,Uttar Pradesh,UP_Uttar Pradesh,Chandauli,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-635,UP,Uttar Pradesh,UP_Uttar Pradesh,Chitrakoot,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-636,UP,Uttar Pradesh,UP_Uttar Pradesh,Deoria,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-637,UP,Uttar Pradesh,UP_Uttar Pradesh,Etah,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-638,UP,Uttar Pradesh,UP_Uttar Pradesh,Etawah,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-639,UP,Uttar Pradesh,UP_Uttar Pradesh,Farrukhabad,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-640,UP,Uttar Pradesh,UP_Uttar Pradesh,Fatehpur,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-641,UP,Uttar Pradesh,UP_Uttar Pradesh,Firozabad,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-642,UP,Uttar Pradesh,UP_Uttar Pradesh,Gautam Buddha Nagar,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-643,UP,Uttar Pradesh,UP_Uttar Pradesh,Ghaziabad,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-644,UP,Uttar Pradesh,UP_Uttar Pradesh,Ghazipur,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-645,UP,Uttar Pradesh,UP_Uttar Pradesh,Gonda,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-646,UP,Uttar Pradesh,UP_Uttar Pradesh,Gorakhpur,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-647,UP,Uttar Pradesh,UP_Uttar Pradesh,Hamirpur,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-648,UP,Uttar Pradesh,UP_Uttar Pradesh,Hapur,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-649,UP,Uttar Pradesh,UP_Uttar Pradesh,Hardoi,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-650,UP,Uttar Pradesh,UP_Uttar Pradesh,Hathras,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-651,UP,Uttar Pradesh,UP_Uttar Pradesh,Jalaun,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-652,UP,Uttar Pradesh,UP_Uttar Pradesh,Jaunpur,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-653,UP,Uttar Pradesh,UP_Uttar Pradesh,Jhansi,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-654,UP,Uttar Pradesh,UP_Uttar Pradesh,Kannauj,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-655,UP,Uttar Pradesh,UP_Uttar Pradesh,Kanpur Dehat,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-656,UP,Uttar Pradesh,UP_Uttar Pradesh,Kanpur Nagar,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-657,UP,Uttar Pradesh,UP_Uttar Pradesh,Kasganj,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-658,UP,Uttar Pradesh,UP_Uttar Pradesh,Kaushambi,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-659,UP,Uttar Pradesh,UP_Uttar Pradesh,Kushinagar,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-660,UP,Uttar Pradesh,UP_Uttar Pradesh,Lakhimpur Kheri,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-661,UP,Uttar Pradesh,UP_Uttar Pradesh,Lalitpur,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-662,UP,Uttar Pradesh,UP_Uttar Pradesh,Lucknow,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-663,UP,Uttar Pradesh,UP_Uttar Pradesh,Maharajganj,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-664,UP,Uttar Pradesh,UP_Uttar Pradesh,Mahoba,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-665,UP,Uttar Pradesh,UP_Uttar Pradesh,Mainpuri,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-666,UP,Uttar Pradesh,UP_Uttar Pradesh,Mathura,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-667,UP,Uttar Pradesh,UP_Uttar Pradesh,Mau,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-668,UP,Uttar Pradesh,UP_Uttar Pradesh,Meerut,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-669,UP,Uttar Pradesh,UP_Uttar Pradesh,Mirzapur,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-670,UP,Uttar Pradesh,UP_Uttar Pradesh,Moradabad,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-671,UP,Uttar Pradesh,UP_Uttar Pradesh,Muzaffarnagar,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-672,UP,Uttar Pradesh,UP_Uttar Pradesh,Pilibhit,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-673,UP,Uttar Pradesh,UP_Uttar Pradesh,Pratapgarh,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-674,UP,Uttar Pradesh,UP_Uttar Pradesh,Prayagraj,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-675,UP,Uttar Pradesh,UP_Uttar Pradesh,Rae Bareli,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-676,UP,Uttar Pradesh,UP_Uttar Pradesh,Rampur,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-677,UP,Uttar Pradesh,UP_Uttar Pradesh,Saharanpur,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-678,UP,Uttar Pradesh,UP_Uttar Pradesh,Sambhal,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-679,UP,Uttar Pradesh,UP_Uttar Pradesh,Sant Kabir Nagar,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-680,UP,Uttar Pradesh,UP_Uttar Pradesh,Shahjahanpur,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-681,UP,Uttar Pradesh,UP_Uttar Pradesh,Shamli,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-682,UP,Uttar Pradesh,UP_Uttar Pradesh,Shrawasti,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-683,UP,Uttar Pradesh,UP_Uttar Pradesh,Siddharthnagar,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-684,UP,Uttar Pradesh,UP_Uttar Pradesh,Sitapur,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-685,UP,Uttar Pradesh,UP_Uttar Pradesh,Sonbhadra,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-686,UP,Uttar Pradesh,UP_Uttar Pradesh,Sultanpur,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-687,UP,Uttar Pradesh,UP_Uttar Pradesh,Unknown,2064490,6790,2034267,23433,0,613,-762,1368,7,0.0,2022-02-21 11:55:28.829132
-688,UP,Uttar Pradesh,UP_Uttar Pradesh,Unnao,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-689,UP,Uttar Pradesh,UP_Uttar Pradesh,Varanasi,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-690,WB,West Bengal,WB_West Bengal,Alipurduar,18867,186,18571,110,0,12,-33,45,0,0.0,2022-02-20T23:57:55.481217+05:30
-691,WB,West Bengal,WB_West Bengal,Bankura,43831,193,43352,286,0,10,-38,48,0,0.0,2022-02-20T23:57:55.481217+05:30
-692,WB,West Bengal,WB_West Bengal,Birbhum,57644,253,57041,350,0,13,-50,63,0,0.0,2022-02-20T23:57:55.481217+05:30
-693,WB,West Bengal,WB_West Bengal,Cooch Behar,33938,163,33669,106,0,8,-32,40,0,0.0,2022-02-20T23:57:55.481217+05:30
-694,WB,West Bengal,WB_West Bengal,Dakshin Dinajpur,23039,143,22703,193,0,12,-22,34,0,0.0,2022-02-20T23:57:55.481217+05:30
-695,WB,West Bengal,WB_West Bengal,Darjeeling,68961,275,68089,597,0,11,-59,69,1,0.0,2022-02-20T23:57:55.481217+05:30
-696,WB,West Bengal,WB_West Bengal,Hooghly,107872,245,106508,1119,0,9,-52,61,0,0.0,2022-02-20T23:57:55.481217+05:30
-697,WB,West Bengal,WB_West Bengal,Howrah,124932,214,123080,1638,0,14,-38,52,0,0.0,2022-02-20T23:57:55.481217+05:30
-698,WB,West Bengal,WB_West Bengal,Jalpaiguri,49541,259,48635,647,0,8,-57,65,0,0.0,2022-02-20T23:57:55.481217+05:30
-699,WB,West Bengal,WB_West Bengal,Jhargram,15533,63,15440,30,0,4,-11,15,0,0.0,2022-02-20T23:57:55.481217+05:30
-700,WB,West Bengal,WB_West Bengal,Kalimpong,8500,57,8386,57,0,2,-12,14,0,0.0,2022-02-20T23:57:55.481217+05:30
-701,WB,West Bengal,WB_West Bengal,Kolkata,446727,849,440238,5640,0,40,-179,212,7,0.0,2022-02-20T23:57:55.481217+05:30
-702,WB,West Bengal,WB_West Bengal,Malda,44391,202,43990,199,0,10,-40,50,0,0.0,2022-02-20T23:57:55.481217+05:30
-703,WB,West Bengal,WB_West Bengal,Murshidabad,41594,127,41111,356,0,9,-22,31,0,0.0,2022-02-20T23:57:55.481217+05:30
-704,WB,West Bengal,WB_West Bengal,Nadia,87536,319,86277,940,0,20,-58,78,0,0.0,2022-02-20T23:57:55.481217+05:30
-705,WB,West Bengal,WB_West Bengal,North 24 Parganas,402716,841,396548,5327,0,43,-166,208,1,0.0,2022-02-20T23:57:55.481217+05:30
-706,WB,West Bengal,WB_West Bengal,Other State,66,0,63,3,0,0,0,0,0,0.0,2022-02-20T23:57:55.481217+05:30
-707,WB,West Bengal,WB_West Bengal,Paschim Bardhaman,75577,188,74958,431,0,9,-38,47,0,0.0,2022-02-20T23:57:55.481217+05:30
-708,WB,West Bengal,WB_West Bengal,Paschim Medinipur,62496,189,61778,529,0,12,-34,46,0,0.0,2022-02-20T23:57:55.481217+05:30
-709,WB,West Bengal,WB_West Bengal,Purba Bardhaman,55357,185,54934,238,0,7,-39,46,0,0.0,2022-02-20T23:57:55.481217+05:30
-710,WB,West Bengal,WB_West Bengal,Purba Medinipur,67794,97,67256,441,0,3,-23,25,1,0.0,2022-02-20T23:57:55.481217+05:30
-711,WB,West Bengal,WB_West Bengal,Purulia,24191,72,23997,122,0,1,-18,19,0,0.0,2022-02-20T23:57:55.481217+05:30
-712,WB,West Bengal,WB_West Bengal,South 24 Parganas,127156,329,125321,1506,0,17,-67,82,2,0.0,2022-02-20T23:57:55.481217+05:30
-713,WB,West Bengal,WB_West Bengal,Uttar Dinajpur,25094,91,24736,267,0,4,-20,23,1,0.0,2022-02-20T23:57:55.481217+05:30
-714,AN,Andaman and Nicobar Islands,AN_Andaman and Nicobar Islands,Nicobars,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-715,AN,Andaman and Nicobar Islands,AN_Andaman and Nicobar Islands,North and Middle Andaman,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-716,AN,Andaman and Nicobar Islands,AN_Andaman and Nicobar Islands,South Andaman,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-717,AN,Andaman and Nicobar Islands,AN_Andaman and Nicobar Islands,Unknown,10005,30,9846,129,0,4,-9,13,0,0.0,2022-02-21 11:55:28.829132
-718,CH,Chandigarh,CH_Chandigarh,Chandigarh,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-719,CH,Chandigarh,CH_Chandigarh,Unknown,91567,229,90177,1161,0,22,-20,41,1,0.0,2022-02-21 11:55:28.829132
-720,DN,Dadra and Nagar Haveli and Daman and Diu,DN_Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-721,DN,Dadra and Nagar Haveli and Daman and Diu,DN_Dadra and Nagar Haveli and Daman and Diu,Daman,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-722,DN,Dadra and Nagar Haveli and Daman and Diu,DN_Dadra and Nagar Haveli and Daman and Diu,Diu,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-723,DN,Dadra and Nagar Haveli and Daman and Diu,DN_Dadra and Nagar Haveli and Daman and Diu,Other State,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-724,DN,Dadra and Nagar Haveli and Daman and Diu,DN_Dadra and Nagar Haveli and Daman and Diu,Unknown,11437,7,11426,4,0,0,-1,1,0,0.0,2022-02-21 11:55:28.829132
-725,DL,Delhi,DL_Delhi,Central Delhi,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-726,DL,Delhi,DL_Delhi,East Delhi,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-727,DL,Delhi,DL_Delhi,New Delhi,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-728,DL,Delhi,DL_Delhi,North Delhi,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-729,DL,Delhi,DL_Delhi,North East Delhi,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-730,DL,Delhi,DL_Delhi,North West Delhi,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-731,DL,Delhi,DL_Delhi,Shahdara,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-732,DL,Delhi,DL_Delhi,South Delhi,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-733,DL,Delhi,DL_Delhi,South East Delhi,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-734,DL,Delhi,DL_Delhi,South West Delhi,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-735,DL,Delhi,DL_Delhi,Unknown,1856071,2545,1827425,26101,0,662,-72,730,4,0.0,2022-02-21 11:55:28.829132
-736,DL,Delhi,DL_Delhi,West Delhi,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-737,JK,Jammu and Kashmir,JK_Jammu and Kashmir,Anantnag,22412,58,22135,219,0,3,-31,34,0,0.0,2022-02-20 19:58:09.765495
-738,JK,Jammu and Kashmir,JK_Jammu and Kashmir,Bandipora,13661,25,13518,118,0,2,-36,38,0,0.0,2022-02-20 19:58:09.765496
-739,JK,Jammu and Kashmir,JK_Jammu and Kashmir,Baramulla,37556,115,37137,304,0,5,-11,16,0,0.0,2022-02-20 19:58:09.765489
-740,JK,Jammu and Kashmir,JK_Jammu and Kashmir,Budgam,34776,61,34478,237,0,4,-8,12,0,0.0,2022-02-20 19:58:09.765490
-741,JK,Jammu and Kashmir,JK_Jammu and Kashmir,Doda,11349,359,10846,144,0,25,-40,65,0,0.0,2022-02-20 19:58:09.765508
-742,JK,Jammu and Kashmir,JK_Jammu and Kashmir,Ganderbal,13626,19,13523,84,0,0,-6,6,0,0.0,2022-02-20 19:58:09.765497
-743,JK,Jammu and Kashmir,JK_Jammu and Kashmir,Jammu,75786,379,74185,1222,0,43,-53,96,0,0.0,2022-02-20 19:58:09.765503
-744,JK,Jammu and Kashmir,JK_Jammu and Kashmir,Kathua,11370,53,11151,166,0,4,-10,14,0,0.0,2022-02-20 19:58:09.765509
-745,JK,Jammu and Kashmir,JK_Jammu and Kashmir,Kishtwar,5847,19,5783,45,0,4,4,0,0,0.0,2022-02-20 19:58:09.765512
-746,JK,Jammu and Kashmir,JK_Jammu and Kashmir,Kulgam,16304,29,16157,118,0,3,0,3,0,0.0,2022-02-20 19:58:09.765500
-747,JK,Jammu and Kashmir,JK_Jammu and Kashmir,Kupwara,21697,64,21459,174,0,8,-10,18,0,0.0,2022-02-20 19:58:09.765493
-748,JK,Jammu and Kashmir,JK_Jammu and Kashmir,Pulwama,18416,11,18204,201,0,7,2,5,0,0.0,2022-02-20 19:58:09.765492
-749,JK,Jammu and Kashmir,JK_Jammu and Kashmir,Punch,7729,25,7594,110,0,0,-6,6,0,0.0,2022-02-20 19:58:09.765513
-750,JK,Jammu and Kashmir,JK_Jammu and Kashmir,Rajouri,12789,30,12511,248,0,2,-7,9,0,0.0,2022-02-20 19:58:09.765506
-751,JK,Jammu and Kashmir,JK_Jammu and Kashmir,Ramban,8102,81,7952,69,0,5,-16,21,0,0.0,2022-02-20 19:58:09.765514
-752,JK,Jammu and Kashmir,JK_Jammu and Kashmir,Reasi,8697,25,8624,48,0,0,-14,14,0,0.0,2022-02-20 19:58:09.765516
-753,JK,Jammu and Kashmir,JK_Jammu and Kashmir,Samba,9073,30,8918,125,0,0,0,0,0,0.0,2022-02-20 19:58:09.765511
-754,JK,Jammu and Kashmir,JK_Jammu and Kashmir,Shopiyan,6304,21,6223,60,0,0,0,0,0,0.0,2022-02-20 19:58:09.765501
-755,JK,Jammu and Kashmir,JK_Jammu and Kashmir,Srinagar,102103,516,100680,907,0,29,-107,136,0,0.0,2022-02-20 19:58:09.765469
-756,JK,Jammu and Kashmir,JK_Jammu and Kashmir,Udhampur,14709,29,14533,147,0,7,4,3,0,0.0,2022-02-20 19:58:09.765504
-757,LA,Ladakh,LA_Ladakh,KARGIL,5256,52,5144,60,0,0,0,0,0,0.0,2022-02-21T13:25:48.648175+05:30
-758,LA,Ladakh,LA_Ladakh,LEH,22579,289,22122,168,0,0,0,0,0,0.0,2022-02-21T13:25:48.648175+05:30
-759,LD,Lakshadweep,LD_Lakshadweep,Lakshadweep,0,0,0,0,0,0,0,0,0,0.0,2022-02-21 11:55:28.829132
-760,LD,Lakshadweep,LD_Lakshadweep,Unknown,11378,42,11284,52,0,7,-22,29,0,0.0,2022-02-21 11:55:28.829132
-761,PY,Puducherry,PY_Puducherry,Karaikal,23009,145,22600,264,0,9,-37,46,0,0.0,2022-02-20 22:56:17.013864
-762,PY,Puducherry,PY_Puducherry,Mahe,6754,20,6679,55,0,3,0,3,0,0.0,2022-02-20 22:56:17.013864
-763,PY,Puducherry,PY_Puducherry,Puducherry,127322,228,125566,1528,0,17,-35,51,1,0.0,2022-02-20 22:56:17.013864
-764,PY,Puducherry,PY_Puducherry,Yanam,8512,26,8373,113,0,4,-4,8,0,0.0,2022-02-20 22:56:17.013864
+0,AP,Andhra Pradesh,AP_Andhra Pradesh,Anantapur,177073,122,175846,1105,0,3,-11,14,0,0.0,2022-02-21 23:55:28.686998
+1,AP,Andhra Pradesh,AP_Andhra Pradesh,Chittoor,272190,220,269976,1994,0,12,-12,23,1,0.0,2022-02-21 23:55:28.686998
+2,AP,Andhra Pradesh,AP_Andhra Pradesh,East Godavari,316097,2997,311802,1298,0,70,-123,193,0,0.0,2022-02-21 23:55:28.686998
+3,AP,Andhra Pradesh,AP_Andhra Pradesh,Guntur,202859,420,201163,1276,0,15,-73,88,0,0.0,2022-02-21 23:55:28.686998
+4,AP,Andhra Pradesh,AP_Andhra Pradesh,Krishna,136615,804,134320,1491,0,24,-181,205,0,0.0,2022-02-21 23:55:28.686998
+5,AP,Andhra Pradesh,AP_Andhra Pradesh,Kurnool,144214,62,143285,867,0,1,-2,3,0,0.0,2022-02-21 23:55:28.686998
+6,AP,Andhra Pradesh,AP_Andhra Pradesh,Other Countries,434,0,434,0,0,0,0,0,0,0.0,2022-02-21 23:55:28.686998
+7,AP,Andhra Pradesh,AP_Andhra Pradesh,Other States,2461,0,2461,0,0,0,0,0,0,0.0,2022-02-21 23:55:28.686998
+8,AP,Andhra Pradesh,AP_Andhra Pradesh,Prakasam,155752,217,154389,1146,0,15,-109,124,0,0.0,2022-02-21 23:55:28.686998
+9,AP,Andhra Pradesh,AP_Andhra Pradesh,S.P.S. Nellore,164246,150,163007,1089,0,15,-19,34,0,0.0,2022-02-21 23:55:28.686998
+10,AP,Andhra Pradesh,AP_Andhra Pradesh,Srikakulam,133912,36,133078,798,0,0,-11,11,0,0.0,2022-02-21 23:55:28.686998
+11,AP,Andhra Pradesh,AP_Andhra Pradesh,Visakhapatnam,190659,102,189374,1183,0,4,2,2,0,0.0,2022-02-21 23:55:28.686998
+12,AP,Andhra Pradesh,AP_Andhra Pradesh,Vizianagaram,92208,64,91465,679,0,0,-18,18,0,0.0,2022-02-21 23:55:28.686998
+13,AP,Andhra Pradesh,AP_Andhra Pradesh,West Godavari,192957,675,191146,1136,0,15,-213,228,0,0.0,2022-02-21 23:55:28.686998
+14,AP,Andhra Pradesh,AP_Andhra Pradesh,Y.S.R. Kadapa,134790,116,134022,652,0,8,1,7,0,0.0,2022-02-21 23:55:28.686998
+15,AR,Arunachal Pradesh,AR_Arunachal Pradesh,Anjaw,1131,6,1122,3,0,0,0,0,0,0.0,2022-02-21 21:55:34.180628
+16,AR,Arunachal Pradesh,AR_Arunachal Pradesh,Changlang,4253,2,4229,22,0,0,-8,8,0,0.0,2022-02-21 21:55:34.180652
+17,AR,Arunachal Pradesh,AR_Arunachal Pradesh,East Kameng,1215,3,1212,0,0,0,0,0,0,0.0,2022-02-21 21:55:34.180656
+18,AR,Arunachal Pradesh,AR_Arunachal Pradesh,East Siang,3670,8,3644,18,0,6,6,0,0,0.0,2022-02-21 21:55:34.180655
+19,AR,Arunachal Pradesh,AR_Arunachal Pradesh,Kamle,583,6,577,0,0,0,-3,3,0,0.0,2022-02-21 21:55:34.180657
+20,AR,Arunachal Pradesh,AR_Arunachal Pradesh,Kra Daadi,270,0,270,0,0,0,0,0,0,0.0,2022-02-21 21:55:34.180660
+21,AR,Arunachal Pradesh,AR_Arunachal Pradesh,Kurung Kumey,526,0,525,1,0,0,0,0,0,0.0,2022-02-21 21:55:34.180662
+22,AR,Arunachal Pradesh,AR_Arunachal Pradesh,Lepa Rada,1026,4,1019,3,0,0,0,0,0,0.0,2022-02-21 21:55:34.180663
+23,AR,Arunachal Pradesh,AR_Arunachal Pradesh,Lohit,3402,17,3356,29,0,2,-2,4,0,0.0,2022-02-21 21:55:34.180665
+24,AR,Arunachal Pradesh,AR_Arunachal Pradesh,Longding,926,16,908,2,0,6,-2,8,0,0.0,2022-02-21 21:55:34.180666
+25,AR,Arunachal Pradesh,AR_Arunachal Pradesh,Lower Dibang Valley,2841,11,2817,13,0,2,2,0,0,0.0,2022-02-21 21:55:34.180667
+26,AR,Arunachal Pradesh,AR_Arunachal Pradesh,Lower Siang,831,1,822,8,0,0,0,0,0,0.0,2022-02-21 21:55:34.180669
+27,AR,Arunachal Pradesh,AR_Arunachal Pradesh,Lower Subansiri,3587,18,3554,15,0,3,-2,5,0,0.0,2022-02-21 21:55:34.180670
+28,AR,Arunachal Pradesh,AR_Arunachal Pradesh,Namsai,2708,28,2663,17,0,6,2,4,0,0.0,2022-02-21 21:55:34.180671
+29,AR,Arunachal Pradesh,AR_Arunachal Pradesh,Pakke Kessang,497,1,496,0,0,0,0,0,0,0.0,2022-02-21 21:55:34.180673
+30,AR,Arunachal Pradesh,AR_Arunachal Pradesh,Papum Pare,22037,46,21886,105,0,3,-12,15,0,0.0,2022-02-21 21:55:34.180649
+31,AR,Arunachal Pradesh,AR_Arunachal Pradesh,Shi Yomi,305,0,305,0,0,0,0,0,0,0.0,2022-02-21 21:55:34.180674
+32,AR,Arunachal Pradesh,AR_Arunachal Pradesh,Siang,440,0,437,3,0,0,0,0,0,0.0,2022-02-21 21:55:34.180675
+33,AR,Arunachal Pradesh,AR_Arunachal Pradesh,Tawang,2909,26,2862,21,0,1,-7,8,0,0.0,2022-02-21 21:55:34.180677
+34,AR,Arunachal Pradesh,AR_Arunachal Pradesh,Tirap,1261,4,1252,5,0,1,1,0,0,0.0,2022-02-21 21:55:34.180678
+35,AR,Arunachal Pradesh,AR_Arunachal Pradesh,Upper Dibang Valley,413,23,388,2,0,0,0,0,0,0.0,2022-02-21 21:55:34.180653
+36,AR,Arunachal Pradesh,AR_Arunachal Pradesh,Upper Siang,1164,10,1153,1,0,1,-9,10,0,0.0,2022-02-21 21:55:34.180680
+37,AR,Arunachal Pradesh,AR_Arunachal Pradesh,Upper Subansiri,2022,3,2012,7,0,0,0,0,0,0.0,2022-02-21 21:55:34.180681
+38,AR,Arunachal Pradesh,AR_Arunachal Pradesh,West Kameng,4266,33,4218,15,0,3,-1,4,0,0.0,2022-02-21 21:55:34.180682
+39,AR,Arunachal Pradesh,AR_Arunachal Pradesh,West Siang,2030,1,2023,6,0,0,0,0,0,0.0,2022-02-21 21:55:34.180684
+40,AS,Assam,AS_Assam,Airport Quarantine,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+41,AS,Assam,AS_Assam,Baksa,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+42,AS,Assam,AS_Assam,Barpeta,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+43,AS,Assam,AS_Assam,Biswanath,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+44,AS,Assam,AS_Assam,Bongaigaon,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+45,AS,Assam,AS_Assam,Cachar,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+46,AS,Assam,AS_Assam,Charaideo,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+47,AS,Assam,AS_Assam,Chirang,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+48,AS,Assam,AS_Assam,Darrang,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+49,AS,Assam,AS_Assam,Dhemaji,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+50,AS,Assam,AS_Assam,Dhubri,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+51,AS,Assam,AS_Assam,Dibrugarh,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+52,AS,Assam,AS_Assam,Dima Hasao,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+53,AS,Assam,AS_Assam,Goalpara,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+54,AS,Assam,AS_Assam,Golaghat,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+55,AS,Assam,AS_Assam,Hailakandi,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+56,AS,Assam,AS_Assam,Hojai,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+57,AS,Assam,AS_Assam,Jorhat,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+58,AS,Assam,AS_Assam,Kamrup,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+59,AS,Assam,AS_Assam,Kamrup Metropolitan,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+60,AS,Assam,AS_Assam,Karbi Anglong,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+61,AS,Assam,AS_Assam,Karimganj,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+62,AS,Assam,AS_Assam,Kokrajhar,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+63,AS,Assam,AS_Assam,Lakhimpur,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+64,AS,Assam,AS_Assam,Majuli,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+65,AS,Assam,AS_Assam,Morigaon,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+66,AS,Assam,AS_Assam,Nagaon,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+67,AS,Assam,AS_Assam,Nalbari,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+68,AS,Assam,AS_Assam,Other State,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+69,AS,Assam,AS_Assam,Sivasagar,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+70,AS,Assam,AS_Assam,Sonitpur,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+71,AS,Assam,AS_Assam,South Salmara Mankachar,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+72,AS,Assam,AS_Assam,Tinsukia,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+73,AS,Assam,AS_Assam,Udalguri,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+74,AS,Assam,AS_Assam,Unknown,723977,1833,715511,6633,0,28,-29,55,2,0.0,2022-02-22 11:55:25.457657
+75,AS,Assam,AS_Assam,West Karbi Anglong,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+76,BR,Bihar,BR_Bihar,Araria,16105,5,15960,140,0,2,1,1,0,0.0,2022-02-21 21:55:41.294089
+77,BR,Bihar,BR_Bihar,Arwal,8217,6,8102,109,0,0,-2,2,0,0.0,2022-02-21 21:55:41.294099
+78,BR,Bihar,BR_Bihar,Aurangabad,21279,8,21192,79,0,0,-2,2,0,0.0,2022-02-21 21:55:41.294101
+79,BR,Bihar,BR_Bihar,Banka,8763,7,8643,113,0,1,-2,3,0,0.0,2022-02-21 21:55:41.294102
+80,BR,Bihar,BR_Bihar,Begusarai,31404,9,30832,563,0,3,2,1,0,0.0,2022-02-21 21:55:41.294103
+81,BR,Bihar,BR_Bihar,Bhagalpur,28966,5,28599,362,0,0,-2,2,0,0.0,2022-02-21 21:55:41.294105
+82,BR,Bihar,BR_Bihar,Bhojpur,11915,10,11665,240,0,0,-8,8,0,0.0,2022-02-21 21:55:41.294106
+83,BR,Bihar,BR_Bihar,Buxar,10373,11,10143,219,0,0,-3,3,0,0.0,2022-02-21 21:55:41.294107
+84,BR,Bihar,BR_Bihar,Darbhanga,13489,10,13108,371,0,0,-3,3,0,0.0,2022-02-21 21:55:41.294111
+85,BR,Bihar,BR_Bihar,East Champaran,21063,12,20515,536,0,1,-2,3,0,0.0,2022-02-21 21:55:41.294134
+86,BR,Bihar,BR_Bihar,Gaya,37156,10,36773,373,0,1,-2,3,0,0.0,2022-02-21 21:55:41.294112
+87,BR,Bihar,BR_Bihar,Gopalganj,17836,14,17562,260,0,0,-2,2,0,0.0,2022-02-21 21:55:41.294113
+88,BR,Bihar,BR_Bihar,Jamui,11005,2,10883,120,0,0,-1,1,0,0.0,2022-02-21 21:55:41.294115
+89,BR,Bihar,BR_Bihar,Jehanabad,11846,1,11601,244,0,1,0,1,0,0.0,2022-02-21 21:55:41.294116
+90,BR,Bihar,BR_Bihar,Kaimur,5638,2,5489,147,0,0,0,0,0,0.0,2022-02-21 21:55:41.294118
+91,BR,Bihar,BR_Bihar,Katihar,19908,6,19633,269,0,0,0,0,0,0.0,2022-02-21 21:55:41.294119
+92,BR,Bihar,BR_Bihar,Khagaria,10661,0,10496,165,0,1,0,1,0,0.0,2022-02-21 21:55:41.294120
+93,BR,Bihar,BR_Bihar,Kishanganj,11292,3,11182,107,0,0,0,0,0,0.0,2022-02-21 21:55:41.294121
+94,BR,Bihar,BR_Bihar,Lakhisarai,8604,2,8499,103,0,0,0,0,0,0.0,2022-02-21 21:55:41.294123
+95,BR,Bihar,BR_Bihar,Madhepura,15078,13,14950,115,0,4,2,2,0,0.0,2022-02-21 21:55:41.294124
+96,BR,Bihar,BR_Bihar,Madhubani,20075,7,19679,389,0,1,0,1,0,0.0,2022-02-21 21:55:41.294125
+97,BR,Bihar,BR_Bihar,Munger,17839,7,17559,273,0,1,1,0,0,0.0,2022-02-21 21:55:41.294127
+98,BR,Bihar,BR_Bihar,Muzaffarpur,36146,16,35501,629,0,0,0,0,0,0.0,2022-02-21 21:55:41.294128
+99,BR,Bihar,BR_Bihar,Nalanda,25486,3,25009,474,0,0,-1,1,0,0.0,2022-02-21 21:55:41.294129
+100,BR,Bihar,BR_Bihar,Nawada,11068,8,10802,258,0,1,1,0,0,0.0,2022-02-21 21:55:41.294130
+101,BR,Bihar,BR_Bihar,Patna,180356,205,177311,2840,0,7,-30,37,0,0.0,2022-02-21 21:55:41.294133
+102,BR,Bihar,BR_Bihar,Purnia,27952,22,27698,232,0,2,-4,6,0,0.0,2022-02-21 21:55:41.294135
+103,BR,Bihar,BR_Bihar,Rohtas,15439,5,15160,274,0,0,-3,3,0,0.0,2022-02-21 21:55:41.294136
+104,BR,Bihar,BR_Bihar,Saharsa,20143,34,19912,197,0,0,-13,13,0,0.0,2022-02-21 21:55:41.294138
+105,BR,Bihar,BR_Bihar,Samastipur,24993,26,24707,260,0,0,-12,12,0,0.0,2022-02-21 21:55:41.294139
+106,BR,Bihar,BR_Bihar,Saran,26162,8,25894,260,0,1,-3,4,0,0.0,2022-02-21 21:55:41.294140
+107,BR,Bihar,BR_Bihar,Sheikhpura,8020,5,7910,105,0,0,-2,2,0,0.0,2022-02-21 21:55:41.294141
+108,BR,Bihar,BR_Bihar,Sheohar,4731,1,4678,52,0,0,0,0,0,0.0,2022-02-21 21:55:41.294142
+109,BR,Bihar,BR_Bihar,Sitamarhi,10536,11,10395,130,0,4,1,3,0,0.0,2022-02-21 21:55:41.294144
+110,BR,Bihar,BR_Bihar,Siwan,16521,10,16224,287,0,0,-3,3,0,0.0,2022-02-21 21:55:41.294145
+111,BR,Bihar,BR_Bihar,Supaul,18214,18,18039,157,0,0,-2,2,0,0.0,2022-02-21 21:55:41.294146
+112,BR,Bihar,BR_Bihar,Vaishali,22414,10,21996,408,0,1,-1,2,0,0.0,2022-02-21 21:55:41.294148
+113,BR,Bihar,BR_Bihar,West Champaran,23020,28,22597,395,0,2,-2,4,0,0.0,2022-02-21 21:55:41.294131
+114,CT,Chhattisgarh,CT_Chhattisgarh,Balod,29390,63,28919,408,0,1,-13,14,0,0.0,2022-02-21 21:55:47.841047
+115,CT,Chhattisgarh,CT_Chhattisgarh,Baloda Bazar,45182,162,44524,496,0,10,-15,25,0,0.0,2022-02-21 21:55:47.841054
+116,CT,Chhattisgarh,CT_Chhattisgarh,Balrampur,22220,143,21956,121,0,15,-46,61,0,0.0,2022-02-21 21:55:47.841074
+117,CT,Chhattisgarh,CT_Chhattisgarh,Bametara,21605,220,21137,248,0,51,21,30,0,0.0,2022-02-21 21:55:47.841048
+118,CT,Chhattisgarh,CT_Chhattisgarh,Bastar,24104,61,23844,199,0,7,-13,20,0,0.0,2022-02-21 21:55:47.841076
+119,CT,Chhattisgarh,CT_Chhattisgarh,Bijapur,9747,56,9634,57,0,2,-39,41,0,0.0,2022-02-21 21:55:47.841085
+120,CT,Chhattisgarh,CT_Chhattisgarh,Bilaspur,75707,206,74265,1236,0,14,-37,51,0,0.0,2022-02-21 21:55:47.841060
+121,CT,Chhattisgarh,CT_Chhattisgarh,Dakshin Bastar Dantewada,12098,9,12062,27,0,0,-5,5,0,0.0,2022-02-21 21:55:47.841079
+122,CT,Chhattisgarh,CT_Chhattisgarh,Dhamtari,31552,120,30872,560,0,3,-20,23,0,0.0,2022-02-21 21:55:47.841052
+123,CT,Chhattisgarh,CT_Chhattisgarh,Durg,116002,178,113929,1895,0,10,-43,53,0,0.0,2022-02-21 21:55:47.841021
+124,CT,Chhattisgarh,CT_Chhattisgarh,Gariaband,20546,7,20343,196,0,1,-4,5,0,0.0,2022-02-21 21:55:47.841059
+125,CT,Chhattisgarh,CT_Chhattisgarh,Gaurela Pendra Marwahi,13157,33,12976,148,0,0,-8,8,0,0.0,2022-02-21 21:55:47.841068
+126,CT,Chhattisgarh,CT_Chhattisgarh,Janjgir Champa,63438,51,62525,862,0,4,-9,13,0,0.0,2022-02-21 21:55:47.841065
+127,CT,Chhattisgarh,CT_Chhattisgarh,Jashpur,31365,42,31108,215,0,3,-12,15,0,0.0,2022-02-21 21:55:47.841075
+128,CT,Chhattisgarh,CT_Chhattisgarh,Kabeerdham,24687,93,24325,269,0,6,-31,37,0,0.0,2022-02-21 21:55:47.841050
+129,CT,Chhattisgarh,CT_Chhattisgarh,Kondagaon,15855,115,15638,102,0,8,-43,51,0,0.0,2022-02-21 21:55:47.841078
+130,CT,Chhattisgarh,CT_Chhattisgarh,Korba,62917,174,62143,600,0,13,-25,38,0,0.0,2022-02-21 21:55:47.841064
+131,CT,Chhattisgarh,CT_Chhattisgarh,Koriya,29392,75,29136,181,0,9,-2,11,0,0.0,2022-02-21 21:55:47.841071
+132,CT,Chhattisgarh,CT_Chhattisgarh,Mahasamund,33016,42,32599,375,0,10,0,10,0,0.0,2022-02-21 21:55:47.841057
+133,CT,Chhattisgarh,CT_Chhattisgarh,Mungeli,25949,113,25667,169,0,6,-27,33,0,0.0,2022-02-21 21:55:47.841066
+134,CT,Chhattisgarh,CT_Chhattisgarh,Narayanpur,4925,31,4880,14,0,0,-6,6,0,0.0,2022-02-21 21:55:47.841084
+135,CT,Chhattisgarh,CT_Chhattisgarh,Other State,852,0,721,131,0,0,0,0,0,0.0,2022-02-21 21:55:47.841087
+136,CT,Chhattisgarh,CT_Chhattisgarh,Raigarh,73350,70,72286,994,0,9,7,1,1,0.0,2022-02-21 21:55:47.841062
+137,CT,Chhattisgarh,CT_Chhattisgarh,Raipur,193449,372,189842,3235,0,38,-101,139,0,0.0,2022-02-21 21:55:47.841051
+138,CT,Chhattisgarh,CT_Chhattisgarh,Rajnandgaon,62984,103,62334,547,0,11,-2,13,0,0.0,2022-02-21 21:55:47.841045
+139,CT,Chhattisgarh,CT_Chhattisgarh,Sukma,8968,0,8947,21,0,0,0,0,0,0.0,2022-02-21 21:55:47.841080
+140,CT,Chhattisgarh,CT_Chhattisgarh,Surajpur,31776,182,31365,229,0,14,-24,38,0,0.0,2022-02-21 21:55:47.841072
+141,CT,Chhattisgarh,CT_Chhattisgarh,Surguja,37476,99,37127,250,0,8,-12,20,0,0.0,2022-02-21 21:55:47.841069
+142,CT,Chhattisgarh,CT_Chhattisgarh,Uttar Bastar Kanker,27957,67,27653,237,0,11,-8,19,0,0.0,2022-02-21 21:55:47.841082
+143,GA,Goa,GA_Goa,North Goa,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+144,GA,Goa,GA_Goa,Other State,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+145,GA,Goa,GA_Goa,South Goa,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+146,GA,Goa,GA_Goa,Unknown,244762,579,240391,3792,0,49,9,40,0,0.0,2022-02-22 11:55:25.457657
+147,GJ,Gujarat,GJ_Gujarat,Ahmedabad,383222,1633,377972,3617,0,132,-230,361,1,0.0,2022-02-21 23:55:28.835009
+148,GJ,Gujarat,GJ_Gujarat,Amreli,12887,9,12773,105,0,1,-7,8,0,0.0,2022-02-21 23:55:28.835009
+149,GJ,Gujarat,GJ_Gujarat,Anand,15393,64,15276,53,0,12,-7,19,0,0.0,2022-02-21 23:55:28.835009
+150,GJ,Gujarat,GJ_Gujarat,Aravalli,5720,63,5576,81,0,9,1,8,0,0.0,2022-02-21 23:55:28.835009
+151,GJ,Gujarat,GJ_Gujarat,Banaskantha,18224,199,17859,166,0,19,-1,20,0,0.0,2022-02-21 23:55:28.835009
+152,GJ,Gujarat,GJ_Gujarat,Bharuch,17262,23,17090,149,0,2,-6,8,0,0.0,2022-02-21 23:55:28.835009
+153,GJ,Gujarat,GJ_Gujarat,Bhavnagar,29219,27,28831,361,0,6,-5,11,0,0.0,2022-02-21 23:55:28.835009
+154,GJ,Gujarat,GJ_Gujarat,Botad,2356,0,2308,48,0,0,0,0,0,0.0,2022-02-21 23:55:28.835009
+155,GJ,Gujarat,GJ_Gujarat,Chhota Udaipur,3753,17,3698,38,0,1,-3,4,0,0.0,2022-02-21 23:55:28.835009
+156,GJ,Gujarat,GJ_Gujarat,Dahod,11253,45,11163,45,0,7,5,2,0,0.0,2022-02-21 23:55:28.835009
+157,GJ,Gujarat,GJ_Gujarat,Dang,1199,27,1154,18,0,0,-5,5,0,0.0,2022-02-21 23:55:28.835009
+158,GJ,Gujarat,GJ_Gujarat,Devbhumi Dwarka,5176,15,5072,89,0,0,-6,6,0,0.0,2022-02-21 23:55:28.835009
+159,GJ,Gujarat,GJ_Gujarat,Gandhinagar,34905,270,34413,222,0,18,-19,37,0,0.0,2022-02-21 23:55:28.835009
+160,GJ,Gujarat,GJ_Gujarat,Gir Somnath,9741,6,9668,67,0,2,1,1,0,0.0,2022-02-21 23:55:28.835009
+161,GJ,Gujarat,GJ_Gujarat,Jamnagar,41811,58,41235,518,0,1,-11,10,2,0.0,2022-02-21 23:55:28.835009
+162,GJ,Gujarat,GJ_Gujarat,Junagadh,22756,4,22480,272,0,1,-2,3,0,0.0,2022-02-21 23:55:28.835009
+163,GJ,Gujarat,GJ_Gujarat,Kheda,14659,50,14555,54,0,7,-13,20,0,0.0,2022-02-21 23:55:28.835009
+164,GJ,Gujarat,GJ_Gujarat,Kutch,18964,49,18769,146,0,2,-6,8,0,0.0,2022-02-21 23:55:28.835009
+165,GJ,Gujarat,GJ_Gujarat,Mahisagar,8862,16,8771,75,0,0,-5,5,0,0.0,2022-02-21 23:55:28.835009
+166,GJ,Gujarat,GJ_Gujarat,Mehsana,30967,79,30694,194,0,1,-22,23,0,0.0,2022-02-21 23:55:28.835009
+167,GJ,Gujarat,GJ_Gujarat,Morbi,10736,41,10600,95,0,7,1,6,0,0.0,2022-02-21 23:55:28.835009
+168,GJ,Gujarat,GJ_Gujarat,Narmada,6640,11,6614,15,0,0,-13,13,0,0.0,2022-02-21 23:55:28.835009
+169,GJ,Gujarat,GJ_Gujarat,Navsari,11885,36,11809,40,0,4,-6,10,0,0.0,2022-02-21 23:55:28.835009
+170,GJ,Gujarat,GJ_Gujarat,Panchmahal,13536,41,13412,83,0,0,-11,11,0,0.0,2022-02-21 23:55:28.835009
+171,GJ,Gujarat,GJ_Gujarat,Patan,16196,76,15991,129,0,5,0,5,0,0.0,2022-02-21 23:55:28.835009
+172,GJ,Gujarat,GJ_Gujarat,Porbandar,4184,3,4157,24,0,0,0,0,0,0.0,2022-02-21 23:55:28.835009
+173,GJ,Gujarat,GJ_Gujarat,Rajkot,84467,205,83465,797,0,25,-8,33,0,0.0,2022-02-21 23:55:28.835009
+174,GJ,Gujarat,GJ_Gujarat,Sabarkantha,11743,39,11542,162,0,2,-9,11,0,0.0,2022-02-21 23:55:28.835009
+175,GJ,Gujarat,GJ_Gujarat,Surat,204838,302,202460,2076,0,15,-40,55,0,0.0,2022-02-21 23:55:28.835009
+176,GJ,Gujarat,GJ_Gujarat,Surendranagar,10067,12,9916,139,0,3,2,1,0,0.0,2022-02-21 23:55:28.835009
+177,GJ,Gujarat,GJ_Gujarat,Tapi,5752,48,5675,29,0,5,-2,7,0,0.0,2022-02-21 23:55:28.835009
+178,GJ,Gujarat,GJ_Gujarat,Vadodara,139551,965,137684,902,0,59,-114,170,3,0.0,2022-02-21 23:55:28.835009
+179,GJ,Gujarat,GJ_Gujarat,Valsad,12823,31,12702,90,0,1,-5,6,0,0.0,2022-02-21 23:55:28.835009
+180,HR,Haryana,HR_Haryana,Ambala,40673,132,40000,541,0,5,-11,16,0,0.0,2022-02-21T23:55:32.953098+05:30
+181,HR,Haryana,HR_Haryana,Bhiwani,26340,122,25556,662,0,19,-5,24,0,0.0,2022-02-21T23:55:32.953098+05:30
+182,HR,Haryana,HR_Haryana,Charkhi Dadri,7308,77,7087,144,0,11,-12,23,0,0.0,2022-02-21T23:55:32.953098+05:30
+183,HR,Haryana,HR_Haryana,Faridabad,126523,359,125425,739,0,36,-35,71,0,0.0,2022-02-21T23:55:32.953098+05:30
+184,HR,Haryana,HR_Haryana,Fatehabad,20013,43,19472,498,0,6,-5,11,0,0.0,2022-02-21T23:55:32.953098+05:30
+185,HR,Haryana,HR_Haryana,Gurugram,257763,1177,255593,993,0,181,-113,292,2,0.0,2022-02-21T23:55:32.953098+05:30
+186,HR,Haryana,HR_Haryana,Hisar,61643,100,60373,1170,0,2,-35,37,0,0.0,2022-02-21T23:55:32.953098+05:30
+187,HR,Haryana,HR_Haryana,Jhajjar,23255,61,22856,338,0,49,-7,56,0,0.0,2022-02-21T23:55:32.953098+05:30
+188,HR,Haryana,HR_Haryana,Jind,24302,31,23730,541,0,5,-7,12,0,0.0,2022-02-21T23:55:32.953098+05:30
+189,HR,Haryana,HR_Haryana,Kaithal,14179,40,13770,369,0,2,-10,12,0,0.0,2022-02-21T23:55:32.953098+05:30
+190,HR,Haryana,HR_Haryana,Karnal,48060,78,47387,595,0,5,-2,7,0,0.0,2022-02-21T23:55:32.953098+05:30
+191,HR,Haryana,HR_Haryana,Kurukshetra,26756,55,26308,393,0,12,-8,18,2,0.0,2022-02-21T23:55:32.953098+05:30
+192,HR,Haryana,HR_Haryana,Mahendragarh,24580,59,24358,163,0,8,-12,20,0,0.0,2022-02-21T23:55:32.953098+05:30
+193,HR,Haryana,HR_Haryana,Nuh,6043,18,5891,134,0,5,-3,8,0,0.0,2022-02-21T23:55:32.953098+05:30
+194,HR,Haryana,HR_Haryana,Palwal,13156,76,12927,153,0,53,-26,79,0,0.0,2022-02-21T23:55:32.953098+05:30
+195,HR,Haryana,HR_Haryana,Panchkula,43973,57,43504,412,0,4,-19,23,0,0.0,2022-02-21T23:55:32.953098+05:30
+196,HR,Haryana,HR_Haryana,Panipat,36029,44,35322,663,0,1,-14,13,2,0.0,2022-02-21T23:55:32.953098+05:30
+197,HR,Haryana,HR_Haryana,Rewari,24514,141,24149,224,0,18,0,18,0,0.0,2022-02-21T23:55:32.953098+05:30
+198,HR,Haryana,HR_Haryana,Rohtak,31670,151,30985,534,0,16,-16,32,0,0.0,2022-02-21T23:55:32.953098+05:30
+199,HR,Haryana,HR_Haryana,Sirsa,33288,2,32751,535,0,7,-13,20,0,0.0,2022-02-21T23:55:32.953098+05:30
+200,HR,Haryana,HR_Haryana,Sonipat,58317,86,57955,276,0,7,-12,19,0,0.0,2022-02-21T23:55:32.953098+05:30
+201,HR,Haryana,HR_Haryana,Yamunanagar,30499,224,29821,454,0,28,-10,38,0,0.0,2022-02-21T23:55:32.953098+05:30
+202,HP,Himachal Pradesh,HP_Himachal Pradesh,Bilaspur,18122,148,17879,95,0,0,0,0,0,Discrepancies in Delta values at the district level should be expected since State updates are irregular. HP has not been publishing Covid data since 29th January 2022,2022-02-22 11:55:25.457657
+203,HP,Himachal Pradesh,HP_Himachal Pradesh,Chamba,15704,182,15353,169,0,0,0,0,0,Discrepancies in Delta values at the district level should be expected since State updates are irregular. HP has not been publishing Covid data since 29th January 2022,2022-02-22 11:55:25.457657
+204,HP,Himachal Pradesh,HP_Himachal Pradesh,Hamirpur,23083,256,22505,322,0,0,0,0,0,Discrepancies in Delta values at the district level should be expected since State updates are irregular. HP has not been publishing Covid data since 29th January 2022,2022-02-22 11:55:25.457657
+205,HP,Himachal Pradesh,HP_Himachal Pradesh,Kangra,62963,524,61202,1237,0,0,0,0,0,Discrepancies in Delta values at the district level should be expected since State updates are irregular. HP has not been publishing Covid data since 29th January 2022,2022-02-22 11:55:25.457657
+206,HP,Himachal Pradesh,HP_Himachal Pradesh,Kinnaur,4410,21,4349,40,0,0,0,0,0,Discrepancies in Delta values at the district level should be expected since State updates are irregular. HP has not been publishing Covid data since 29th January 2022,2022-02-22 11:55:25.457657
+207,HP,Himachal Pradesh,HP_Himachal Pradesh,Kullu,11920,43,11715,162,0,0,0,0,0,Discrepancies in Delta values at the district level should be expected since State updates are irregular. HP has not been publishing Covid data since 29th January 2022,2022-02-22 11:55:25.457657
+208,HP,Himachal Pradesh,HP_Himachal Pradesh,Lahaul and Spiti,3149,10,3121,18,0,0,0,0,0,Discrepancies in Delta values at the district level should be expected since State updates are irregular. HP has not been publishing Covid data since 29th January 2022,2022-02-22 11:55:25.457657
+209,HP,Himachal Pradesh,HP_Himachal Pradesh,Mandi,38519,145,37877,497,0,0,0,0,0,Discrepancies in Delta values at the district level should be expected since State updates are irregular. HP has not been publishing Covid data since 29th January 2022,2022-02-22 11:55:25.457657
+210,HP,Himachal Pradesh,HP_Himachal Pradesh,Shimla,35381,192,34480,709,0,0,0,0,0,Discrepancies in Delta values at the district level should be expected since State updates are irregular. HP has not been publishing Covid data since 29th January 2022,2022-02-22 11:55:25.457657
+211,HP,Himachal Pradesh,HP_Himachal Pradesh,Sirmaur,19770,94,19456,220,0,0,0,0,0,Discrepancies in Delta values at the district level should be expected since State updates are irregular. HP has not been publishing Covid data since 29th January 2022,2022-02-22 11:55:25.457657
+212,HP,Himachal Pradesh,HP_Himachal Pradesh,Solan,30500,162,30004,334,0,0,0,0,0,Discrepancies in Delta values at the district level should be expected since State updates are irregular. HP has not been publishing Covid data since 29th January 2022,2022-02-22 11:55:25.457657
+213,HP,Himachal Pradesh,HP_Himachal Pradesh,Una,18602,161,18166,275,0,0,0,0,0,Discrepancies in Delta values at the district level should be expected since State updates are irregular. HP has not been publishing Covid data since 29th January 2022,2022-02-22 11:55:25.457657
+214,HP,Himachal Pradesh,HP_Himachal Pradesh,Unknown,144,-308,433,19,0,0,0,0,0,Discrepancies in Delta values at the district level should be expected since State updates are irregular. HP has not been publishing Covid data since 29th January 2022,2022-02-22 11:55:25.457657
+215,JH,Jharkhand,JH_Jharkhand,Bokaro,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+216,JH,Jharkhand,JH_Jharkhand,Chatra,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+217,JH,Jharkhand,JH_Jharkhand,Deoghar,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+218,JH,Jharkhand,JH_Jharkhand,Dhanbad,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+219,JH,Jharkhand,JH_Jharkhand,Dumka,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+220,JH,Jharkhand,JH_Jharkhand,East Singhbhum,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+221,JH,Jharkhand,JH_Jharkhand,Garhwa,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+222,JH,Jharkhand,JH_Jharkhand,Giridih,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+223,JH,Jharkhand,JH_Jharkhand,Godda,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+224,JH,Jharkhand,JH_Jharkhand,Gumla,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+225,JH,Jharkhand,JH_Jharkhand,Hazaribagh,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+226,JH,Jharkhand,JH_Jharkhand,Jamtara,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+227,JH,Jharkhand,JH_Jharkhand,Khunti,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+228,JH,Jharkhand,JH_Jharkhand,Koderma,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+229,JH,Jharkhand,JH_Jharkhand,Latehar,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+230,JH,Jharkhand,JH_Jharkhand,Lohardaga,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+231,JH,Jharkhand,JH_Jharkhand,Pakur,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+232,JH,Jharkhand,JH_Jharkhand,Palamu,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+233,JH,Jharkhand,JH_Jharkhand,Ramgarh,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+234,JH,Jharkhand,JH_Jharkhand,Ranchi,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+235,JH,Jharkhand,JH_Jharkhand,Sahibganj,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+236,JH,Jharkhand,JH_Jharkhand,Saraikela-Kharsawan,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+237,JH,Jharkhand,JH_Jharkhand,Simdega,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+238,JH,Jharkhand,JH_Jharkhand,Unknown,434048,644,428089,5315,0,49,-46,95,0,0.0,2022-02-22 11:55:25.457657
+239,JH,Jharkhand,JH_Jharkhand,West Singhbhum,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+240,KA,Karnataka,KA_Karnataka,Bagalkote,40654,244,40044,366,0,5,-13,18,0,0.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-22T13:04:14.540794+05:30
+241,KA,Karnataka,KA_Karnataka,Ballari,115372,442,113178,1752,2,31,-21,48,4,2.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-22T13:04:14.540794+05:30
+242,KA,Karnataka,KA_Karnataka,Belagavi,99915,445,98473,997,2,11,-85,96,0,2.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-22T13:04:14.540794+05:30
+243,KA,Karnataka,KA_Karnataka,Bengaluru Rural,79243,107,78230,906,0,4,-15,19,0,0.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-22T13:04:14.540794+05:30
+244,KA,Karnataka,KA_Karnataka,Bengaluru Urban,1776173,5634,1753711,16828,1,346,-501,839,8,1.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-22T13:04:14.540794+05:30
+245,KA,Karnataka,KA_Karnataka,Bidar,29787,31,29338,418,4,3,-7,10,0,4.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-22T13:04:14.540794+05:30
+246,KA,Karnataka,KA_Karnataka,Chamarajanagara,43565,174,42869,522,11,9,-16,25,0,11.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-22T13:04:14.540794+05:30
+247,KA,Karnataka,KA_Karnataka,Chikkaballapura,55580,190,54931,459,1,4,-59,63,0,1.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-22T13:04:14.540794+05:30
+248,KA,Karnataka,KA_Karnataka,Chikkamagaluru,57171,134,56631,406,0,8,-27,35,0,0.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-22T13:04:14.540794+05:30
+249,KA,Karnataka,KA_Karnataka,Chitradurga,46116,284,45597,235,0,16,-43,59,0,0.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-22T13:04:14.540794+05:30
+250,KA,Karnataka,KA_Karnataka,Dakshina Kannada,135301,281,133190,1830,10,15,-51,64,2,10.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-22T13:04:14.540794+05:30
+251,KA,Karnataka,KA_Karnataka,Davanagere,57491,75,56794,622,0,7,-14,21,0,0.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-22T13:04:14.540794+05:30
+252,KA,Karnataka,KA_Karnataka,Dharwad,83970,179,82422,1369,2,7,-24,29,2,2.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-22T13:04:14.540794+05:30
+253,KA,Karnataka,KA_Karnataka,Gadag,30562,22,30205,335,0,2,-4,6,0,0.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-22T13:04:14.540794+05:30
+254,KA,Karnataka,KA_Karnataka,Hassan,143761,206,142253,1302,2,21,11,10,0,2.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-22T13:04:14.540794+05:30
+255,KA,Karnataka,KA_Karnataka,Haveri,26814,54,26092,668,0,1,-48,48,1,0.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-22T13:04:14.540794+05:30
+256,KA,Karnataka,KA_Karnataka,Kalaburagi,76498,228,75394,876,0,11,-19,29,1,0.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-22T13:04:14.540794+05:30
+257,KA,Karnataka,KA_Karnataka,Kodagu,49128,220,48558,350,1,28,-56,83,1,1.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-22T13:04:14.540794+05:30
+258,KA,Karnataka,KA_Karnataka,Kolar,62922,79,62180,663,0,2,-11,13,0,0.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-22T13:04:14.540794+05:30
+259,KA,Karnataka,KA_Karnataka,Koppal,41256,166,40553,537,0,6,-13,19,0,0.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-22T13:04:14.540794+05:30
+260,KA,Karnataka,KA_Karnataka,Mandya,101422,137,100582,703,0,7,-24,31,0,0.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-22T13:04:14.540794+05:30
+261,KA,Karnataka,KA_Karnataka,Mysuru,229134,436,226143,2555,0,26,-100,126,0,0.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-22T13:04:14.540794+05:30
+262,KA,Karnataka,KA_Karnataka,Other State,36,0,33,3,0,0,0,0,0,0.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-22T13:04:14.540794+05:30
+263,KA,Karnataka,KA_Karnataka,Raichur,45424,74,44991,359,0,6,-9,15,0,0.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-22T13:04:14.540794+05:30
+264,KA,Karnataka,KA_Karnataka,Ramanagara,29752,58,29348,346,0,12,-5,17,0,0.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-22T13:04:14.540794+05:30
+265,KA,Karnataka,KA_Karnataka,Shivamogga,83149,446,81576,1127,1,34,-19,52,1,1.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-22T13:04:14.540794+05:30
+266,KA,Karnataka,KA_Karnataka,Tumakuru,159642,620,157812,1210,0,20,-32,52,0,0.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-22T13:04:14.540794+05:30
+267,KA,Karnataka,KA_Karnataka,Udupi,95484,186,94758,540,0,21,-9,30,0,0.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-22T13:04:14.540794+05:30
+268,KA,Karnataka,KA_Karnataka,Uttara Kannada,71043,91,70144,808,0,12,-30,42,0,0.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-22T13:04:14.540794+05:30
+269,KA,Karnataka,KA_Karnataka,Vijayapura,40959,88,40357,514,0,3,-18,20,1,0.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-22T13:04:14.540794+05:30
+270,KA,Karnataka,KA_Karnataka,Yadgir,29941,66,29665,210,0,1,-12,13,0,0.0 cases were recorded as Deaths due to Non Covid Reasons,2022-02-22T13:04:14.540794+05:30
+271,KL,Kerala,KL_Kerala,Alappuzha,387109,1108,381006,4995,0,224,-416,634,6,0.0,2022-02-22T13:16:25.793435+05:30
+272,KL,Kerala,KL_Kerala,Ernakulam,873057,16542,849288,7227,0,647,-925,1555,17,0.0,2022-02-22T13:16:25.793435+05:30
+273,KL,Kerala,KL_Kerala,Idukki,205198,5814,198039,1345,0,186,-662,838,10,0.0,2022-02-22T13:16:25.793435+05:30
+274,KL,Kerala,KL_Kerala,Kannur,346301,1336,340747,4218,0,179,-388,562,5,0.0,2022-02-22T13:16:25.793435+05:30
+275,KL,Kerala,KL_Kerala,Kasaragod,165704,2949,161471,1284,0,93,-67,158,2,0.0,2022-02-22T13:16:25.793435+05:30
+276,KL,Kerala,KL_Kerala,Kollam,505455,-39,499444,6050,0,410,-264,668,6,0.0,2022-02-22T13:16:25.793435+05:30
+277,KL,Kerala,KL_Kerala,Kottayam,441582,5121,432312,4149,0,414,-866,1278,2,0.0,2022-02-22T13:16:25.793435+05:30
+278,KL,Kerala,KL_Kerala,Kozhikode,667097,1519,659624,5954,0,353,-474,825,2,0.0,2022-02-22T13:16:25.793435+05:30
+279,KL,Kerala,KL_Kerala,Malappuram,644096,1443,637102,5551,0,222,-719,894,47,0.0,2022-02-22T13:16:25.793435+05:30
+280,KL,Kerala,KL_Kerala,Palakkad,447233,5241,436618,5374,0,151,-321,459,13,0.0,2022-02-22T13:16:25.793435+05:30
+281,KL,Kerala,KL_Kerala,Pathanamthitta,263080,5192,255569,2319,0,222,-301,519,4,0.0,2022-02-22T13:16:25.793435+05:30
+282,KL,Kerala,KL_Kerala,Thiruvananthapuram,696676,7130,681593,7953,0,531,-542,1063,10,0.0,2022-02-22T13:16:25.793435+05:30
+283,KL,Kerala,KL_Kerala,Thrissur,664425,2973,654501,6951,0,333,-781,1112,2,0.0,2022-02-22T13:16:25.793435+05:30
+284,KL,Kerala,KL_Kerala,Wayanad,166046,3400,161743,903,0,104,-359,461,2,0.0,2022-02-22T13:16:25.793435+05:30
+285,MP,Madhya Pradesh,MP_Madhya Pradesh,Agar Malwa,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+286,MP,Madhya Pradesh,MP_Madhya Pradesh,Alirajpur,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+287,MP,Madhya Pradesh,MP_Madhya Pradesh,Anuppur,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+288,MP,Madhya Pradesh,MP_Madhya Pradesh,Ashoknagar,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+289,MP,Madhya Pradesh,MP_Madhya Pradesh,Balaghat,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+290,MP,Madhya Pradesh,MP_Madhya Pradesh,Barwani,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+291,MP,Madhya Pradesh,MP_Madhya Pradesh,Betul,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+292,MP,Madhya Pradesh,MP_Madhya Pradesh,Bhind,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+293,MP,Madhya Pradesh,MP_Madhya Pradesh,Bhopal,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+294,MP,Madhya Pradesh,MP_Madhya Pradesh,Burhanpur,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+295,MP,Madhya Pradesh,MP_Madhya Pradesh,Chhatarpur,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+296,MP,Madhya Pradesh,MP_Madhya Pradesh,Chhindwara,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+297,MP,Madhya Pradesh,MP_Madhya Pradesh,Damoh,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+298,MP,Madhya Pradesh,MP_Madhya Pradesh,Datia,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+299,MP,Madhya Pradesh,MP_Madhya Pradesh,Dewas,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+300,MP,Madhya Pradesh,MP_Madhya Pradesh,Dhar,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+301,MP,Madhya Pradesh,MP_Madhya Pradesh,Dindori,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+302,MP,Madhya Pradesh,MP_Madhya Pradesh,Guna,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+303,MP,Madhya Pradesh,MP_Madhya Pradesh,Gwalior,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+304,MP,Madhya Pradesh,MP_Madhya Pradesh,Harda,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+305,MP,Madhya Pradesh,MP_Madhya Pradesh,Hoshangabad,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+306,MP,Madhya Pradesh,MP_Madhya Pradesh,Indore,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+307,MP,Madhya Pradesh,MP_Madhya Pradesh,Jabalpur,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+308,MP,Madhya Pradesh,MP_Madhya Pradesh,Jhabua,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+309,MP,Madhya Pradesh,MP_Madhya Pradesh,Katni,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+310,MP,Madhya Pradesh,MP_Madhya Pradesh,Khandwa,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+311,MP,Madhya Pradesh,MP_Madhya Pradesh,Khargone,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+312,MP,Madhya Pradesh,MP_Madhya Pradesh,Mandla,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+313,MP,Madhya Pradesh,MP_Madhya Pradesh,Mandsaur,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+314,MP,Madhya Pradesh,MP_Madhya Pradesh,Morena,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+315,MP,Madhya Pradesh,MP_Madhya Pradesh,Narsinghpur,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+316,MP,Madhya Pradesh,MP_Madhya Pradesh,Neemuch,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+317,MP,Madhya Pradesh,MP_Madhya Pradesh,Niwari,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+318,MP,Madhya Pradesh,MP_Madhya Pradesh,Other Region,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+319,MP,Madhya Pradesh,MP_Madhya Pradesh,Panna,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+320,MP,Madhya Pradesh,MP_Madhya Pradesh,Raisen,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+321,MP,Madhya Pradesh,MP_Madhya Pradesh,Rajgarh,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+322,MP,Madhya Pradesh,MP_Madhya Pradesh,Ratlam,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+323,MP,Madhya Pradesh,MP_Madhya Pradesh,Rewa,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+324,MP,Madhya Pradesh,MP_Madhya Pradesh,Sagar,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+325,MP,Madhya Pradesh,MP_Madhya Pradesh,Satna,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+326,MP,Madhya Pradesh,MP_Madhya Pradesh,Sehore,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+327,MP,Madhya Pradesh,MP_Madhya Pradesh,Seoni,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+328,MP,Madhya Pradesh,MP_Madhya Pradesh,Shahdol,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+329,MP,Madhya Pradesh,MP_Madhya Pradesh,Shajapur,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+330,MP,Madhya Pradesh,MP_Madhya Pradesh,Sheopur,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+331,MP,Madhya Pradesh,MP_Madhya Pradesh,Shivpuri,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+332,MP,Madhya Pradesh,MP_Madhya Pradesh,Sidhi,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+333,MP,Madhya Pradesh,MP_Madhya Pradesh,Singrauli,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+334,MP,Madhya Pradesh,MP_Madhya Pradesh,Tikamgarh,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+335,MP,Madhya Pradesh,MP_Madhya Pradesh,Ujjain,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+336,MP,Madhya Pradesh,MP_Madhya Pradesh,Umaria,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+337,MP,Madhya Pradesh,MP_Madhya Pradesh,Unknown,1035287,6897,1017673,10717,0,847,-630,1475,2,0.0,2022-02-22 11:55:25.457657
+338,MP,Madhya Pradesh,MP_Madhya Pradesh,Vidisha,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+339,MH,Maharashtra,MH_Maharashtra,Ahmednagar,376170,1475,367473,7222,11,65,-86,151,0,11 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-22 13:04:17.511330
+340,MH,Maharashtra,MH_Maharashtra,Akola,66084,162,64463,1459,4,9,-2,11,0,4 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-22 13:04:17.511330
+341,MH,Maharashtra,MH_Maharashtra,Amravati,105859,96,104146,1617,2,4,-27,31,0,2 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-22 13:04:17.511330
+342,MH,Maharashtra,MH_Maharashtra,Aurangabad,176159,508,171381,4270,14,14,-448,462,0,14 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-22 13:04:17.511330
+343,MH,Maharashtra,MH_Maharashtra,Beed,109000,75,106053,2872,7,0,-17,17,0,7 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-22 13:04:17.511330
+344,MH,Maharashtra,MH_Maharashtra,Bhandara,67868,95,66642,1131,10,2,-24,26,0,10 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-22 13:04:17.511330
+345,MH,Maharashtra,MH_Maharashtra,Buldhana,91451,143,90493,815,6,51,-91,142,0,6 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-22 13:04:17.511330
+346,MH,Maharashtra,MH_Maharashtra,Chandrapur,98756,134,97035,1587,4,1,-11,12,0,4 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-22 13:04:17.511330
+347,MH,Maharashtra,MH_Maharashtra,Dhule,50544,64,49821,659,11,3,-5,8,0,11 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-22 13:04:17.511330
+348,MH,Maharashtra,MH_Maharashtra,Gadchiroli,36771,256,35824,691,33,35,-26,61,0,33 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-22 13:04:17.511330
+349,MH,Maharashtra,MH_Maharashtra,Gondia,45371,53,44739,579,7,1,-2,3,0,7 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-22 13:04:17.511330
+350,MH,Maharashtra,MH_Maharashtra,Hingoli,22129,37,21580,512,1,0,-8,8,0,1 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-22 13:04:17.511330
+351,MH,Maharashtra,MH_Maharashtra,Jalgaon,149411,101,146583,2727,33,5,-14,19,0,33 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-22 13:04:17.511330
+352,MH,Maharashtra,MH_Maharashtra,Jalna,66248,17,65008,1223,1,1,-7,8,0,1 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-22 13:04:17.511330
+353,MH,Maharashtra,MH_Maharashtra,Kolhapur,220333,262,214174,5897,5,4,-12,16,0,5 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-22 13:04:17.511330
+354,MH,Maharashtra,MH_Maharashtra,Latur,104806,91,102234,2481,6,10,-37,47,0,6 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-22 13:04:17.511330
+355,MH,Maharashtra,MH_Maharashtra,Mumbai,1054739,4267,1033784,16688,2852,96,-93,188,1,2852 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-22 13:04:17.511330
+356,MH,Maharashtra,MH_Maharashtra,Nagpur,575792,1326,565323,9143,71,57,-275,332,0,71 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-22 13:04:17.511330
+357,MH,Maharashtra,MH_Maharashtra,Nanded,102593,93,99806,2694,7,2,-13,15,0,7 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-22 13:04:17.511330
+358,MH,Maharashtra,MH_Maharashtra,Nandurbar,46508,136,45418,954,3,0,-25,25,0,3 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-22 13:04:17.511330
+359,MH,Maharashtra,MH_Maharashtra,Nashik,472271,734,462643,8894,1,54,-124,178,0,1 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-22 13:04:17.511330
+360,MH,Maharashtra,MH_Maharashtra,Osmanabad,75022,232,72768,2022,116,1,1,0,0,116 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-22 13:04:17.511330
+361,MH,Maharashtra,MH_Maharashtra,Other State,144,2,31,111,2,0,0,0,0,2 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-22 13:04:17.511330
+362,MH,Maharashtra,MH_Maharashtra,Palghar,163311,199,159721,3391,15,5,-21,26,0,15 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-22 13:04:17.511330
+363,MH,Maharashtra,MH_Maharashtra,Parbhani,58455,56,57146,1253,20,0,-7,7,0,20 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-22 13:04:17.511330
+364,MH,Maharashtra,MH_Maharashtra,Pune,1447786,4768,1422904,20114,350,219,-325,544,0,350 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-22 13:04:17.511330
+365,MH,Maharashtra,MH_Maharashtra,Raigad,243903,344,238627,4932,7,15,-28,43,0,7 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-22 13:04:17.511330
+366,MH,Maharashtra,MH_Maharashtra,Ratnagiri,84337,115,81683,2539,5,7,2,5,0,5 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-22 13:04:17.511330
+367,MH,Maharashtra,MH_Maharashtra,Sangli,226805,215,220935,5655,9,49,-36,85,0,9 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-22 13:04:17.511330
+368,MH,Maharashtra,MH_Maharashtra,Satara,277899,383,270851,6665,34,16,-12,27,1,34 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-22 13:04:17.511330
+369,MH,Maharashtra,MH_Maharashtra,Sindhudurg,57086,215,55362,1509,15,1,-4,5,0,15 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-22 13:04:17.511330
+370,MH,Maharashtra,MH_Maharashtra,Solapur,226799,323,220729,5747,117,16,-13,27,2,117 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-22 13:04:17.511330
+371,MH,Maharashtra,MH_Maharashtra,Thane,765723,1029,752848,11846,35,54,-46,100,0,35 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-22 13:04:17.511330
+372,MH,Maharashtra,MH_Maharashtra,Wardha,65609,313,64062,1234,170,1,-25,26,0,170 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-22 13:04:17.511330
+373,MH,Maharashtra,MH_Maharashtra,Washim,45560,96,44826,638,3,4,-26,30,0,3 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-22 13:04:17.511330
+374,MH,Maharashtra,MH_Maharashtra,Yavatmal,81935,101,80019,1815,4,4,-7,11,0,4 cases were recorded as Deaths due to Non Covid Reasons /Migrated / Others,2022-02-22 13:04:17.511330
+375,MN,Manipur,MN_Manipur,Bishnupur,9783,9579,0,204,0,7,7,0,0,0.0,2022-02-21 19:55:47.819017
+376,MN,Manipur,MN_Manipur,Chandel,2683,2641,0,42,0,1,1,0,0,0.0,2022-02-21 19:55:47.819038
+377,MN,Manipur,MN_Manipur,Churachandpur,11021,10854,0,167,0,0,0,0,0,0.0,2022-02-21 19:55:47.819039
+378,MN,Manipur,MN_Manipur,Imphal East,30309,29803,0,506,0,24,23,0,1,0.0,2022-02-21 19:55:47.819041
+379,MN,Manipur,MN_Manipur,Imphal West,48517,47817,0,700,0,25,25,0,0,0.0,2022-02-21 19:55:47.819042
+380,MN,Manipur,MN_Manipur,Jiribam,1109,1102,0,7,0,0,0,0,0,0.0,2022-02-21 19:55:47.819043
+381,MN,Manipur,MN_Manipur,Kakching,6851,6730,0,121,0,0,0,0,0,0.0,2022-02-21 19:55:47.819045
+382,MN,Manipur,MN_Manipur,Kamjong,1032,1027,0,5,0,0,0,0,0,0.0,2022-02-21 19:55:47.819046
+383,MN,Manipur,MN_Manipur,Kangpokpi,3116,3050,0,66,0,2,2,0,0,0.0,2022-02-21 19:55:47.819046
+384,MN,Manipur,MN_Manipur,Noney,1149,1144,0,5,0,0,0,0,0,0.0,2022-02-21 19:55:47.819049
+385,MN,Manipur,MN_Manipur,Pherzawl,465,465,0,0,0,0,0,0,0,0.0,2022-02-21 19:55:47.819050
+386,MN,Manipur,MN_Manipur,Senapati,2468,2456,0,12,0,0,0,0,0,0.0,2022-02-21 19:55:47.819052
+387,MN,Manipur,MN_Manipur,Tamenglong,3460,3444,0,16,0,0,0,0,0,0.0,2022-02-21 19:55:47.819053
+388,MN,Manipur,MN_Manipur,Tengnoupal,1188,1174,0,14,0,0,0,0,0,0.0,2022-02-21 19:55:47.819054
+389,MN,Manipur,MN_Manipur,Thoubal,10112,9925,0,187,0,8,8,0,0,0.0,2022-02-21 19:55:47.819056
+390,MN,Manipur,MN_Manipur,Ukhrul,3243,3194,0,49,0,6,6,0,0,0.0,2022-02-21 19:55:47.819057
+391,ML,Meghalaya,ML_Meghalaya,East Garo Hills,2027,9,2002,16,0,1,-3,4,0,0.0,2022-02-22T13:04:19.219415+05:30
+392,ML,Meghalaya,ML_Meghalaya,East Jaintia Hills,2586,12,2540,34,0,3,-2,4,1,0.0,2022-02-22T13:04:19.219415+05:30
+393,ML,Meghalaya,ML_Meghalaya,East Khasi Hills,46952,145,45741,1066,0,5,-6,9,2,0.0,2022-02-22T13:04:19.219415+05:30
+394,ML,Meghalaya,ML_Meghalaya,Eastern West Khasi Hills,134,11,117,6,0,0,-4,4,0,0.0,2022-02-22T13:04:19.219415+05:30
+395,ML,Meghalaya,ML_Meghalaya,North Garo Hills,1845,13,1823,9,0,0,-1,1,0,0.0,2022-02-22T13:04:19.219415+05:30
+396,ML,Meghalaya,ML_Meghalaya,Ri-Bhoi,10252,26,10130,96,0,2,-7,9,0,0.0,2022-02-22T13:04:19.219415+05:30
+397,ML,Meghalaya,ML_Meghalaya,South Garo Hills,1332,5,1315,12,0,0,-2,2,0,0.0,2022-02-22T13:04:19.219415+05:30
+398,ML,Meghalaya,ML_Meghalaya,South West Garo Hills,2073,14,2039,20,0,0,0,0,0,0.0,2022-02-22T13:04:19.219415+05:30
+399,ML,Meghalaya,ML_Meghalaya,South West Khasi Hills,2678,7,2652,19,0,0,0,0,0,0.0,2022-02-22T13:04:19.219415+05:30
+400,ML,Meghalaya,ML_Meghalaya,West Garo Hills,10662,54,10529,79,0,0,-3,3,0,0.0,2022-02-22T13:04:19.219415+05:30
+401,ML,Meghalaya,ML_Meghalaya,West Jaintia Hills,7138,36,6963,139,0,0,0,0,0,0.0,2022-02-22T13:04:19.219415+05:30
+402,ML,Meghalaya,ML_Meghalaya,West Khasi Hills,5625,11,5539,75,0,0,-1,1,0,0.0,2022-02-22T13:04:19.219415+05:30
+403,MZ,Mizoram,MZ_Mizoram,Aizawl,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+404,MZ,Mizoram,MZ_Mizoram,Champhai,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+405,MZ,Mizoram,MZ_Mizoram,Hnahthial,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+406,MZ,Mizoram,MZ_Mizoram,Khawzawl,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+407,MZ,Mizoram,MZ_Mizoram,Kolasib,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+408,MZ,Mizoram,MZ_Mizoram,Lawngtlai,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+409,MZ,Mizoram,MZ_Mizoram,Lunglei,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+410,MZ,Mizoram,MZ_Mizoram,Mamit,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+411,MZ,Mizoram,MZ_Mizoram,Saiha,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+412,MZ,Mizoram,MZ_Mizoram,Saitual,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+413,MZ,Mizoram,MZ_Mizoram,Serchhip,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+414,MZ,Mizoram,MZ_Mizoram,Unknown,207994,9628,197720,646,0,1675,-291,1963,3,0.0,2022-02-22 11:55:25.457657
+415,NL,Nagaland,NL_Nagaland,Dimapur,17209,1198,15542,469,1073,3,-18,21,0,1073 cases were recorded as Non Covid Deaths with Covid19 Positivity,2022-02-21T23:55:38.939688+05:30
+416,NL,Nagaland,NL_Nagaland,Kiphire,272,2,261,9,1,0,0,0,0,1 cases were recorded as Non Covid Deaths with Covid19 Positivity,2022-02-21T23:55:38.939688+05:30
+417,NL,Nagaland,NL_Nagaland,Kohima,10030,291,9609,130,234,0,-11,11,0,234 cases were recorded as Non Covid Deaths with Covid19 Positivity,2022-02-21T23:55:38.939688+05:30
+418,NL,Nagaland,NL_Nagaland,Longleng,312,18,292,2,18,0,0,0,0,18 cases were recorded as Non Covid Deaths with Covid19 Positivity,2022-02-21T23:55:38.939688+05:30
+419,NL,Nagaland,NL_Nagaland,Mokokchung,2477,81,2337,59,71,2,1,1,0,71 cases were recorded as Non Covid Deaths with Covid19 Positivity,2022-02-21T23:55:38.939688+05:30
+420,NL,Nagaland,NL_Nagaland,Mon,1175,24,1137,14,22,0,0,0,0,22 cases were recorded as Non Covid Deaths with Covid19 Positivity,2022-02-21T23:55:38.939688+05:30
+421,NL,Nagaland,NL_Nagaland,Peren,984,28,950,6,19,1,1,0,0,19 cases were recorded as Non Covid Deaths with Covid19 Positivity,2022-02-21T23:55:38.939688+05:30
+422,NL,Nagaland,NL_Nagaland,Phek,632,18,595,19,9,0,-3,3,0,9 cases were recorded as Non Covid Deaths with Covid19 Positivity,2022-02-21T23:55:38.939688+05:30
+423,NL,Nagaland,NL_Nagaland,Tuensang,1191,7,1170,14,3,0,-2,2,0,3 cases were recorded as Non Covid Deaths with Covid19 Positivity,2022-02-21T23:55:38.939688+05:30
+424,NL,Nagaland,NL_Nagaland,Wokha,451,28,412,11,18,0,-2,2,0,18 cases were recorded as Non Covid Deaths with Covid19 Positivity,2022-02-21T23:55:38.939688+05:30
+425,NL,Nagaland,NL_Nagaland,Zunheboto,630,15,599,16,12,0,0,0,0,12 cases were recorded as Non Covid Deaths with Covid19 Positivity,2022-02-21T23:55:38.939688+05:30
+426,OR,Odisha,OR_Odisha,Angul,47830,264,47150,416,0,13,-106,119,0,0.0,2022-02-21 23:55:39.063226
+427,OR,Odisha,OR_Odisha,Balangir,28842,50,28661,131,0,7,2,5,0,0.0,2022-02-21 23:55:39.063226
+428,OR,Odisha,OR_Odisha,Balasore,48746,133,48256,357,0,11,-10,19,2,0.0,2022-02-21 23:55:39.063226
+429,OR,Odisha,OR_Odisha,Bargarh,34501,128,34029,344,0,9,-16,25,0,0.0,2022-02-21 23:55:39.063226
+430,OR,Odisha,OR_Odisha,Bhadrak,29438,108,29157,173,0,5,-20,25,0,0.0,2022-02-21 23:55:39.063226
+431,OR,Odisha,OR_Odisha,Boudh,14546,56,14377,113,0,3,-40,43,0,0.0,2022-02-21 23:55:39.063226
+432,OR,Odisha,OR_Odisha,Cuttack,113549,238,112410,901,0,21,-22,41,2,0.0,2022-02-21 23:55:39.063226
+433,OR,Odisha,OR_Odisha,Deogarh,8504,70,8383,51,0,5,-3,8,0,0.0,2022-02-21 23:55:39.063226
+434,OR,Odisha,OR_Odisha,Dhenkanal,22346,58,22025,263,0,11,1,9,1,0.0,2022-02-21 23:55:39.063226
+435,OR,Odisha,OR_Odisha,Gajapati,12593,129,12381,83,0,30,-4,34,0,0.0,2022-02-21 23:55:39.063226
+436,OR,Odisha,OR_Odisha,Ganjam,36548,104,35935,509,0,7,-6,13,0,0.0,2022-02-21 23:55:39.063226
+437,OR,Odisha,OR_Odisha,Jagatsinghpur,32046,49,31655,342,0,7,-25,32,0,0.0,2022-02-21 23:55:39.063226
+438,OR,Odisha,OR_Odisha,Jajpur,50011,334,49477,200,0,23,-26,49,0,0.0,2022-02-21 23:55:39.063226
+439,OR,Odisha,OR_Odisha,Jharsuguda,28233,110,27942,181,0,13,-6,19,0,0.0,2022-02-21 23:55:39.063226
+440,OR,Odisha,OR_Odisha,Kalahandi,28630,61,28350,219,0,3,-6,9,0,0.0,2022-02-21 23:55:39.063226
+441,OR,Odisha,OR_Odisha,Kandhamal,13496,49,13357,90,0,4,1,3,0,0.0,2022-02-21 23:55:39.063226
+442,OR,Odisha,OR_Odisha,Kendrapara,27714,70,27372,272,0,15,1,13,1,0.0,2022-02-21 23:55:39.063226
+443,OR,Odisha,OR_Odisha,Kendujhar,24207,31,23987,189,0,8,-2,10,0,0.0,2022-02-21 23:55:39.063226
+444,OR,Odisha,OR_Odisha,Khordha,244289,705,241851,1733,0,53,-143,194,2,0.0,2022-02-21 23:55:39.063226
+445,OR,Odisha,OR_Odisha,Koraput,23458,146,23228,84,0,12,-152,164,0,0.0,2022-02-21 23:55:39.063226
+446,OR,Odisha,OR_Odisha,Malkangiri,12858,42,12769,47,0,3,2,1,0,0.0,2022-02-21 23:55:39.063226
+447,OR,Odisha,OR_Odisha,Mayurbhanj,48209,125,47777,307,0,20,-11,31,0,0.0,2022-02-21 23:55:39.063226
+448,OR,Odisha,OR_Odisha,Nabarangapur,27348,47,27210,91,0,8,-6,14,0,0.0,2022-02-21 23:55:39.063226
+449,OR,Odisha,OR_Odisha,Nayagarh,28355,94,28038,223,0,13,-6,19,0,0.0,2022-02-21 23:55:39.063226
+450,OR,Odisha,OR_Odisha,Nuapada,26669,59,26519,91,0,8,-17,25,0,0.0,2022-02-21 23:55:39.063226
+451,OR,Odisha,OR_Odisha,Puri,49957,107,49368,482,0,3,-16,19,0,0.0,2022-02-21 23:55:39.063226
+452,OR,Odisha,OR_Odisha,Rayagada,24676,144,24358,174,0,20,12,8,0,0.0,2022-02-21 23:55:39.063226
+453,OR,Odisha,OR_Odisha,Sambalpur,41699,327,41128,244,0,24,-5,28,1,0.0,2022-02-21 23:55:39.063226
+454,OR,Odisha,OR_Odisha,Subarnapur,16382,82,16238,62,0,0,-10,10,0,0.0,2022-02-21 23:55:39.063226
+455,OR,Odisha,OR_Odisha,Sundargarh,90244,503,89087,654,0,16,-73,83,6,0.0,2022-02-21 23:55:39.063226
+456,PB,Punjab,PB_Punjab,Amritsar,59258,73,57507,1678,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+457,PB,Punjab,PB_Punjab,Barnala,7440,36,7083,321,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+458,PB,Punjab,PB_Punjab,Bathinda,50718,130,49503,1085,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+459,PB,Punjab,PB_Punjab,Faridkot,16670,78,16255,337,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+460,PB,Punjab,PB_Punjab,Fatehgarh Sahib,11811,15,11442,354,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+461,PB,Punjab,PB_Punjab,Fazilka,23287,246,22497,544,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+462,PB,Punjab,PB_Punjab,Ferozepur,17807,39,17238,530,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+463,PB,Punjab,PB_Punjab,Gurdaspur,26866,59,25945,862,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+464,PB,Punjab,PB_Punjab,Hoshiarpur,40644,189,39365,1090,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+465,PB,Punjab,PB_Punjab,Jalandhar,78022,233,76218,1571,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+466,PB,Punjab,PB_Punjab,Kapurthala,21954,80,21295,579,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+467,PB,Punjab,PB_Punjab,Ludhiana,109560,179,107112,2269,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+468,PB,Punjab,PB_Punjab,Mansa,17218,10,16817,391,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+469,PB,Punjab,PB_Punjab,Moga,10964,18,10692,254,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+470,PB,Punjab,PB_Punjab,Pathankot,24379,156,23737,486,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+471,PB,Punjab,PB_Punjab,Patiala,61916,58,60402,1456,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+472,PB,Punjab,PB_Punjab,Rupnagar,17891,61,17378,452,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+473,PB,Punjab,PB_Punjab,S.A.S. Nagar,95329,388,93800,1141,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+474,PB,Punjab,PB_Punjab,Sangrur,14297,13,13551,733,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+475,PB,Punjab,PB_Punjab,Shahid Bhagat Singh Nagar,13370,22,12945,403,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+476,PB,Punjab,PB_Punjab,Sri Muktsar Sahib,22498,100,21861,537,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+477,PB,Punjab,PB_Punjab,Tarn Taran,10848,78,10377,393,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+478,PB,Punjab,PB_Punjab,Unknown,633,-963,1556,40,0,101,-230,320,11,0.0,2022-02-22 11:55:25.457657
+479,RJ,Rajasthan,RJ_Rajasthan,Ajmer,49492,291,48759,442,0,14,-19,33,0,0.0,2022-02-22 11:55:25.457657
+480,RJ,Rajasthan,RJ_Rajasthan,Alwar,84275,336,83619,320,0,31,-19,49,1,0.0,2022-02-22 11:55:25.457657
+481,RJ,Rajasthan,RJ_Rajasthan,BSF Camp,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+482,RJ,Rajasthan,RJ_Rajasthan,Banswara,14477,426,13945,106,0,50,-27,77,0,0.0,2022-02-22 11:55:25.457657
+483,RJ,Rajasthan,RJ_Rajasthan,Baran,15163,98,15001,64,0,8,-28,36,0,0.0,2022-02-22 11:55:25.457657
+484,RJ,Rajasthan,RJ_Rajasthan,Barmer,21397,49,21144,204,0,7,-159,165,1,0.0,2022-02-22 11:55:25.457657
+485,RJ,Rajasthan,RJ_Rajasthan,Bharatpur,31327,134,30921,272,0,0,-3,3,0,0.0,2022-02-22 11:55:25.457657
+486,RJ,Rajasthan,RJ_Rajasthan,Bhilwara,38047,168,37718,161,0,21,-47,68,0,0.0,2022-02-22 11:55:25.457657
+487,RJ,Rajasthan,RJ_Rajasthan,Bikaner,49643,206,48854,583,0,32,-3,33,2,0.0,2022-02-22 11:55:25.457657
+488,RJ,Rajasthan,RJ_Rajasthan,Bundi,9713,20,9638,55,0,2,-2,4,0,0.0,2022-02-22 11:55:25.457657
+489,RJ,Rajasthan,RJ_Rajasthan,Chittorgarh,29291,86,29065,140,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+490,RJ,Rajasthan,RJ_Rajasthan,Churu,20631,140,20377,114,0,1,0,1,0,0.0,2022-02-22 11:55:25.457657
+491,RJ,Rajasthan,RJ_Rajasthan,Dausa,15742,62,15603,77,0,3,-12,15,0,0.0,2022-02-22 11:55:25.457657
+492,RJ,Rajasthan,RJ_Rajasthan,Dholpur,13714,77,13588,49,0,7,-3,10,0,0.0,2022-02-22 11:55:25.457657
+493,RJ,Rajasthan,RJ_Rajasthan,Dungarpur,25457,79,25244,134,0,14,-6,20,0,0.0,2022-02-22 11:55:25.457657
+494,RJ,Rajasthan,RJ_Rajasthan,Evacuees,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+495,RJ,Rajasthan,RJ_Rajasthan,Ganganagar,27969,365,27446,158,0,20,-78,98,0,0.0,2022-02-22 11:55:25.457657
+496,RJ,Rajasthan,RJ_Rajasthan,Hanumangarh,22332,115,22103,114,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+497,RJ,Rajasthan,RJ_Rajasthan,Italians,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+498,RJ,Rajasthan,RJ_Rajasthan,Jaipur,271599,2583,266908,2108,0,191,-376,567,0,0.0,2022-02-22 11:55:25.457657
+499,RJ,Rajasthan,RJ_Rajasthan,Jaisalmer,16993,128,16797,68,0,4,-60,64,0,0.0,2022-02-22 11:55:25.457657
+500,RJ,Rajasthan,RJ_Rajasthan,Jalore,10513,13,10422,78,0,0,-2,2,0,0.0,2022-02-22 11:55:25.457657
+501,RJ,Rajasthan,RJ_Rajasthan,Jhalawar,17608,85,17316,207,0,14,-11,25,0,0.0,2022-02-22 11:55:25.457657
+502,RJ,Rajasthan,RJ_Rajasthan,Jhunjhunu,18981,280,18522,179,0,7,-69,76,0,0.0,2022-02-22 11:55:25.457657
+503,RJ,Rajasthan,RJ_Rajasthan,Jodhpur,140393,259,138972,1162,0,21,-67,88,0,0.0,2022-02-22 11:55:25.457657
+504,RJ,Rajasthan,RJ_Rajasthan,Karauli,8888,169,8635,84,0,16,4,11,1,0.0,2022-02-22 11:55:25.457657
+505,RJ,Rajasthan,RJ_Rajasthan,Kota,69853,307,69069,477,0,22,-2,24,0,0.0,2022-02-22 11:55:25.457657
+506,RJ,Rajasthan,RJ_Rajasthan,Nagaur,23366,275,22893,198,0,36,-30,65,1,0.0,2022-02-22 11:55:25.457657
+507,RJ,Rajasthan,RJ_Rajasthan,Other State,337,0,298,39,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+508,RJ,Rajasthan,RJ_Rajasthan,Pali,35804,137,35370,297,0,8,-8,16,0,0.0,2022-02-22 11:55:25.457657
+509,RJ,Rajasthan,RJ_Rajasthan,Pratapgarh,11800,185,11550,65,0,2,-13,15,0,0.0,2022-02-22 11:55:25.457657
+510,RJ,Rajasthan,RJ_Rajasthan,Rajsamand,22701,431,22093,177,0,4,-67,71,0,0.0,2022-02-22 11:55:25.457657
+511,RJ,Rajasthan,RJ_Rajasthan,Sawai Madhopur,15712,116,15530,66,0,0,-27,27,0,0.0,2022-02-22 11:55:25.457657
+512,RJ,Rajasthan,RJ_Rajasthan,Sikar,37890,200,37326,364,0,11,-68,78,1,0.0,2022-02-22 11:55:25.457657
+513,RJ,Rajasthan,RJ_Rajasthan,Sirohi,17153,202,16863,88,0,8,8,0,0,0.0,2022-02-22 11:55:25.457657
+514,RJ,Rajasthan,RJ_Rajasthan,Tonk,13218,105,13011,102,0,0,-12,12,0,0.0,2022-02-22 11:55:25.457657
+515,RJ,Rajasthan,RJ_Rajasthan,Udaipur,73894,460,72659,775,0,9,-10,19,0,0.0,2022-02-22 11:55:25.457657
+516,RJ,Rajasthan,RJ_Rajasthan,Unknown,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+517,SK,Sikkim,SK_Sikkim,East Sikkim,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+518,SK,Sikkim,SK_Sikkim,North Sikkim,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+519,SK,Sikkim,SK_Sikkim,South Sikkim,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+520,SK,Sikkim,SK_Sikkim,Unknown,39030,119,38470,441,0,3,-21,24,0,0.0,2022-02-22 11:55:25.457657
+521,SK,Sikkim,SK_Sikkim,West Sikkim,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+522,TN,Tamil Nadu,TN_Tamil Nadu,Ariyalur,19872,82,19523,267,0,2,-14,16,0,0.0,2022-02-21T23:55:41.966626+05:30
+523,TN,Tamil Nadu,TN_Tamil Nadu,Chengalpattu,234613,1090,230869,2654,0,93,-110,203,0,0.0,2022-02-21T23:55:41.966626+05:30
+524,TN,Tamil Nadu,TN_Tamil Nadu,Chennai,748999,2690,737253,9056,0,188,-297,485,0,0.0,2022-02-21T23:55:41.966626+05:30
+525,TN,Tamil Nadu,TN_Tamil Nadu,Coimbatore,328973,2073,324288,2612,0,115,-302,417,0,0.0,2022-02-21T23:55:41.966626+05:30
+526,TN,Tamil Nadu,TN_Tamil Nadu,Cuddalore,74157,270,72994,893,0,13,-29,42,0,0.0,2022-02-21T23:55:41.966626+05:30
+527,TN,Tamil Nadu,TN_Tamil Nadu,Dharmapuri,36135,153,35699,283,0,11,-14,25,0,0.0,2022-02-21T23:55:41.966626+05:30
+528,TN,Tamil Nadu,TN_Tamil Nadu,Dindigul,37438,94,36679,665,0,4,-14,18,0,0.0,2022-02-21T23:55:41.966626+05:30
+529,TN,Tamil Nadu,TN_Tamil Nadu,Erode,132458,840,130884,734,0,38,-75,112,1,0.0,2022-02-21T23:55:41.966626+05:30
+530,TN,Tamil Nadu,TN_Tamil Nadu,Kallakurichi,36504,117,36172,215,0,2,-15,17,0,0.0,2022-02-21T23:55:41.966626+05:30
+531,TN,Tamil Nadu,TN_Tamil Nadu,Kancheepuram,94190,365,92523,1302,0,11,-43,54,0,0.0,2022-02-21T23:55:41.966626+05:30
+532,TN,Tamil Nadu,TN_Tamil Nadu,Kanyakumari,86074,500,84490,1084,0,16,-90,106,0,0.0,2022-02-21T23:55:41.966626+05:30
+533,TN,Tamil Nadu,TN_Tamil Nadu,Karur,29713,139,29202,372,0,5,-21,26,0,0.0,2022-02-21T23:55:41.966626+05:30
+534,TN,Tamil Nadu,TN_Tamil Nadu,Krishnagiri,59534,275,58889,370,0,12,-41,53,0,0.0,2022-02-21T23:55:41.966626+05:30
+535,TN,Tamil Nadu,TN_Tamil Nadu,Madurai,90959,140,89584,1235,0,10,-17,27,0,0.0,2022-02-21T23:55:41.966626+05:30
+536,TN,Tamil Nadu,TN_Tamil Nadu,Mayiladuthurai,26476,26,26122,328,0,1,-5,6,0,0.0,2022-02-21T23:55:41.966626+05:30
+537,TN,Tamil Nadu,TN_Tamil Nadu,Nagapattinam,25413,131,24908,374,0,4,-24,28,0,0.0,2022-02-21T23:55:41.966626+05:30
+538,TN,Tamil Nadu,TN_Tamil Nadu,Namakkal,67874,369,66972,533,0,19,-66,85,0,0.0,2022-02-21T23:55:41.966626+05:30
+539,TN,Tamil Nadu,TN_Tamil Nadu,Nilgiris,41851,279,41346,226,0,19,-33,52,0,0.0,2022-02-21T23:55:41.966626+05:30
+540,TN,Tamil Nadu,TN_Tamil Nadu,Perambalur,14447,28,14170,249,0,1,-6,7,0,0.0,2022-02-21T23:55:41.966626+05:30
+541,TN,Tamil Nadu,TN_Tamil Nadu,Pudukkottai,34429,130,33873,426,0,6,-17,23,0,0.0,2022-02-21T23:55:41.966626+05:30
+542,TN,Tamil Nadu,TN_Tamil Nadu,Ramanathapuram,24643,74,24202,367,0,3,-9,12,0,0.0,2022-02-21T23:55:41.966626+05:30
+543,TN,Tamil Nadu,TN_Tamil Nadu,Ranipet,53869,124,52958,787,0,3,-30,33,0,0.0,2022-02-21T23:55:41.966626+05:30
+544,TN,Tamil Nadu,TN_Tamil Nadu,Salem,127170,661,124749,1760,0,32,-105,137,0,0.0,2022-02-21T23:55:41.966626+05:30
+545,TN,Tamil Nadu,TN_Tamil Nadu,Sivaganga,23745,132,23394,219,0,8,-16,24,0,0.0,2022-02-21T23:55:41.966626+05:30
+546,TN,Tamil Nadu,TN_Tamil Nadu,Tenkasi,32720,39,32191,490,0,1,-3,4,0,0.0,2022-02-21T23:55:41.966626+05:30
+547,TN,Tamil Nadu,TN_Tamil Nadu,Thanjavur,92014,321,90655,1038,0,12,-64,76,0,0.0,2022-02-21T23:55:41.966626+05:30
+548,TN,Tamil Nadu,TN_Tamil Nadu,Theni,50580,79,49969,532,0,4,-17,21,0,0.0,2022-02-21T23:55:41.966626+05:30
+549,TN,Tamil Nadu,TN_Tamil Nadu,Thiruvallur,147171,637,144598,1936,0,39,-79,118,0,0.0,2022-02-21T23:55:41.966626+05:30
+550,TN,Tamil Nadu,TN_Tamil Nadu,Thiruvarur,47954,177,47306,471,0,10,-49,59,0,0.0,2022-02-21T23:55:41.966626+05:30
+551,TN,Tamil Nadu,TN_Tamil Nadu,Thoothukkudi,64898,125,64327,446,0,6,-12,18,0,0.0,2022-02-21T23:55:41.966626+05:30
+552,TN,Tamil Nadu,TN_Tamil Nadu,Tiruchirappalli,94775,449,93167,1159,0,22,-93,115,0,0.0,2022-02-21T23:55:41.966626+05:30
+553,TN,Tamil Nadu,TN_Tamil Nadu,Tirunelveli,62704,149,62110,445,0,8,-35,43,0,0.0,2022-02-21T23:55:41.966626+05:30
+554,TN,Tamil Nadu,TN_Tamil Nadu,Tirupathur,35713,53,35027,633,0,7,-4,11,0,0.0,2022-02-21T23:55:41.966626+05:30
+555,TN,Tamil Nadu,TN_Tamil Nadu,Tiruppur,129711,594,128065,1052,0,28,-81,109,0,0.0,2022-02-21T23:55:41.966626+05:30
+556,TN,Tamil Nadu,TN_Tamil Nadu,Tiruvannamalai,66736,214,65838,684,0,13,-34,47,0,0.0,2022-02-21T23:55:41.966626+05:30
+557,TN,Tamil Nadu,TN_Tamil Nadu,Vellore,57136,119,55855,1162,0,4,-10,14,0,0.0,2022-02-21T23:55:41.966626+05:30
+558,TN,Tamil Nadu,TN_Tamil Nadu,Viluppuram,54533,167,54000,366,0,11,-11,22,0,0.0,2022-02-21T23:55:41.966626+05:30
+559,TN,Tamil Nadu,TN_Tamil Nadu,Virudhunagar,56763,124,56085,554,0,7,-20,27,0,0.0,2022-02-21T23:55:41.966626+05:30
+560,TG,Telangana,TG_Telangana,Adilabad,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+561,TG,Telangana,TG_Telangana,Bhadradri Kothagudem,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+562,TG,Telangana,TG_Telangana,Foreign Evacuees,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+563,TG,Telangana,TG_Telangana,Hyderabad,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+564,TG,Telangana,TG_Telangana,Jagtial,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+565,TG,Telangana,TG_Telangana,Jangaon,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+566,TG,Telangana,TG_Telangana,Jayashankar Bhupalapally,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+567,TG,Telangana,TG_Telangana,Jogulamba Gadwal,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+568,TG,Telangana,TG_Telangana,Kamareddy,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+569,TG,Telangana,TG_Telangana,Karimnagar,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+570,TG,Telangana,TG_Telangana,Khammam,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+571,TG,Telangana,TG_Telangana,Komaram Bheem,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+572,TG,Telangana,TG_Telangana,Mahabubabad,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+573,TG,Telangana,TG_Telangana,Mahabubnagar,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+574,TG,Telangana,TG_Telangana,Mancherial,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+575,TG,Telangana,TG_Telangana,Medak,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+576,TG,Telangana,TG_Telangana,Medchal Malkajgiri,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+577,TG,Telangana,TG_Telangana,Mulugu,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+578,TG,Telangana,TG_Telangana,Nagarkurnool,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+579,TG,Telangana,TG_Telangana,Nalgonda,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+580,TG,Telangana,TG_Telangana,Narayanpet,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+581,TG,Telangana,TG_Telangana,Nirmal,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+582,TG,Telangana,TG_Telangana,Nizamabad,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+583,TG,Telangana,TG_Telangana,Other State,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+584,TG,Telangana,TG_Telangana,Peddapalli,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+585,TG,Telangana,TG_Telangana,Rajanna Sircilla,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+586,TG,Telangana,TG_Telangana,Ranga Reddy,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+587,TG,Telangana,TG_Telangana,Sangareddy,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+588,TG,Telangana,TG_Telangana,Siddipet,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+589,TG,Telangana,TG_Telangana,Suryapet,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+590,TG,Telangana,TG_Telangana,Unknown,787063,4787,778167,4109,0,385,-348,733,0,0.0,2022-02-22 11:55:25.457657
+591,TG,Telangana,TG_Telangana,Vikarabad,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+592,TG,Telangana,TG_Telangana,Wanaparthy,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+593,TG,Telangana,TG_Telangana,Warangal Rural,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+594,TG,Telangana,TG_Telangana,Warangal Urban,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+595,TG,Telangana,TG_Telangana,Yadadri Bhuvanagiri,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+596,TR,Tripura,TR_Tripura,Dhalai,8448,12,8396,40,2,8,7,1,0,2 cases were recorded as patient went out of state,2022-02-22 13:04:21.706685
+597,TR,Tripura,TR_Tripura,Gomati,9379,11,9281,87,4,0,-5,5,0,4 cases were recorded as patient went out of state,2022-02-22 13:04:21.706685
+598,TR,Tripura,TR_Tripura,Khowai,5140,2,5082,56,0,0,0,0,0,0 cases were recorded as patient went out of state,2022-02-22 13:04:21.706685
+599,TR,Tripura,TR_Tripura,North Tripura,8798,15,8745,38,7,0,-1,1,0,7 cases were recorded as patient went out of state,2022-02-22 13:04:21.706685
+600,TR,Tripura,TR_Tripura,Sipahijala,7260,10,7163,87,2,0,-1,1,0,2 cases were recorded as patient went out of state,2022-02-22 13:04:21.706685
+601,TR,Tripura,TR_Tripura,South Tripura,11846,7,11782,57,3,1,0,1,0,3 cases were recorded as patient went out of state,2022-02-22 13:04:21.706685
+602,TR,Tripura,TR_Tripura,Unokoti,10056,9,9973,74,4,0,-1,1,0,4 cases were recorded as patient went out of state,2022-02-22 13:04:21.706685
+603,TR,Tripura,TR_Tripura,West Tripura,39918,57,39384,477,43,0,-2,2,0,43 cases were recorded as patient went out of state,2022-02-22 13:04:21.706685
+604,UT,Uttarakhand,UT_Uttarakhand,Almora,16623,1009,15414,200,995,2,-31,33,0,995 cases were recorded as Migrated / Others,2022-02-22T13:04:23.985392+05:30
+605,UT,Uttarakhand,UT_Uttarakhand,Bageshwar,7831,118,7652,61,109,2,-1,3,0,109 cases were recorded as Migrated / Others,2022-02-22T13:04:23.985392+05:30
+606,UT,Uttarakhand,UT_Uttarakhand,Chamoli,15383,464,14854,65,311,1,-41,42,0,311 cases were recorded as Migrated / Others,2022-02-22T13:04:23.985392+05:30
+607,UT,Uttarakhand,UT_Uttarakhand,Champawat,9513,445,9014,54,209,1,1,0,0,209 cases were recorded as Migrated / Others,2022-02-22T13:04:23.985392+05:30
+608,UT,Uttarakhand,UT_Uttarakhand,Dehradun,144948,1019,140241,3688,965,32,-276,305,3,965 cases were recorded as Migrated / Others,2022-02-22T13:04:23.985392+05:30
+609,UT,Uttarakhand,UT_Uttarakhand,Haridwar,64353,1840,61467,1046,1632,17,-15,32,0,1632 cases were recorded as Migrated / Others,2022-02-22T13:04:23.985392+05:30
+610,UT,Uttarakhand,UT_Uttarakhand,Nainital,50538,267,49295,976,179,17,-8,25,0,179 cases were recorded as Migrated / Others,2022-02-22T13:04:23.985392+05:30
+611,UT,Uttarakhand,UT_Uttarakhand,Pauri Garhwal,22899,1748,20820,331,1676,15,-156,171,0,1676 cases were recorded as Migrated / Others,2022-02-22T13:04:23.985392+05:30
+612,UT,Uttarakhand,UT_Uttarakhand,Pithoragarh,12792,313,12293,186,240,0,-10,10,0,240 cases were recorded as Migrated / Others,2022-02-22T13:04:23.985392+05:30
+613,UT,Uttarakhand,UT_Uttarakhand,Rudraprayag,11450,319,11023,108,281,1,-2,3,0,281 cases were recorded as Migrated / Others,2022-02-22T13:04:23.985392+05:30
+614,UT,Uttarakhand,UT_Uttarakhand,Tehri Garhwal,18160,1271,16774,115,1214,1,-1,2,0,1214 cases were recorded as Migrated / Others,2022-02-22T13:04:23.985392+05:30
+615,UT,Uttarakhand,UT_Uttarakhand,Udham Singh Nagar,46685,1129,44790,766,1078,13,13,0,0,1078 cases were recorded as Migrated / Others,2022-02-22T13:04:23.985392+05:30
+616,UT,Uttarakhand,UT_Uttarakhand,Uttarkashi,14148,519,13551,78,503,1,1,0,0,503 cases were recorded as Migrated / Others,2022-02-22T13:04:23.985392+05:30
+617,UP,Uttar Pradesh,UP_Uttar Pradesh,Agra,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+618,UP,Uttar Pradesh,UP_Uttar Pradesh,Aligarh,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+619,UP,Uttar Pradesh,UP_Uttar Pradesh,Ambedkar Nagar,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+620,UP,Uttar Pradesh,UP_Uttar Pradesh,Amethi,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+621,UP,Uttar Pradesh,UP_Uttar Pradesh,Amroha,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+622,UP,Uttar Pradesh,UP_Uttar Pradesh,Auraiya,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+623,UP,Uttar Pradesh,UP_Uttar Pradesh,Ayodhya,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+624,UP,Uttar Pradesh,UP_Uttar Pradesh,Azamgarh,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+625,UP,Uttar Pradesh,UP_Uttar Pradesh,Baghpat,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+626,UP,Uttar Pradesh,UP_Uttar Pradesh,Bahraich,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+627,UP,Uttar Pradesh,UP_Uttar Pradesh,Ballia,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+628,UP,Uttar Pradesh,UP_Uttar Pradesh,Balrampur,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+629,UP,Uttar Pradesh,UP_Uttar Pradesh,Banda,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+630,UP,Uttar Pradesh,UP_Uttar Pradesh,Barabanki,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+631,UP,Uttar Pradesh,UP_Uttar Pradesh,Bareilly,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+632,UP,Uttar Pradesh,UP_Uttar Pradesh,Basti,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+633,UP,Uttar Pradesh,UP_Uttar Pradesh,Bhadohi,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+634,UP,Uttar Pradesh,UP_Uttar Pradesh,Bijnor,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+635,UP,Uttar Pradesh,UP_Uttar Pradesh,Budaun,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+636,UP,Uttar Pradesh,UP_Uttar Pradesh,Bulandshahr,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+637,UP,Uttar Pradesh,UP_Uttar Pradesh,Chandauli,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+638,UP,Uttar Pradesh,UP_Uttar Pradesh,Chitrakoot,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+639,UP,Uttar Pradesh,UP_Uttar Pradesh,Deoria,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+640,UP,Uttar Pradesh,UP_Uttar Pradesh,Etah,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+641,UP,Uttar Pradesh,UP_Uttar Pradesh,Etawah,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+642,UP,Uttar Pradesh,UP_Uttar Pradesh,Farrukhabad,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+643,UP,Uttar Pradesh,UP_Uttar Pradesh,Fatehpur,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+644,UP,Uttar Pradesh,UP_Uttar Pradesh,Firozabad,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+645,UP,Uttar Pradesh,UP_Uttar Pradesh,Gautam Buddha Nagar,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+646,UP,Uttar Pradesh,UP_Uttar Pradesh,Ghaziabad,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+647,UP,Uttar Pradesh,UP_Uttar Pradesh,Ghazipur,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+648,UP,Uttar Pradesh,UP_Uttar Pradesh,Gonda,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+649,UP,Uttar Pradesh,UP_Uttar Pradesh,Gorakhpur,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+650,UP,Uttar Pradesh,UP_Uttar Pradesh,Hamirpur,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+651,UP,Uttar Pradesh,UP_Uttar Pradesh,Hapur,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+652,UP,Uttar Pradesh,UP_Uttar Pradesh,Hardoi,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+653,UP,Uttar Pradesh,UP_Uttar Pradesh,Hathras,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+654,UP,Uttar Pradesh,UP_Uttar Pradesh,Jalaun,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+655,UP,Uttar Pradesh,UP_Uttar Pradesh,Jaunpur,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+656,UP,Uttar Pradesh,UP_Uttar Pradesh,Jhansi,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+657,UP,Uttar Pradesh,UP_Uttar Pradesh,Kannauj,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+658,UP,Uttar Pradesh,UP_Uttar Pradesh,Kanpur Dehat,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+659,UP,Uttar Pradesh,UP_Uttar Pradesh,Kanpur Nagar,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+660,UP,Uttar Pradesh,UP_Uttar Pradesh,Kasganj,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+661,UP,Uttar Pradesh,UP_Uttar Pradesh,Kaushambi,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+662,UP,Uttar Pradesh,UP_Uttar Pradesh,Kushinagar,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+663,UP,Uttar Pradesh,UP_Uttar Pradesh,Lakhimpur Kheri,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+664,UP,Uttar Pradesh,UP_Uttar Pradesh,Lalitpur,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+665,UP,Uttar Pradesh,UP_Uttar Pradesh,Lucknow,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+666,UP,Uttar Pradesh,UP_Uttar Pradesh,Maharajganj,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+667,UP,Uttar Pradesh,UP_Uttar Pradesh,Mahoba,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+668,UP,Uttar Pradesh,UP_Uttar Pradesh,Mainpuri,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+669,UP,Uttar Pradesh,UP_Uttar Pradesh,Mathura,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+670,UP,Uttar Pradesh,UP_Uttar Pradesh,Mau,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+671,UP,Uttar Pradesh,UP_Uttar Pradesh,Meerut,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+672,UP,Uttar Pradesh,UP_Uttar Pradesh,Mirzapur,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+673,UP,Uttar Pradesh,UP_Uttar Pradesh,Moradabad,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+674,UP,Uttar Pradesh,UP_Uttar Pradesh,Muzaffarnagar,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+675,UP,Uttar Pradesh,UP_Uttar Pradesh,Pilibhit,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+676,UP,Uttar Pradesh,UP_Uttar Pradesh,Pratapgarh,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+677,UP,Uttar Pradesh,UP_Uttar Pradesh,Prayagraj,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+678,UP,Uttar Pradesh,UP_Uttar Pradesh,Rae Bareli,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+679,UP,Uttar Pradesh,UP_Uttar Pradesh,Rampur,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+680,UP,Uttar Pradesh,UP_Uttar Pradesh,Saharanpur,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+681,UP,Uttar Pradesh,UP_Uttar Pradesh,Sambhal,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+682,UP,Uttar Pradesh,UP_Uttar Pradesh,Sant Kabir Nagar,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+683,UP,Uttar Pradesh,UP_Uttar Pradesh,Shahjahanpur,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+684,UP,Uttar Pradesh,UP_Uttar Pradesh,Shamli,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+685,UP,Uttar Pradesh,UP_Uttar Pradesh,Shrawasti,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+686,UP,Uttar Pradesh,UP_Uttar Pradesh,Siddharthnagar,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+687,UP,Uttar Pradesh,UP_Uttar Pradesh,Sitapur,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+688,UP,Uttar Pradesh,UP_Uttar Pradesh,Sonbhadra,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+689,UP,Uttar Pradesh,UP_Uttar Pradesh,Sultanpur,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+690,UP,Uttar Pradesh,UP_Uttar Pradesh,Unknown,2064947,6366,2035146,23435,0,457,-424,879,2,0.0,2022-02-22 11:55:25.457657
+691,UP,Uttar Pradesh,UP_Uttar Pradesh,Unnao,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+692,UP,Uttar Pradesh,UP_Uttar Pradesh,Varanasi,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+693,WB,West Bengal,WB_West Bengal,Alipurduar,18875,151,18614,110,0,8,-35,43,0,0.0,2022-02-21T23:55:45.691781+05:30
+694,WB,West Bengal,WB_West Bengal,Bankura,43836,153,43397,286,0,5,-40,45,0,0.0,2022-02-21T23:55:45.691781+05:30
+695,WB,West Bengal,WB_West Bengal,Birbhum,57648,198,57100,350,0,4,-55,59,0,0.0,2022-02-21T23:55:45.691781+05:30
+696,WB,West Bengal,WB_West Bengal,Cooch Behar,33942,129,33707,106,0,4,-34,38,0,0.0,2022-02-21T23:55:45.691781+05:30
+697,WB,West Bengal,WB_West Bengal,Dakshin Dinajpur,23050,121,22736,193,0,11,-22,33,0,0.0,2022-02-21T23:55:45.691781+05:30
+698,WB,West Bengal,WB_West Bengal,Darjeeling,68966,215,68153,598,0,5,-60,64,1,0.0,2022-02-21T23:55:45.691781+05:30
+699,WB,West Bengal,WB_West Bengal,Hooghly,107879,195,106565,1119,0,7,-50,57,0,0.0,2022-02-21T23:55:45.691781+05:30
+700,WB,West Bengal,WB_West Bengal,Howrah,124936,168,123130,1638,0,4,-46,50,0,0.0,2022-02-21T23:55:45.691781+05:30
+701,WB,West Bengal,WB_West Bengal,Jalpaiguri,49547,205,48695,647,0,6,-54,60,0,0.0,2022-02-21T23:55:45.691781+05:30
+702,WB,West Bengal,WB_West Bengal,Jhargram,15535,50,15455,30,0,2,-13,15,0,0.0,2022-02-21T23:55:45.691781+05:30
+703,WB,West Bengal,WB_West Bengal,Kalimpong,8501,44,8399,58,0,1,-13,13,1,0.0,2022-02-21T23:55:45.691781+05:30
+704,WB,West Bengal,WB_West Bengal,Kolkata,446770,694,440435,5641,0,43,-155,197,1,0.0,2022-02-21T23:55:45.691781+05:30
+705,WB,West Bengal,WB_West Bengal,Malda,44395,159,44037,199,0,4,-43,47,0,0.0,2022-02-21T23:55:45.691781+05:30
+706,WB,West Bengal,WB_West Bengal,Murshidabad,41598,102,41140,356,0,4,-25,29,0,0.0,2022-02-21T23:55:45.691781+05:30
+707,WB,West Bengal,WB_West Bengal,Nadia,87548,255,86351,942,0,12,-64,74,2,0.0,2022-02-21T23:55:45.691781+05:30
+708,WB,West Bengal,WB_West Bengal,North 24 Parganas,402757,683,396743,5331,0,41,-158,195,4,0.0,2022-02-21T23:55:45.691781+05:30
+709,WB,West Bengal,WB_West Bengal,Other State,66,0,63,3,0,0,0,0,0,0.0,2022-02-21T23:55:45.691781+05:30
+710,WB,West Bengal,WB_West Bengal,Paschim Bardhaman,75582,148,75002,432,0,5,-40,44,1,0.0,2022-02-21T23:55:45.691781+05:30
+711,WB,West Bengal,WB_West Bengal,Paschim Medinipur,62504,153,61822,529,0,8,-36,44,0,0.0,2022-02-21T23:55:45.691781+05:30
+712,WB,West Bengal,WB_West Bengal,Purba Bardhaman,55362,147,54977,238,0,5,-38,43,0,0.0,2022-02-21T23:55:45.691781+05:30
+713,WB,West Bengal,WB_West Bengal,Purba Medinipur,67795,76,67278,441,0,1,-21,22,0,0.0,2022-02-21T23:55:45.691781+05:30
+714,WB,West Bengal,WB_West Bengal,Purulia,24196,60,24014,122,0,5,-12,17,0,0.0,2022-02-21T23:55:45.691781+05:30
+715,WB,West Bengal,WB_West Bengal,South 24 Parganas,127170,266,125397,1507,0,14,-63,76,1,0.0,2022-02-21T23:55:45.691781+05:30
+716,WB,West Bengal,WB_West Bengal,Uttar Dinajpur,25095,71,24757,267,0,1,-20,21,0,0.0,2022-02-21T23:55:45.691781+05:30
+717,AN,Andaman and Nicobar Islands,AN_Andaman and Nicobar Islands,Nicobars,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+718,AN,Andaman and Nicobar Islands,AN_Andaman and Nicobar Islands,North and Middle Andaman,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+719,AN,Andaman and Nicobar Islands,AN_Andaman and Nicobar Islands,South Andaman,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+720,AN,Andaman and Nicobar Islands,AN_Andaman and Nicobar Islands,Unknown,10008,29,9850,129,0,3,-1,4,0,0.0,2022-02-22 11:55:25.457657
+721,CH,Chandigarh,CH_Chandigarh,Chandigarh,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+722,CH,Chandigarh,CH_Chandigarh,Unknown,91585,216,90207,1162,0,18,-13,30,1,0.0,2022-02-22 11:55:25.457657
+723,DN,Dadra and Nagar Haveli and Daman and Diu,DN_Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+724,DN,Dadra and Nagar Haveli and Daman and Diu,DN_Dadra and Nagar Haveli and Daman and Diu,Daman,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+725,DN,Dadra and Nagar Haveli and Daman and Diu,DN_Dadra and Nagar Haveli and Daman and Diu,Diu,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+726,DN,Dadra and Nagar Haveli and Daman and Diu,DN_Dadra and Nagar Haveli and Daman and Diu,Other State,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+727,DN,Dadra and Nagar Haveli and Daman and Diu,DN_Dadra and Nagar Haveli and Daman and Diu,Unknown,11437,5,11428,4,0,0,-2,2,0,0.0,2022-02-22 11:55:25.457657
+728,DL,Delhi,DL_Delhi,Central Delhi,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+729,DL,Delhi,DL_Delhi,East Delhi,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+730,DL,Delhi,DL_Delhi,New Delhi,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+731,DL,Delhi,DL_Delhi,North Delhi,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+732,DL,Delhi,DL_Delhi,North East Delhi,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+733,DL,Delhi,DL_Delhi,North West Delhi,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+734,DL,Delhi,DL_Delhi,Shahdara,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+735,DL,Delhi,DL_Delhi,South Delhi,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+736,DL,Delhi,DL_Delhi,South East Delhi,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+737,DL,Delhi,DL_Delhi,South West Delhi,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+738,DL,Delhi,DL_Delhi,Unknown,1856517,2281,1828131,26105,0,446,-264,706,4,0.0,2022-02-22 11:55:25.457657
+739,DL,Delhi,DL_Delhi,West Delhi,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+740,JK,Jammu and Kashmir,JK_Jammu and Kashmir,Anantnag,22414,46,22149,219,0,2,-12,14,0,0.0,2022-02-21 19:56:03.526398
+741,JK,Jammu and Kashmir,JK_Jammu and Kashmir,Bandipora,13661,24,13519,118,0,0,-1,1,0,0.0,2022-02-21 19:56:03.526400
+742,JK,Jammu and Kashmir,JK_Jammu and Kashmir,Baramulla,37560,97,37159,304,0,4,-18,22,0,0.0,2022-02-21 19:56:03.526392
+743,JK,Jammu and Kashmir,JK_Jammu and Kashmir,Budgam,34776,39,34500,237,0,0,-22,22,0,0.0,2022-02-21 19:56:03.526394
+744,JK,Jammu and Kashmir,JK_Jammu and Kashmir,Doda,11378,304,10930,144,0,29,-55,84,0,0.0,2022-02-21 19:56:03.526411
+745,JK,Jammu and Kashmir,JK_Jammu and Kashmir,Ganderbal,13626,14,13528,84,0,0,-5,5,0,0.0,2022-02-21 19:56:03.526401
+746,JK,Jammu and Kashmir,JK_Jammu and Kashmir,Jammu,75799,354,74223,1222,0,13,-25,38,0,0.0,2022-02-21 19:56:03.526407
+747,JK,Jammu and Kashmir,JK_Jammu and Kashmir,Kathua,11373,51,11156,166,0,3,-2,5,0,0.0,2022-02-21 19:56:03.526412
+748,JK,Jammu and Kashmir,JK_Jammu and Kashmir,Kishtwar,5871,43,5783,45,0,24,24,0,0,0.0,2022-02-21 19:56:03.526415
+749,JK,Jammu and Kashmir,JK_Jammu and Kashmir,Kulgam,16304,23,16162,119,0,0,-6,5,1,0.0,2022-02-21 19:56:03.526404
+750,JK,Jammu and Kashmir,JK_Jammu and Kashmir,Kupwara,21698,52,21472,174,0,1,-12,13,0,0.0,2022-02-21 19:56:03.526396
+751,JK,Jammu and Kashmir,JK_Jammu and Kashmir,Pulwama,18416,9,18206,201,0,0,-2,2,0,0.0,2022-02-21 19:56:03.526395
+752,JK,Jammu and Kashmir,JK_Jammu and Kashmir,Punch,7729,25,7594,110,0,0,0,0,0,0.0,2022-02-21 19:56:03.526416
+753,JK,Jammu and Kashmir,JK_Jammu and Kashmir,Rajouri,12791,24,12519,248,0,2,-6,8,0,0.0,2022-02-21 19:56:03.526409
+754,JK,Jammu and Kashmir,JK_Jammu and Kashmir,Ramban,8103,82,7952,69,0,1,1,0,0,0.0,2022-02-21 19:56:03.526417
+755,JK,Jammu and Kashmir,JK_Jammu and Kashmir,Reasi,8697,11,8638,48,0,0,-14,14,0,0.0,2022-02-21 19:56:03.526419
+756,JK,Jammu and Kashmir,JK_Jammu and Kashmir,Samba,9074,21,8928,125,0,1,-9,10,0,0.0,2022-02-21 19:56:03.526413
+757,JK,Jammu and Kashmir,JK_Jammu and Kashmir,Shopiyan,6304,21,6223,60,0,0,0,0,0,0.0,2022-02-21 19:56:03.526406
+758,JK,Jammu and Kashmir,JK_Jammu and Kashmir,Srinagar,102115,425,100783,907,0,12,-91,103,0,0.0,2022-02-21 19:56:03.526372
+759,JK,Jammu and Kashmir,JK_Jammu and Kashmir,Udhampur,14721,27,14547,147,0,12,-2,14,0,0.0,2022-02-21 19:56:03.526408
+760,LA,Ladakh,LA_Ladakh,Kargil,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+761,LA,Ladakh,LA_Ladakh,Leh,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+762,LA,Ladakh,LA_Ladakh,Unknown,32,-20,52,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+763,LD,Lakshadweep,LD_Lakshadweep,Lakshadweep,0,0,0,0,0,0,0,0,0,0.0,2022-02-22 11:55:25.457657
+764,LD,Lakshadweep,LD_Lakshadweep,Unknown,11384,32,11300,52,0,6,-10,16,0,0.0,2022-02-22 11:55:25.457657
+765,PY,Puducherry,PY_Puducherry,Karaikal,23015,119,22632,264,0,6,-26,32,0,0.0,2022-02-21 22:56:17.013864
+766,PY,Puducherry,PY_Puducherry,Mahe,6754,18,6681,55,0,0,-2,2,0,0.0,2022-02-21 22:56:17.013864
+767,PY,Puducherry,PY_Puducherry,Puducherry,127337,203,125606,1528,0,15,-25,40,0,0.0,2022-02-21 22:56:17.013864
+768,PY,Puducherry,PY_Puducherry,Yanam,8513,23,8377,113,0,1,-3,4,0,0.0,2022-02-21 22:56:17.013864
